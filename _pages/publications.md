@@ -11,11 +11,11 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 {% include base_path %}
 
-<table border=0 cellspacing="0" cellpadding="0">
+<table border=0 cellspacing="0" cellpadding="0" style="border-collapse: collapse">
 <tbody>
 <tr>
 <td>
-<strong>COPYRIGHT</strong>: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher&rsquo;s website.
+<p style="font-size:20px"><strong>COPYRIGHT</strong>: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher&rsquo;s website.</p>
 </td>
 <td style="width:320px;text-align:center">
 <img alt="" src="https://xusheng-xiao.github.io/images/wordcloud.png" style="height:209px; width:320px" />
@@ -25,7 +25,7 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 </tbody>
 </table>
 
-### 2022
+## 2022
 
 Shao Yang, Yuehan Wang, Yuan Yao, Haoyu Wang, Yanfang (Fanny) Ye, and Xusheng Xiao <br/>
 **DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps** <br/>
@@ -40,9 +40,9 @@ Zhiqiang Xu, Pengcheng Fang, Changlin Liu, Xusheng Xiao, Yu Wen, and Dan Meng <b
 **Graph Summarization on System Audit Logs for Attack Investigation** <br/>
 In Proceedings of the IEEE Symposium on Security and Privacy ([IEEE S & P 2022](https://www.ieee-security.org/TC/SP2022/)), May 2022. \[PDF\]\[[Project Website](https://github.com/ieeesp2021sub/depcomm)\]
 
-Pengcheng Fang*, Peng Gao*, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, and Xusheng Xiao<br/>
+Pengcheng Fang\*, Peng Gao\*, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, and Xusheng Xiao<br/>
 **Back-Propagating System Dependency Impact for Attack Investigation** <br/>
-In Proceedings of the USENIX Security Symposium ([USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)), Boston, MA, USA, Aug 2022. \[PDF\]\[[Project Website](https://github.com/usenixsub/DepImpact)\]\[[Artifact Evaluation]()\]\[[Zenodo Repo](https://zenodo.org/record/5559214#.YWYJT2LMKUk)\] <br/>
+In Proceedings of the USENIX Security Symposium ([USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)), Boston, MA, USA, Aug 2022. \[PDF\]\[[Project Website](https://github.com/usenixsub/DepImpact)\]\[[Artifact Evaluation]()\]\[[Zenodo Repo](https://zenodo.org/record/5559214#.YWYJT2LMKUk)\] 
 * \* The first two authors contribute equally to this work.
 
 Pengcheng Xia, Haoyu Wang, Weihang Su, Zhou Yu, Xiapu Luo, Chao Zhang, Xusheng Xiao, and Guoai Xu<br/>
