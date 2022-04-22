@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Xusheng Xiao"
 title_separator          : "-"
-name                     : &name "Xusheng Xiao"
-description              : &description "personal description"
+name                     : "Xusheng Xiao's Homepage"
+description              : "personal description"
 url                      : https://xusheng-xiao.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xusheng-xiao/xusheng-xiao.github.io"
