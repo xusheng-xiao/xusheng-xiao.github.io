@@ -16,20 +16,24 @@ author_profile: true
 <table border="0" cellpadding="1" cellspacing="1" style="width:560px">
 <tbody>
 <tr>
-<td style="width:31px">&nbsp;</td>
-<td style="width:275px">
-<p>&nbsp;</p>
-<p><span style="font-size:14px"><strong>COPYRIGHT</strong><span style="background-color:transparent; font-family:&quot;times new roman&quot;,times,serif">: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher&rsquo;s website.</span></span></p>
-<p>&nbsp;</p>
+<p><span ><strong>COPYRIGHT</strong><span style="background-color:transparent">: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher&rsquo;s website.</span></span></p>
 </td>
-<td style="width:237px">
-<p class="rtecenter"><img alt="" src="wordcloud.png" style="height:209px; width:320px" /></p>
+<td style="width:237px;text-align:center">
+<p class="rtecenter"><img alt="" src="https://xusheng-xiao.github.io/images/wordcloud.png" style="height:209px; width:320px" /></p>
 <p class="rtecenter"><span style="font-size:14px"><strong>My Publication Word Cloud</strong></span></p>
 </td>
 </tr>
 </tbody>
 </table>
-<hr />
-<p class="rtecenter">
-<span style="font-size:14px">[<a href="#2021">2021</a>] | [<a href="#2020">2020</a>] |&nbsp;<a href="#2019">[2019]</a> |&nbsp;<a href="#2018">[2018]</a>&nbsp; |</span><span style="font-size:14px">&nbsp;</span><span style="font-size:14px"><a href="#2017">[2017]</a>&nbsp; |</span><span style="font-size:14px">&nbsp;&nbsp;</span><span style="font-size:14px"><a href="#2016">[2016]</a>&nbsp; |</span><span style="font-size:14px">&nbsp;[<a href="#2015">2015</a>] |</span><span style="font-size:14px">&nbsp;</span><a href="#2014" style="font-size: 14px;">[Before 2015]</a><span style="font-size:14px">&nbsp;</span><span style="font-size:14px">&nbsp;</span><span style="font-size:14px">|</span><span style="font-size:14px">&nbsp;&nbsp;</span><a href="#patent" style="font-size: 14px;">[Patent]</a></p>
-<hr />
+                                                              |
+<hr/>
+
+
+Shao Yang, Yuehan Wang, Yuan Yao, Haoyu Wang, Yanfang (Fanny) Ye, and Xusheng Xiao
+**DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps**
+<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2022](https://conf.researchr.org/home/icse-2022))</i>i>, May 2022. 
+
+Changlin Liu, Hanlin Wang, Tianming Liu, Diandian Gu, Yun Ma, Haoyu Wang, and Xusheng Xiao
+**Promal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning**
+<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2022](https://conf.researchr.org/home/icse-2022))</i>i>, May 2022. 
+
