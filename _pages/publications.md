@@ -59,26 +59,287 @@ Guosheng Xu, Siyi Li, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xushe
 
 Fei Shao, Rui Xu, Wasif Haque, Jingwei Xu, Ying Zhang, Wei Yang, Yanfang Ye, and Xusheng Xiao<br/>
 **WebEvo: Taming Web Application Evolution via Detecting Semantic Structure Change**<br/> 
-*In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2021)*, Virtual, July 2021. [PDF][Project Website][Artifact Evaluation].
+*In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2021](https://conf.researchr.org/home/issta-2021))*, Virtual, July 2021. \[[PDF](https://xusheng-xiao.github.io/papers/papers/webevo-cr.pdf)\]\[[Project Website](https://github.com/webevoexp/webevo)\]\[[Artifact Evaluation](https://zenodo.org/record/4771549#.YNU2gBNKjzc)\].
 
 Peng Gao, Fei Shao, Xiaoyuan Liu, Xusheng Xiao, Zheng Qin, Fengyuan Xu, Prateek Mittal, Sanjeev Kulkarni, and Dawn Song<br/>
 **Enabling Efficient Cyber Threat Hunting With Cyber Threat Intelligence**<br/>
-*In Proceedings of the 37th IEEE International Conference on Data Engineering (ICDE 2021)*, Virtual, April 2021. [PDF].
+*In Proceedings of the 37th IEEE International Conference on Data Engineering ([ICDE 2021](https://icde2021.gr/))*, Virtual, April 2021. \[[PDF](https://xusheng-xiao.github.io/papers/papers/threatraptor-icde21_0.pdf)\].
 
 Yangyu Hu, Haoyu Wang, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao, and Yao Guo<br/>
 **CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market Policies**<br/>
-I*n Proceedings of the 43rd International Conference on Software Engineering (ICSE 2021)*, Madrid, Spain, May 2021. [PDF]
+*In Proceedings of the 43rd International Conference on Software Engineering ([ICSE 2021](https://conf.researchr.org/home/icse-2021))*, Madrid, Spain, May 2021. \[[PDF](https://xusheng-xiao.github.io/papers/papers/champ_icse2021_cr-submit3.pdf)\]
 
 Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, and Yih-Chun Hu<br/>
 **Making Web 3.0 Connected - A Perspective from Interoperability and Programmability across Blockchains**<br/>
-*IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2021. [PDF]
+*IEEE Transactions on Dependable and Secure Computing ([TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858))*, 2021.
 
 Shifa Zhong, Kai Zhang, Majid Bagheri, Joel G. Burken, April Gu, Baikun Li, Xingmao Ma, Babetta L. Marrone, Zhiyong Jason Ren, Joshua Schrier, Wei Shi, Haoyue Tan, Tianbao Wang, Xu Wang, Bryan M. Wong, Xusheng Xiao, Xiong Yu, Jun-Jie Zhu, and Huichun Zhang<br/>
 **Machine learning: New ideas and tools in Environmental Science and Engineering**<br/>
-*Invited feature article in Environment Science & Technology*, 2021. [DOI][PDF]
+*Invited feature article in Environment Science & Technology*, 2021. \[[DOI](https://doi.org/10.1021/acs.est.1c01339)\]\[[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c01339)\]
 
 Peng Gao, Fei Shao, Xiaoyuan Liu, Xusheng Xiao, Haoyuan Liu, Zheng Qin, Fengyuan Xu, Prateek Mittal, Sanjeev Kulkarni, and Dawn Song<br/>
 **A System for Efficiently Hunting for Cyber Threats in Computer Systems Using Threat Intelligence**<br/>
-*In Proceedings of the 37th IEEE International Conference on Data Engineering (ICDE 2021), Demo Track*, Virtual Event, April 2021. [PDF].
+*In Proceedings of the 37th IEEE International Conference on Data Engineering ([ICDE 2021](https://icde2021.gr/)), Demo Track*, Virtual Event, April 2021. \[[PDF](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf)\].
+
+
+<span style="font-size: 20px;"><a id="2020">2020</a></span>
+
+Jiaping Gui, Ding Li, Zhengzhang Chen, Junghwan Rhee, Xusheng Xiao, Mu Zhang, Kangkook Jee, Zhichun Li, and Haifeng Chen<br/>
+**APTrace: A Responsive System for Agile Enterprise Level Causality Analysis** <br/>
+*In Proceedings of the 36th IEEE International Conference on Data Engineering ([ICDE 2020](https://www.utdallas.edu/icde/)), Industry and Application Track*, Dallas, TX, April 2020. \[[PDF](https://xusheng-xiao.github.io/papers/aptrace-camera-ready.pdf)\]
+
+Yujie Fan, Yanfang Ye, Qian Peng, Jianfei Zhang, Yiming Zhang, Xusheng Xiao, Chuan Shi, Qi Xiong, Fudong Shao, and Liang Zhao<br/>
+**Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market**<br/>
+*In Proceedings of the 20th IEEE International Conference on Data Mining ([ICDM 2020](http://icdm2020.bigke.org/))*, Sorrento, Italy, Nov 2020. \[[PDF](https://xusheng-xiao.github.io/papers/metagraph.pdf)\]
+
+Yiming Zhang, Yujie Fan, Shifu Hou, Yanfang Ye, Xusheng Xiao, Pan Li, Chuan Shi, Liang Zhao, Shouhuai Xu<br/>
+**Cyber-guided Deep Neural Network for Malicious Repository Detection in GitHub**<br/>
+*In Proceedings of the 11th IEEE International Conference on Knowledge Graph ([ICKG 2020](http://ickg2020.bigke.org/))*, Nanjing, China, Aug 2020. \[[PDF](https://xusheng-xiao.github.io/papers/cyber-guided_deep_neural_network.pdf)\]
+
+Peng Gao, Xusheng Xiao, Ding Li, Kangkook Jee, Haifeng Chen, Sanjeev R. Kulkarni, and Prateek Mittal<br/>
+**Querying Streaming System Monitoring Data for Enterprise System Anomaly Detection**<br/>
+*In Proceedings of the 36th IEEE International Conference on Data Engineering ([ICDE 2020](https://www.utdallas.edu/icde/)), Demo Track*, Dallas, TX, April 2020. \[[PDF](https://xusheng-xiao.github.io/papers/saql-demo.pdf)\]
+
+Jian Liu, Xusheng Xiao, Lihua Xu, Liang Dou, and Andy Podgurski<br/>
+**DroidMutator: An Effective Mutation Analysis Tool for Android Applications**<br/>
+*In Proceedings of the 42nd International Conference on Software Engineering  ([ICSE 2020](https://conf.researchr.org/home/icse-2020)), Demo Track*, Seoul, South Korea, May 2020. \[[PDF](https://xusheng-xiao.github.io/papers/icse_tooldemo_2020_droidmutator_1.pdf)\].
+
+
+<span style="font-size: 20px;"><a id="2019">2019</a></span>
+
+Shengqu Xi\*, Shao Yang\*, Xusheng Xiao, Yuan Yao, Yayuan Xiong, Fengyuan Xu, Haoyu Wang, Peng Gao, Zhuotao Liu, Feng Xu, and Jian Lu<br/>
+**DeepIntent : Deep Icon-Behavior Learning for Detecting Intention-Behavior Discrepancy in Mobile Apps**<br/>
+*In Proceedings of the 26th ACM Conference on Computer and Communications Security ([CCS 2019](https://www.sigsac.org/ccs/CCS2019/))*, London, UK, Nov 2019. \[[PDF](https://xusheng-xiao.github.io/papers/deepintent-optimize.pdf)\] (Acceptance Rate: 16.2%, 117 out of 722)
+* \*The first two authors contribute equally to this work.
+
+Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, and Yih-Chun Hu<br/>
+**HyperService: Interoperability and Programmability across Heterogeneous Blockchains** <br/>
+*In Proceedings of the 26th ACM Conference on Computer and Communications Security ([CCS 2019](https://www.sigsac.org/ccs/CCS2019/))*, London, UK, Nov 2019. \[[PDF](https://xusheng-xiao.github.io/papers/hyperservice.pdf)\] (Acceptance Rate: 16.2%, 117 out of 722)
+
+Xusheng Xiao, Xiaoyin Wang, Zhihao Cao, Hanlin Wang, and Peng Gao<br/>
+**IconIntent: Automatic Identification of Sensitive UI Widgets based on Icon Classification for Android Apps** <br/>
+*In Proceedings of the 41st ACM/IEEE International Conference on Software Engineering ([ICSE 2019](https://2019.icse-conferences.org/))*, Montreal, Canada, May 2019. \[[PDF](https://xusheng-xiao.github.io/papers/iconintent-icse2019.pdf)\] (Acceptance Rate: 20.6%, 109 out of 529)
+
+Zhilei Ren, Changlin Liu, Xusheng Xiao, He Jiang and Tao Xie<br/>
+**Root Cause Localization for Unreproducible Builds via Causality Analysis over System Call Tracing** <br/>
+*In Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2019](https://2019.ase-conferences.org/))*, San Diego, CA, USA, Nov 2019. \[[PDF](https://xusheng-xiao.github.io/papers/ase19-main-158.pdf)\] (Acceptance Rate: 20.9%, 93 out of 445)
+
+Haoyu Wang, Hongxuan Liu, Xusheng Xiao, Guozhu Meng and Yao Guo<br/>
+**Characterizing Android App Signing Issues** <br/>
+*In Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2019](https://2019.ase-conferences.org/))*, San Diego, CA, USA, Nov 2019. \[[PDF](https://xusheng-xiao.github.io/papers/ase_signatures_cr.pdf)\] (Acceptance Rate: 20.9%, 93 out of 445)
+
+Jiaping Gui, Xusheng Xiao, Ding Li, Chung Hwan Kim, and Haifeng Chen<br/>
+**Progressive Processing of System Behavioral Query**<br/>
+*In Proceedings of the Annual Computer Security Applications Conference ([ACSAC 2019](https://www.acsac.org/))*, San Juan, Puerto Rico, Dec 2019. \[[PDF](https://xusheng-xiao.github.io/papers/acsac19-final143.pdf)\]
+
+Yun Ma, Yangyang Huang, Ziniu Hu, Xusheng Xiao, and Xuanzhe Liu<br/>
+**Paladin: Automated Generation of Reproducible Test Cases for Android Apps** <br/>
+*In Proceedings of the 20th Workshop on Mobile Computing Systems and Applications ([HotMobile 2019](http://www.hotmobile.org/2019/))*, Santa Cruz, CA, USA, Feb 2019. \[[PDF](https://xusheng-xiao.github.io/papers/hotm068-maa.pdf)\]
+
+Xia Zhang, Xusheng Xiao, Liang He, Yun Ma, Yangyang Huang, Xuanzhe Liu, Wenyao Xu, and Cong Liu<br/>
+**PIFA: An Intelligent Phase Identification and Frequency Adjustment Framework for Time-Sensitive Mobile Computing** <br/>
+*In Proceedings of the 25th IEEE Real-Time and Embedded Technology and Applications Symposium ([RTAS 2019](http://2019.rtas.org/))*, Montreal, Canada, April 2019. \[[PDF](https://xusheng-xiao.github.io/papers/rtas2019-final29.pdf)\]
+
+Shengqu Xi, Yuan Yao, Xusheng Xiao, Feng Xu, and Jian Lu<br/>
+**Bug Triaging Based on Tossing Sequence Modeling** <br/>
+*Journal of Computer Science and Technology ([JCST](http://jcst.ict.ac.cn:8080/jcst/EN/volumn/home.shtml))*, 2019. 
+
+Peng Gao, Xusheng Xiao, Zhichun Li, Kangkook Jee, Fengyuan Xu, Sanjeev R. Kulkarni, and Prateek Mittal<br/>
+**A Query System for Efficiently Investigating Complex Attack Behaviors for Enterprise Security** <br/>
+*In Proceedings of the 45th International Conference on Very Large Data Bases ([VLDB 2019](http://vldb.org/2019/)), Demonstrations Track*, Los Angelos, CA, USA, Aug 2019. \[[PDF](https://xusheng-xiao.github.io/papers/aiql-vldb19demo.pdf)\]\[[Demo Website](http://sites.google.com/site/aiqlsystem)\] (Acceptance Rate: 37.8%, 48 out of 127).
+
+
+
+<span style="font-size: 20px;"><a id="2018">2018</a></span>
+
+Peng Gao, Xusheng Xiao, Ding Li, Zhichun Li, Kangkook Jee, Zhenyu Wu, Chung Hwan Kim, Sanjeev R. Kulkarni, and Prateek Mittal<br/>
+**SAQL: A Stream-based Query System for Real-Time Abnormal System Behavior Detection**<br/>
+*In Proceedings of the USENIX Security Symposium ([USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18))*, Boston, MA, USA, July 2018. \[[PDF](https://xusheng-xiao.github.io/papers/saql-usenixsecurity2018.pdf)\]\[[Website](https://sites.google.com/site/saqlsystem/)\] \[[Presentation Video](https://youtu.be/rBpET5tZfiI)\] \[[Poster](https://people.eecs.berkeley.edu/~penggao/resources/publications/posters/saql_security18_poster.pdf)\]\[[Demo Video](https://youtu.be/3S7D5jVoR2c)\] (Acceptance Rate: 19.2%, 100 out of 520)
+* ***CSAW'18 Best Applied Security Research Paper Award Top-10 Finalists*** (Acceptance Rate: 13.5%, 10 out of 74)
+
+Yutao Tang, Ding Li, Zhichun Li, Mu Zhang, Kangkook Jee, Xusheng Xiao, Zhenyu Wu, Junghwan Rhee, Fengyuan Xu, and Qun Li<br/>
+**NodeMerge: Template Based Efficient Data Reduction For Big-Data Causality Analysis** <br/>
+*In Proceedings of the 25th ACM Conference on Computer and Communications Security ([CCS 2018](https://www.sigsac.org/ccs/CCS2018/))*, Toronto, Canada, Oct 2018. \[[PDF](https://xusheng-xiao.github.io/papers/nodemerge-ccs2018.pdf)\] (Acceptance Rate: 16.6%, 134 out of 809)
+
+Peng Gao, Xusheng Xiao, Zhichun Li, Kangkook Jee, Fengyuan Xu, Sanjeev R. Kulkarni, and Prateek Mittal<br/>
+**AIQL: Enabling Efficient Attack Investigation from System Monitoring Data** <br/>
+*In Proceedings of the USENIX Annual Technical Conference ([USENIX ATC 2018](https://www.usenix.org/conference/atc18))*, Boston, MA, USA, July 2018. \[[PDF](https://xusheng-xiao.github.io/papers/aiql-usenix_atc2018.pdf)\]\[[Poster](https://people.eecs.berkeley.edu/~penggao/resources/publications/posters/aiql_atc18_poster.pdf)\]\[[Project Website](https://sites.google.com/site/aiqlsystem/)\]\[[Demo Website](http://sites.google.com/site/aiqlsystem)\] (Acceptance Rate: 20.9%, 79 out of 378)
+* ***Our work was integrated in the NEC Corporation's [Automated Security Intelligence solution](https://www.nec.com/en/global/techrep/journal/g16/n01/160110.html), which won the [1st place in the 2016 CEATEC Town Life and Society Innovation Award](http://www.ceatec.com/2016/en/award/award01_02.html).***
+
+Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, Laurie Williams<br/>
+**Are Vulnerabilities Discovered and Resolved Like Other Defects?** <br/>
+*In Proceedings of the 37th International Conference on Software Engineering ([ICSE 2018](https://www.icse2018.org/))*, Journal First Paper, Gothenburg, Sweden, May 2018
+
+Angello Astorga, Siwakorn Srisakaokul, Xusheng Xiao, and Tao Xie<br/>
+**PreInfer: Automatic Inference of Preconditions via Symbolic Analysis**<br/>
+*In Proceedings of the 48th IEEE/IFIP International Conference on Dependable Systems and Networks ([DSN 2018](https://dsn2018.uni.lu/))*, Luxembourg, June 2018. \[[PDF](https://xusheng-xiao.github.io/papers/dsn18-preinfer.pdf)\] (Acceptance Rate: 28.1%, 62 out of 221)
+
+Jiayi Cao, Angello Astorga, Siwakorn Srisakaokul, Zhengkai Wu, Xueqing Liu, Xusheng Xiao, and Tao Xie<br/>
+**Visualizing Path Exploration to Assist Problem Diagnosis for Structural Test Generation**<br/>
+*In Proceedings of the IEEE Symposium on Visual Languages and Human-Centric Computing ([VL/HCC 2018](https://vlhcc18.github.io/))*, Posters, Lisbon, Portugal, October 2018. \[[PDF](https://xusheng-xiao.github.io/papers/vlhcc2018.pdf)\]
+
+
+
+<span style="font-size: 20px;"><a id="2017">2017</a></span>
+
+Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, Laurie Williams<br/>
+**Are Vulnerabilities Discovered and Resolved Like Other Defects?** <br/>
+*Empirical Software Engineering ([EMSE](http://www.springer.com/computer/swe/journal/10664))*, pages 1-39, 2017.
+
+Yujie Yuan, Lihua Xu, Xusheng Xiao, Andy Podguiski, Huibiao Zhu<br/>
+**RunDroid: Recovering Excution Call Graph for Android Applications**<br/>
+*In Proceedings of the 11th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([ESEC/FSE 2017](http://esec-fse17.uni-paderborn.de/)), Demonstrations Track*, pages 949-953, Paderborn, Germany, September 2017. \[[PDF](https://xusheng-xiao.github.io/papers/fse17demo.pdf)\]\[[Code](https://github.com/MiJack/RunDroid)\]\[[Video](https://youtu.be/EM7TJbE-Oaw)\]
+
+Zheng Dong, Yuchuan Liu, Husheng Zhou, Xusheng Xiao, Yu Gu, Lingming Zhang and Cong Liu<br/>
+**An Energy-efficient Offloading Framework with Predictable Temporal Correctness**<br/>
+*In ACM/IEEE Symposium on Edge Computing ([SEC](http://acm-ieee-sec.org/2017/))*, San Jose, CA, October, 2017. \[[PDF](https://xusheng-xiao.github.io/papers/sec2017.pdf)\]
+
+Dengfeng Li, Wing Lam, Wei Yang, Zhengkai Wu, Xusheng Xiao, Tao Xie<br/>
+**Towards Privacy-Preserving Mobile Apps: A Balancing Act**<br/>
+*In Proceedings of the Symposium and Bootcamp on the Science of Security ([HotSoS 2017](http://cps-vo.org/group/hotsos))*, Hanover, Maryland, April 2017. \[[PDF](https://xusheng-xiao.github.io/papers/hotsos17-poster.pdf)\]
+
+
+
+<span style="font-size: 20px;"><a id="2016">2016</a></span>
+Zhang Xu, Zhenyu Wu, Zhichun Li, Kangkook Jee, Junghwan Rhee, Xusheng Xiao, Fengyuan Xu, Haining Wang, and Guofei Jiang<br/>
+**High Fidelity Data Reduction for Big Data Security Dependency Analyses**<br/>
+*In Proceedings of the 23rd ACM Conference on Computer and Communications Security ([CCS 2016](https://www.sigsac.org/ccs/CCS2016/))*, pages 504-516, Vienna, Austria, October 2016. \[[PDF](https://xusheng-xiao.github.io/papers/reduction-ccs.pdf)\] (Acceptance Rate: 18.1%, 151 out of 836).
+
+Bo Zong, Xusheng Xiao, Zhichun Li, Zhenyu Wu, Zhiyun Qian, Xifeng Yan, Ambuj K. Singh, and Guofei Jiang<br/>
+**Behavior Query Discovery in System-Generated Temporal Graphs**<br/>
+*In Proceedings of 42nd International Conference on Very Large Data Bases ([VLDB 2016](http://vldb2016.persistent.com/))*, pages 240-251, New Delhi, India, September 2016.  \[[PDF](http://www.vldb.org/pvldb/vol9/p240-zong.pdf)\]\[[arXiv](http://arxiv.org/abs/1511.05911)\]
+
+Sihan Li, Xusheng Xiao, Blake Bassett, Tao Xie, and Nikolai Tillmann<br/>
+**Measuring Code Behavioral Similarity for Programming and Software Engineering Education**<br/>
+*In International Conference on Software Engineering ([ICSE 2016](http://2016.icse.cs.txstate.edu/)), Education Track*, pages 501-510, May 2016.  \[[PDF](https://xusheng-xiao.github.io/papers/icse16seet-similarity.pdf)\]
+
+Xusheng Xiao, Jian-Guang Lou, Shan Lu, David C. Shepherd, Xin Peng, and Qianxiang Wang<br/>
+**Roundtable: Research Opportunities and Challenges for Large-Scale Software Systems**<br/>
+*Journal of Computer Science and Technology ([JCST](http://jcst.ict.ac.cn:8080/jcst/EN/volumn/home.shtml))*, 31(5): 851-860, 2016. \[[PDF](http://rd.springer.com/article/10.1007%2Fs11390-016-1668-9)\]
+
+Wei Yang, Xusheng Xiao, Dengfeng Li, Huoran Li, Xuanzhe Liu, Haoyu Wang, Yao Guo, and Tao Xie<br/>
+**Security Analytics for Mobile Apps: Achievements and Challenges**<br/>
+*Journal of Cyber Security ([in Chinese](http://www.ccf.org.cn/sites/ccf/ccfzgjsjxhtx.jsp))*, 1(2): 1-14, April 2016. \[[PDF](https://xusheng-xiao.github.io/papers/jcs16-securityanalytics.pdf)\]
+
+Qing Gao, Xusheng Xiao, Jun Li, Yingfei Xiong, Kuanl Taneja, Dan Hao, Lu Zhang, and Tao Xie<br/>
+**High-Confidence Software Evolution**<br/>
+*Science China Information Sciences ([SCIS](http://www.springer.com/computer/information+systems+and+applications/journal/11432))*, 59 (7): 071101:1-071101:19, 2016.
+
+<span style="font-size: 20px;"><a id="2015">2015</a></span>
+
+Jianjun Huang, Zhichun Li, Xusheng Xiao, Zhenyu Wu, Kangjie Lu, Xiangyu Zhang, and Guofei Jiang<br/>
+**SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps**<br/>
+*In Proceedings of the 24th USENIX Security Symposium ([USENIX Security 2015](https://www.usenix.org/conference/usenixsecurity15))*, pages 977-992, Washington, D.C., August 2015. \[[PDF](https://xusheng-xiao.github.io/papers/supor-usenix2015.pdf)\] (Acceptance Rate: 15.7%, 67 out of 426).
+* ***CSAW'15 Best Applied Security Research Paper Award Top-10 Finalists*** (Acceptance Rate: 12.2%, 10 out of 82)
+
+Wei Yang, Xusheng Xiao, Benjamin Andow, Sihan Li, Tao Xie, and William Enck<br/>
+**AppContext: Differentiating Malicious and Benign Mobile App Behaviors Under Context**<br/>
+*In Proceedings of the 37th International Conference on Software Engineering ([ICSE 2015](http://2015.icse-conferences.org/))*, pages 303-313, Florence, Italy, May 2015. \[[PDF](https://xusheng-xiao.github.io/papers/appcontext-icse2015.pdf)\] (Acceptance Rate: 18.5%, 84 out of 452).
+
+Xusheng Xiao, Nikolai Tillmann, Manuel Fahndrich, Jonathan de Halleux, Michal Moskal, and Tao Xie<br/>
+**User-Aware Privacy Control via Extended Static-Information-Flow Analysis**<br/>
+*Automated Software Engineering Journal ([ASEJ](http://link.springer.com/journal/10515))*, 22 (3): 333-366, 2015. \[[PDF](http://link.springer.com/article/10.1007/s10515-014-0166-y)\]. A previous version appeared in [Proceedings of ASE 2012](https://xusheng-xiao.github.io/papers/xusheng-ase2012.pdf).
+
+<span style="font-size: 20px;"><a id="before">Before 2015</a></span>
+
+Xusheng Xiao, Gogul Balakrishnan, Franjo Ivancic, Naoto Maeda, Aarti Gupta and Deepak Chhetri<br/>
+**ARC++: Effective Typestate and Lifetime Dependency Analysis**<br/>
+*In Proceedings of the 2014 International Symposium on Software Testing and Analysis ([ISSTA 2014](http://issta2014.org/index.html))*, pages 116-126, Bay Area, California, July 2014. \[[PDF](https://xusheng-xiao.github.io/papers/cilppa-issta2014.pdf)\] (Acceptance Rate: 28.1%, 36 out of 128)
+
+John Slankas, Xusheng Xiao, Laurie Williams, and Tao Xie<br/>
+**Relation Extraction for Inferring Access Control Rules from Natural Language Artifacts**<br/>
+*In Proceedings of the 2014 Annual Computer Security Applications Conference ([ACSAC 2014](https://www.acsac.org/2014/))*, pages 366-375, New Orleans, Louisiana, USA, December 2014. \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-acsac2014.pdf)\]
+
+Tao Xie, Lu Zhang, Xusheng Xiao, Yingfei Xiong, and Dan Hao<br/>
+**Cooperative Software Testing and Analysis: Advances and Challenges**<br/>
+*Journal of Computer Science and Technology ([JCST](http://jcst.ict.ac.cn:8080/jcst/EN/volumn/home.shtml))*, 29(4): 713-723, 2014. \[[PDF](http://rd.springer.com/article/10.1007%2Fs11390-014-1461-6)\]
+
+Wei Yang, Xusheng Xiao, Rahul Pandita, William Enck and Tao Xie<br/>
+**Improving Mobile Application Security via Bridging User Expectations and Application Behaviors**<br/>
+*ACM Symposium and Bootcamp on the Science of Security ([HotSoS](http://cps-vo.org/group/hotsos))*, Raleigh, NC, April 2014.  \[[PDF](https://xusheng-xiao.github.io/papers/hotsos14-mobile.pdf)\]
+
+Xusheng Xiao, Shi Han, Tao Xie, and Dongmei Zhang<br/>
+**Context-Sensitive Delta Inference for Identifying Workload-Dependent Performance Bottlenecks**<br/>  
+*In Proceedings of the 2013 International Symposium on Software Testing and Analysis ([ISSTA 2013](http://issta2013.inf.usi.ch/))*, pages 90-100, Lugano Switzerland, July 2013. \[[PDF](https://xusheng-xiao.github.io/papers/deltainfer-issta2013.pdf)\]  (Acceptance Rate: 32 / 124 =  25.8%)  
+
+Xusheng Xiao, Sihan Li, Tao Xie, and Nikolai Tillmann<br/>
+**Characteristic Studies of Loop Problems for Structural Test Generation via Symbolic Execution**<br/>
+*In Proceedings of the 28th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2013](http://ase2013.org/))*, pages 246-256, Palo Alto, California, November 2013. \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-ase2013.pdf)\] (Acceptance Rate: 17.0%, 43 / 254 = 17.0%)
+
+Rahul Pandita, Xusheng Xiao, Wei Yang, William Enck, and Tao Xie<br/>
+**WHYPER: Towards Automating Risk Assessment of Mobile Applications**<br/>
+*In Proceedings of the 22nd USENIX Security Symposium ([USENIX Security 2013](https://www.usenix.org/conference/usenixsecurity13))*, pages 527-542,Washington DC, August 2013.  \[[PDF](https://xusheng-xiao.github.io/papers/whyper-usenix2013.pdf)\] (Acceptance Rate: 45 / 277 = 16.2%)
+
+Xusheng Xiao, Amit Paradkar, Suresh Thummalapenta and Tao Xie<br/>
+**Automated Extraction of Security Policies from Natural-Language Software Documents**<br/>
+*In Proceedings of the 20th ACM SIGSOFT International Symposium on the Foundations of Software Engineering ([FSE 2012](http://www.sigsoft.org/fse20/))*, pages 12:1-12:11, Research Triangle Park, North Carolina, USA, November 2012. \[[PDF](https://xusheng-xiao.github.io/papers/text2policy-fse2012.pdf)\] (Acceptance Rate: 35 / 201 = 17.4%)
+
+Xusheng Xiao, Nikolai Tillmann, Manuel Fahndrich, Jonathan de Halleux, Michal Moskal<br/>
+**User-Aware Privacy Control via Extended Static-Information-Flow Analysis**<br/>
+*In Proceedings of the 27th IEEE/ACM International Conference on Automated Software Engineering 2012 ([ASE 2012](http://ase2012.paluno.uni-due.de/))*, pages 80-89, Essen, Germany, September 2012. \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-ase2012.pdf)\] (Acceptance Rate: 21 / 138 = 15.2%) 
+* ***The static analysis engine based on this paper is integrated into [TouchDevelop](https://www.touchdevelop.com/), [Microsoft Research](http://research.microsoft.com/en-us/projects/touchdevelop/)***.
+* This paper was invited for [journal submission](http://link.springer.com/article/10.1007/s10515-014-0166-y)
+* A [US patent](https://www.google.com/patents/US9104528) was granted for the work of this paper
+
+Rahul Pandita, Xusheng Xiao, Hao Zhong, Tao Xie, Stephen Oney, and Amit Paradkar<br/>
+**Inferring Method Specifications from Natural Language API Descriptions**<br/>
+*In Proceedings of the 34rd International Conference on Software Engineering ([ICSE 2012](http://www.ifi.uzh.ch/icse2012/))*, pages 815-825, Zurich, Switzerland, June 2012. \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-icse2012.pdf)\] (Acceptance Rate: 87 / 408 = 21.3%) 
+
+Xusheng Xiao, Suresh Thummalapenta, and Tao Xie<br/>
+**Advances on Improving Automation in Developer Testing**<br/>
+*In Advances in Computers Series*, Volume 85, Burlington: Academic Press, 2012, pages 165-212. \[[PDF](http://www.sciencedirect.com/science/article/pii/B9780123965264000047)\]
+
+Xusheng Xiao<br/>
+**Problem Identification for Structural Test Generation: First Step Towards Cooperative Developer Testing**<br/>
+*ACM Student Research Competition ([ACM SRC](http://src.acm.org/)) Grand Finals*, San Francisco, CA, June 2012. 
+* ***Winner of the ICSE SRC Best Project Representing an Innovative Use of Microsoft Technology***
+
+Xusheng Xiao, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux<br/>
+**Precise Identification of Problems for Structural Test Generation**<br/>
+*In Proceedings of the 33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/))*, pages 611-620, Honolulu, Hawaii, USA, May 2011. \[[PDF](https://xusheng-xiao.github.io/papers/covana-icse2011.pdf)\]  (Acceptance Rate: 62 / 442 = 14%)
+
+Xusheng Xiao<br/>
+**Problem Identification for Structural Test Generation: First Step Towards Cooperative Developer Testing**<br/>
+*In Proceedings of the 33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/)), ACM Student Research Competition (SRC)*, pages 1179-1181, Honolulu, Hawaii, May 2011. \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-icse2011src.pdf)\]
+* ***Won "Best project representing an innovative use of Microsoft technology" in ICSE 2011, Honolulu, HI!*** 
+
+Xusheng Xiao, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux<br/>
+**Covana: Precise Identification of Problems in Pex**<br/>
+*In Proceedings of the 33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/)), Demonstrations Track*, pages 1004-1006, Honolulu, Hawaii, May 2011.  \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-icsedemo2011.pdf)\]\[[Demo Video](http://research.csc.ncsu.edu/ase/projects/covana/CovanaVideo/covana/covana.html)\].
+
+
+<span style="font-size: 20px;"><a id="patent">Patent</a></span>
+
+Ding Li, Xusheng Xiao, Zhichun L, Guofei Jiang, and Peng Gao<br/> 
+**System and method for detecting security risks in a computer system**. Granted Feb 2, 2021. US Patent 10909242.
+
+Xusheng Xiao, Zhichun L, Mu Zhang, Guofei Jiang, and Jiaping Gui<br/>
+**Progressive processing for querying system behavior**. Granted Jan 5, 2021. US Patent 10885027.
+
+Xusheng Xiao, Zhichun Li, Fengyuan Xu, Peng Gao, and Guofei Jiang<br/>
+**Risky Behavior Query Construction and Execution**. Granted Dec 8, 2020. US Patent 10860582.
+
+Xusheng Xiao, Zhichun Li, Mu Zhang, Guofei Jiang, Jiaping Gui, and Ding Li<br/>
+**Security Monitoring with Progressive Behavioral Query Language Database**. Granted Nov 10, 2020. US Patent 10831750.
+
+Zhichun Li, Xusheng Xiao, Zhenyu Wu, Jianjun Huang, and Guofei Jiang<br/>
+**System and Method for Detecting Sensitive User Input Leakages in Software Applications**. Granted Jan 16, 2018. US Patent 9870485. 
+
+Xusheng Xiao, Nikolai Tillmann, Manuel Fahndrich, Jonathan de Halleux, Michal Moskal<br/>
+**Controlling the Release of Private Information Using Static Flow Analysis**. Granted Aug 11, 2015. US Patent 9104528. 
+
+Zhenyu Wu, Zhichun Li, Jungwhan Rhee, Fengyuan Xu, Guofei Jiang, Kangkook Jee, Xusheng Xiao, and Zhang Xu<br/>
+**Intrusion Detection using Efficient System Dependency Analysis**. US20170244733 A1.
+
+Xusheng Xiao, Zhichun Li, Zhenyu Wu, Fengyuan Xu, and Guofei Jiang<br/>
+**Scalable Data Stream Management System for Monitoring System Activities**. US20160283531 A1. 
+
+Zhichun Li, Xusheng Xiao, Zhenyu Wu, Bo Zong, and Guofei Jiang<br/>
+**Method and System for Behavior Query Construction in Temporal Graphs using Discriminative Sub-trace Mining**. US20160125094 A1.
+
+Aarti Gupta, Gogul Balakrishnan, Franjo Ivancic, Xusheng Xiao<br/>
+**Effective Lifetime Dependency Analysis and Typestate Analysis**. 2014. US20140289712 A1.
+
+
 
 
