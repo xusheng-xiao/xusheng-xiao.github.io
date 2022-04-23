@@ -7,21 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<table style="border-collapse: collapse;border: 0px;">
-<tbody>
-<tr>
-<td style="border: 0px;vertical-align:top;">
-<p style="font-size:20px"><strong>COPYRIGHT</strong>: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher&rsquo;s website.</p>
-</td>
-<td style="width:320px;text-align:center;border: 0px;">
-<img alt="" src="https://xusheng-xiao.github.io/images/wordcloud.png" style="height:209px; width:320px" />
-<p ><span style="font-size:16px"><strong>My Publication Word Cloud</strong></span></p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr/>
 
+<p style="text-align:center;"><img alt="" src="https://xusheng-xiao.github.io/images/wordcloud.png" style="width:350px" /></p>
+<p style="text-align:center;"><span style="font-size:16px"><strong>My Publication Word Cloud</strong></span></p>
+
+<strong>COPYRIGHT</strong>: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher's website.
+
+<hr/>
 Go to: [Patent](#patent) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
 <hr/>
 

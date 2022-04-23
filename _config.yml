@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xusheng Xiao"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor <br/> <a style='color: black;' href='http://engineering.case.edu/computer-and-data-sciences'>Department of Computer and Data Sciences</a> <br/> <a style='color: black;' href='http://www.case.edu/'>Case Western Reserve University</a>"
+  bio              : "Assistant Professor <br/> <a style='color: black;text-decoration: none;' href='http://engineering.case.edu/computer-and-data-sciences'>Department of Computer and Data Sciences</a> <br/> <a style='color: black;text-decoration: none;' href='http://www.case.edu/'>Case Western Reserve University</a>"
   location         : 
   employer         : 
   pubmed           : 
@@ -118,7 +118,7 @@ author:
   wikipedia        :
   email            : "xusheng.xiao <AT> case.edu"
   office           : "Olin 506"
-  phone            : "216.368.0755"
+  phone            : "+1-216-368-0755"
 
 
 # Reading Files

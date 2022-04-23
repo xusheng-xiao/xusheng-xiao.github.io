@@ -1,28 +1,11 @@
 ---
-permalink: /
-title: "About me and the RISE Lab"
-excerpt: "Homepage"
+layout: archive
+title: "News"
+permalink: /news/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% include base_path %}
-
-Xusheng Xiao is an Assistant Professor in the [Department of Computer and Data Sciences](http://engineering.case.edu/computer-and-data-sciences) at [Case Western Reserve University](http://www.case.edu/) (CWRU). His general research interests span between **software engineering** and **computer security**, with the focus on developing advanced analysis techniques to analyze complex software behaviors for improving the reliability and the security of complex software and systems. He is leading the Reliable, Intelligent, Secure, and Efficient (RISE) Software and System lab at CWRU. Specifically, his RISE lab is working on the research in mobile app analysis, cyber threat detection and investigation, blockchain and smart contract security, automated software testing, program analysis, and bug detection. 
-
-His research in cyber threat investigation has been integrated into a security product in NEC, which won the Grand Prix award at CEATEC Award 2016. His research in mobile app security produced a static analysis technique that was deployed in Microsoft Research for two years and was granted a US patent. His collaboration with industry partners has resulted in [6 US patents](/publications/#patent). He is a recipient of NSF CAREER Award, NSF CRII Award, Samsung GRO Award, and the Case School of Engineering Faculty Research Award at CWRU. His research has been supported by NSF, DOE-ARPA-E, and Samsung. 
-
-<hr/>
-
-## Recent Services
-[IEEE S&P'23](https://www.ieee-security.org/TC/SP2023/), [CCS'22](https://www.sigsac.org/ccs/CCS2022/), [ASE'22](https://conf.researchr.org/home/ase-2022), [ESEC/FSE'22 Industry](https://2022.esec-fse.org/track/fse-2022-industry), [ICDCS'22](https://www.icdcs.org/), [ICST'22](https://icst2022.vrain.upv.es/), [SANER'22](https://saner2022.uom.gr/)
-
-<hr/>
-
-
-## News
 
 * 1/2022: Congratulations to my collaborators! Our paper "Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit" has been accepted in [WWW 2022](https://www2022.thewebconf.org/)!
 * 12/2021: Congratulations to my student Shao Yang and my collaborators! Our paper "DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps" has been accepted in [ICSE 2022](https://conf.researchr.org/home/icse-2022)!
@@ -44,14 +27,26 @@ His research in cyber threat investigation has been integrated into a security p
 * 8/2020: Congratulations to my collaborators! Our paper "Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market" has been accepted in [ICDM 2020](http://icdm2020.bigke.org/).
 * 2/2020: Congratulations to my collaborators! Our demo paper "DroidMutator: An Effective Mutation Analysis Tool for Android Applications" has been accepted in [ICSE 2020](https://conf.researchr.org/home/icse-2020).
 * 1/2020: Congratulations to my collaborators! Our demo paper "Querying Streaming System Monitoring Data for Enterprise System Anomaly Detection" has been accepted in [ICDE 2020](https://www.utdallas.edu/icde/).
-* [More...](/news/)
-
-
-## Teaching
-
-* Spring 2021, 2022: **Software Engineering**
-* Spring 2018-2021: **Smartphone Security**
-* Fall 2018, 2020, 2021: **Computer Security**
-* Fall 2017, 2019: **Introduction to Database Systems**
-
-
+* 12/2019: Congratulations to my NEC intern Jiaping Gui! Our paper "APTrace: A Responsive System for Agile Enterprise Level Causality Analysis" is accepted in the industry and application track of [ICDE 2020](https://www.utdallas.edu/icde/).
+* 9/2019: Congratulations to my student Shao Yang and collaborators! Our paper "DeepIntent: Deep Icon-Behavior Learning for Detecting Intention-Behavior Discrepancy in Mobile Apps" on exploring the synergy between deep learning and program analysis for enhancing mobile app security is accepted in [CCS 2019](https://www.sigsac.org/ccs/CCS2019/). 
+* 8/2019: Congratulations to my student Changlin Liu and collaborators! Our paper "Root Cause Localization for Unreproducible Builds via Causality Analysis over System Call Tracing" is accepted in [ASE 2019](https://2019.ase-conferences.org/).
+* 8/2019: Congratulations to my collaborators! Our paper "Characterizing Android App Signing Issues" is accepted in [ASE 2019](https://2019.ase-conferences.org/).
+* 8/2019: Congratulations to my NEC intern Jiaping Gui! Our paper "Progressive Processing of System Behavioral Query" is accepted in [ACSAC 2019](https://www.acsac.org/).
+* 7/2019: Congratulations to my student Jian Shi and collaborators! Our first blockchain paper "HyperService: Interoperability and Programmability across Heterogeneous Blockchains" on interoperability platform with programmability and strong security guarantees is accepted in [CCS 2019](https://www.sigsac.org/ccs/CCS2019/). 
+* 5/2019: Congratulations to my NEC intern Peng Gao! Our demo paper "A Query System for Efficiently Investigating Complex Attack Behaviors for Enterprise Security" has been accepted in [VLDB 2019](https://vldb.org/2019/).
+* 1/2019: Congratulations to my collaborators! Our paper "Paladin: Automated Generation of Reproducible Test Cases for Android Apps" has been accepted in [HotMobile 2019](http://www.hotmobile.org/2019/).
+* 12/2018: Congratulations to my students Hanlin Wang and Zhihao Cao and collaborators! Our paper "IconIntent: Automatic Identification of Sensitive UI Widgets based on Icon Classification for Android Apps" is acceted in [ICSE 2019](https://2019.icse-conferences.org/).
+* 12/2018: Congratulations to my collaborators! Our paper "PIFA: An Intelligent Phase Identification and Frequency Adjustment Framework for Time-Sensitive Mobile Computing" has been accepted in [RTAS 2019](http://2019.rtas.org/).
+* 11/2018: Congratulations to my NEC intern Peng Gao! Our papers "AIQL: Enabling Efficient Attack Investigation from System Monitoring Data" and "SAQL: A Stream-based Query System for Real-Time Abnormal System Behavior Detection" are selected to present by Peng Gao at [IBM Programming Language Day](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=9578), 2018.
+* 7/2018: Congratulations to my collaborators! Our paper "NodeMerge: Template Based Efficient Data Reduction For Big-Data Causality Analysis" is accepted in [CCS 2018](https://www.sigsac.org/ccs/CCS2018/).
+* 5/2018: Congratulations to my NEC intern Peng Gao and collaborators! Our paper "SAQL: A Stream-based Query System for Real-Time Abnormal System Behavior Detection" is accepted in [USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18).
+* 4/2018: Congratulations to my NEC intern Peng Gao and collaborators! Our paper "AIQL: Enabling Efficient Attack Investigation from System Monitoring Data" is accepted in [USENIX ATC 2018](https://www.usenix.org/conference/atc18).
+* 4/2018: Congratulations to my undergraduate student Taylor Smith! [SOURCE Award](https://case.edu/source/) for undergraduate summer research (sole PI).
+* 3/2018: Congratulations to my collaborators! Our paper "PreInfer: Automatic Inference of Preconditions via Symbolic Analysis" is accepted in [DSN 2018](https://dsn2018.uni.lu/).
+* 12/2017: My [CRII proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1755772&HistoricalAwards=false) was awarded by National Science Foundation (NSF)  (sole PI). Thank you, NSF!
+* 12/2017: Congratulations to my collaborators! Our paper "Are Vulnerabilities Discovered and Resolved like Other Defects?" is accepted to the journal first paper track at [ICSE 2018](https://www.icse2018.org/).
+* 9/2017: I received the Samsung Global Research Outreach Award (PI, [News](http://engineering.case.edu/eecs/node/612)). Thank you, Samsung!
+* 8/2017: Congratulations to my collaborators! Our paper "Are Vulnerabilities Discovered and Resolved like Other Defects?" is accepted to [Empirical Software Engineering](http://www.springer.com/computer/swe/journal/10664), one of the [top 3 software engineering journals](http://www.robertfeldt.net/advice/se_venues/).
+* 7/2017: Congratulations to my collaborators! Our demo paper "RunDroid: Recovering Excution Call Graph for Android Applications" is accepted to [FSE 2017](http://esec-fse17.uni-paderborn.de/)!
+* 4/2017: Presented a Tutorial at [HotSoS 2017](http://cps-vo.org/group/hotsos).
+* 2/2017: Joined Case Western Reserve University as an Assistant Professor
