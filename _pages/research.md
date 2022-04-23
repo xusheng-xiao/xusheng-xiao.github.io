@@ -11,19 +11,8 @@ author_profile: true
 
 ## Cyber Threat Detection and Investigation
 
-<table style="border-collapse: collapse;border: 0px;">
-<tbody>
-<tr>
-<td style="border: 0px;vertical-align:top;">
-<img alt="" src="https://xusheng-xiao.github.io/images/depimpact.png" style="width:400px" />
-</td>
-<td style="border: 0px;vertical-align:top;">
-<img alt="" src="https://xusheng-xiao.github.io/images/depcomm.png" style="width:400px" />
-</td>
-</tr>
-</tbody>
-</table>
 
+<img alt="" src="https://xusheng-xiao.github.io/images/depimpact.png" style="width:850px" />
 
 RISE lab developes system security techniques that **monitors software behaviors using system auditing** and **model the causality among software behaviors** to provide contextual information of cyber threats, assisting cyber threat investigation. Specifically, to address the fundamental limitations of causality analysis in system auditing, we have develop data reduction techniques, attack behavior query and detection techniques with domain-specific language support, and causality analysis techniques to analyze system auditing logs. 
 * Our work in attack investigation was selected as one of the top ten finalists for ***[CSAW Best Applied Security Paper Award 2018](https://csaw.engineering.nyu.edu/)***. 
@@ -33,7 +22,7 @@ RISE lab developes system security techniques that **monitors software behaviors
 
 ## Mobile App Analysis 
 
-<img alt="" src="https://xusheng-xiao.github.io/images/mobile.png" style="width:400px" />
+<img alt="" src="https://xusheng-xiao.github.io/images/mobile.png" style="width:650px" />
 
 RISE lab combines program analysis and machine learning techniques to model both **program semantics** and **behavior intention** for detecting *undesired software behaviors* that cannot be justified by software applications' functionality. Specifically, we have developed a series of techniques to improve mobile app security. First, we combined program analysis techniques, computer vision techniques, and text analysis techniques to analyze the images and the text in the GUIs of mobile apps to understand behavior intention of mobile apps. Second, we combine program analysis techniques and machine learning techniques to train a model using a large number of apps, and use the model to detect undesired behaviors that cannot be justified by apps’ functionality. Also, existing techniques only tell the users what private data the apps want to use, but do not explain why the apps use users’ private data. Third, to address this problem, we combine program analysis techniques and machine learning techniques to train a model that can synthesize natural-language descriptions to describe the program behaviors that use users’ private data, which can be used to explain why the apps use users’ private data. 
 * Our work in mobile security was selected as one of the top ten finalists for ***[CSAW Best Applied Security Paper Award 2015](https://csaw.engineering.nyu.edu/)***, and produced a static analysis tool that was deployed in TouchDevelop of Microsoft Research.  
