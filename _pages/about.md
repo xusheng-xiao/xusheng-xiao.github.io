@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "About me"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-Xusheng Xiao is an Assistant Professor in the [Department of Computer and Data Sciences](http://engineering.case.edu/computer-and-data-sciences) at [Case Western Reserve University](http://www.case.edu/). His general research interests span between **software engineering** and **computer security**, with the focus on making software and computer systems more Reliable, Intelligent, Secure, and Efficient (RISE). Specifically, his lab is working on the research in mobile app security, system/enterprise security, blockchain security, automated software testing, program analysis, and bug detection. He is a recipient of the NSF CAREER Award for 2021. His collaboration work with industries (NEC and Microsoft) has been granted [6 US patents](/publications/#patent). His research is supported by NSF, DoE, and Samsung. 
+Xusheng Xiao is an Assistant Professor in the [Department of Computer and Data Sciences](http://engineering.case.edu/computer-and-data-sciences) at [Case Western Reserve University](http://www.case.edu/) (CWRU). His general research interests span between **software engineering** and **computer security**, with the focus on developing advanced analysis techniques to analyze complex software behaviors for improving the reliability and the security of complex software and systems. He is leading the Reliable, Intelligent, Secure, and Efficient (RISE) Software and System lab at CWRU. Specifically, his RISE lab is working on the research in mobile app analysis, cyber threat detection and investigation, blockchain and smart contract security, automated software testing, program analysis, and bug detection. His research in cyber threat investigation has been integrated into a security product in NEC, which won the Grand Prix award at CEATEC Award 2016. His research in mobile app security produced a static analysis technique that was deployed in Microsoft Research for two years and was granted a US patent. His collaboration with industry partners has resulted in [6 US patents](/publications/#patent). He is a recipient of NSF CAREER Award, NSF CRII Award, Samsung GRO Award, and the Case School of Engineering Faculty Research Award at CWRU. His research has been supported by NSF, DOE-ARPA-E, and Samsung. 
 
-Xusheng received his Ph.D. in Computer Science from [North Carolina State University](https://www.csc.ncsu.edu/), advised by Prof. Tao Xie and Prof. Laurie Williams. He was a visiting student at University of Illinois at Urbana-Champaign for 2013-2014. 
 
 ## News
 

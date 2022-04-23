@@ -11,7 +11,7 @@ author_profile: true
 <tbody>
 <tr>
 <td style="border: 0px;vertical-align:top;">
-<p style="font-size:18px"><strong>COPYRIGHT</strong>: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher&rsquo;s website.</p>
+<p style="font-size:20px"><strong>COPYRIGHT</strong>: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher&rsquo;s website.</p>
 </td>
 <td style="width:320px;text-align:center;border: 0px;">
 <img alt="" src="https://xusheng-xiao.github.io/images/wordcloud.png" style="height:209px; width:320px" />
@@ -26,7 +26,7 @@ Go to: [Patent](#patent) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| 
 <hr/>
 
 
-<span style="font-size: 20px;"><a id="2022">2022</a></span>
+<span style="color: black;font-size: 22px;"><a id="2022" style="color: black;text-decoration: none;">**2022**</a></span>
 
 Shao Yang, Yuehan Wang, Yuan Yao, Haoyu Wang, Yanfang (Fanny) Ye, and Xusheng Xiao <br/>
 **DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps** <br/>
@@ -55,7 +55,7 @@ Guosheng Xu, Siyi Li, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xushe
 <i>In Proceedings of the ACM Web Conference 2022 ([WWW 2022](https://www2022.thewebconf.org/))</i>, April 2022.  \[PDF\]
 
 
-<span style="font-size: 20px;"><a id="2021">2021</a></span>
+<span style="color: black;font-size: 22px;"><a id="2021" style="color: black;text-decoration: none;">**2021**</a></span>
 
 Fei Shao, Rui Xu, Wasif Haque, Jingwei Xu, Ying Zhang, Wei Yang, Yanfang Ye, and Xusheng Xiao<br/>
 **WebEvo: Taming Web Application Evolution via Detecting Semantic Structure Change**<br/> 
@@ -82,7 +82,7 @@ Peng Gao, Fei Shao, Xiaoyuan Liu, Xusheng Xiao, Haoyuan Liu, Zheng Qin, Fengyuan
 *In Proceedings of the 37th IEEE International Conference on Data Engineering ([ICDE 2021](https://icde2021.gr/)), Demo Track*, Virtual Event, April 2021. \[[PDF](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf)\].
 
 
-<span style="font-size: 20px;"><a id="2020">2020</a></span>
+<span style="color: black;font-size: 22px;"><a id="2020" style="color: black;text-decoration: none;">**2020**</a></span>
 
 Jiaping Gui, Ding Li, Zhengzhang Chen, Junghwan Rhee, Xusheng Xiao, Mu Zhang, Kangkook Jee, Zhichun Li, and Haifeng Chen<br/>
 **APTrace: A Responsive System for Agile Enterprise Level Causality Analysis** <br/>
@@ -105,7 +105,7 @@ Jian Liu, Xusheng Xiao, Lihua Xu, Liang Dou, and Andy Podgurski<br/>
 *In Proceedings of the 42nd International Conference on Software Engineering  ([ICSE 2020](https://conf.researchr.org/home/icse-2020)), Demo Track*, Seoul, South Korea, May 2020. \[[PDF](https://xusheng-xiao.github.io/papers/icse_tooldemo_2020_droidmutator_1.pdf)\].
 
 
-<span style="font-size: 20px;"><a id="2019">2019</a></span>
+<span style="color: black;font-size: 22px;"><a id="2019" style="color: black;text-decoration: none;">**2019**</a></span>
 
 Shengqu Xi\*, Shao Yang\*, Xusheng Xiao, Yuan Yao, Yayuan Xiong, Fengyuan Xu, Haoyu Wang, Peng Gao, Zhuotao Liu, Feng Xu, and Jian Lu<br/>
 **DeepIntent : Deep Icon-Behavior Learning for Detecting Intention-Behavior Discrepancy in Mobile Apps**<br/>
@@ -150,7 +150,7 @@ Peng Gao, Xusheng Xiao, Zhichun Li, Kangkook Jee, Fengyuan Xu, Sanjeev R. Kulkar
 
 
 
-<span style="font-size: 20px;"><a id="2018">2018</a></span>
+<span style="color: black;font-size: 22px;"><a id="2018" style="color: black;text-decoration: none;">**2018**</a></span>
 
 Peng Gao, Xusheng Xiao, Ding Li, Zhichun Li, Kangkook Jee, Zhenyu Wu, Chung Hwan Kim, Sanjeev R. Kulkarni, and Prateek Mittal<br/>
 **SAQL: A Stream-based Query System for Real-Time Abnormal System Behavior Detection**<br/>
@@ -180,7 +180,7 @@ Jiayi Cao, Angello Astorga, Siwakorn Srisakaokul, Zhengkai Wu, Xueqing Liu, Xush
 
 
 
-<span style="font-size: 20px;"><a id="2017">2017</a></span>
+<span style="color: black;font-size: 22px;"><a id="2017" style="color: black;text-decoration: none;">**2017**</a></span>
 
 Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, Laurie Williams<br/>
 **Are Vulnerabilities Discovered and Resolved Like Other Defects?** <br/>
@@ -200,7 +200,7 @@ Dengfeng Li, Wing Lam, Wei Yang, Zhengkai Wu, Xusheng Xiao, Tao Xie<br/>
 
 
 
-<span style="font-size: 20px;"><a id="2016">2016</a></span>
+<span style="color: black;font-size: 22px;"><a id="2016" style="color: black;text-decoration: none;">**2016**</a></span>
 Zhang Xu, Zhenyu Wu, Zhichun Li, Kangkook Jee, Junghwan Rhee, Xusheng Xiao, Fengyuan Xu, Haining Wang, and Guofei Jiang<br/>
 **High Fidelity Data Reduction for Big Data Security Dependency Analyses**<br/>
 *In Proceedings of the 23rd ACM Conference on Computer and Communications Security ([CCS 2016](https://www.sigsac.org/ccs/CCS2016/))*, pages 504-516, Vienna, Austria, October 2016. \[[PDF](https://xusheng-xiao.github.io/papers/reduction-ccs.pdf)\] (Acceptance Rate: 18.1%, 151 out of 836).
@@ -225,7 +225,7 @@ Qing Gao, Xusheng Xiao, Jun Li, Yingfei Xiong, Kuanl Taneja, Dan Hao, Lu Zhang, 
 **High-Confidence Software Evolution**<br/>
 *Science China Information Sciences ([SCIS](http://www.springer.com/computer/information+systems+and+applications/journal/11432))*, 59 (7): 071101:1-071101:19, 2016.
 
-<span style="font-size: 20px;"><a id="2015">2015</a></span>
+<span style="color: black;font-size: 22px;"><a id="2015" style="color: black;text-decoration: none;">**2015**</a></span>
 
 Jianjun Huang, Zhichun Li, Xusheng Xiao, Zhenyu Wu, Kangjie Lu, Xiangyu Zhang, and Guofei Jiang<br/>
 **SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps**<br/>
@@ -240,7 +240,7 @@ Xusheng Xiao, Nikolai Tillmann, Manuel Fahndrich, Jonathan de Halleux, Michal Mo
 **User-Aware Privacy Control via Extended Static-Information-Flow Analysis**<br/>
 *Automated Software Engineering Journal ([ASEJ](http://link.springer.com/journal/10515))*, 22 (3): 333-366, 2015. \[[PDF](http://link.springer.com/article/10.1007/s10515-014-0166-y)\]. A previous version appeared in [Proceedings of ASE 2012](https://xusheng-xiao.github.io/papers/xusheng-ase2012.pdf).
 
-<span style="font-size: 20px;"><a id="before">Before 2015</a></span>
+<span style="color: black;font-size: 22px;"><a id="before" style="color: black;text-decoration: none;">**Before 2015**</a></span>
 
 Xusheng Xiao, Gogul Balakrishnan, Franjo Ivancic, Naoto Maeda, Aarti Gupta and Deepak Chhetri<br/>
 **ARC++: Effective Typestate and Lifetime Dependency Analysis**<br/>
@@ -308,7 +308,7 @@ Xusheng Xiao, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux<br/>
 *In Proceedings of the 33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/)), Demonstrations Track*, pages 1004-1006, Honolulu, Hawaii, May 2011.  \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-icsedemo2011.pdf)\]\[[Demo Video](http://research.csc.ncsu.edu/ase/projects/covana/CovanaVideo/covana/covana.html)\].
 
 
-<span style="font-size: 20px;"><a id="patent">Patent</a></span>
+<span style="font-size: 22px;"><a id="patent" style="color: black;text-decoration: none;">**Patent**</a></span>
 
 Ding Li, Xusheng Xiao, Zhichun L, Guofei Jiang, and Peng Gao<br/> 
 **System and method for detecting security risks in a computer system**. Granted Feb 2, 2021. US Patent 10909242.
