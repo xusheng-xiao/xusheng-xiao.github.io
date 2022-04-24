@@ -303,34 +303,34 @@ Xusheng Xiao, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux<br/>
 <span style="font-size: 18px;"><a id="patent" style="color: black;text-decoration: none;">**Patent**</a></span>
 
 Ding Li, Xusheng Xiao, Zhichun L, Guofei Jiang, and Peng Gao<br/> 
-**System and method for detecting security risks in a computer system**. Granted Feb 2, 2021. US Patent 10909242.
+**System and method for detecting security risks in a computer system**. Granted Feb 2, 2021. [US Patent 10909242](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10909242.PN.).
 
 Xusheng Xiao, Zhichun L, Mu Zhang, Guofei Jiang, and Jiaping Gui<br/>
-**Progressive processing for querying system behavior**. Granted Jan 5, 2021. US Patent 10885027.
+**Progressive processing for querying system behavior**. Granted Jan 5, 2021. [US Patent 10885027](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10885027.PN.).
 
 Xusheng Xiao, Zhichun Li, Fengyuan Xu, Peng Gao, and Guofei Jiang<br/>
-**Risky Behavior Query Construction and Execution**. Granted Dec 8, 2020. US Patent 10860582.
+**Risky Behavior Query Construction and Execution**. Granted Dec 8, 2020. [US Patent 10860582](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10860582.PN.).
 
 Xusheng Xiao, Zhichun Li, Mu Zhang, Guofei Jiang, Jiaping Gui, and Ding Li<br/>
-**Security Monitoring with Progressive Behavioral Query Language Database**. Granted Nov 10, 2020. US Patent 10831750.
+**Security Monitoring with Progressive Behavioral Query Language Database**. Granted Nov 10, 2020. [US Patent 10831750](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10831750.PN.).
 
 Zhichun Li, Xusheng Xiao, Zhenyu Wu, Jianjun Huang, and Guofei Jiang<br/>
-**System and Method for Detecting Sensitive User Input Leakages in Software Applications**. Granted Jan 16, 2018. US Patent 9870485. 
+**System and Method for Detecting Sensitive User Input Leakages in Software Applications**. Granted Jan 16, 2018. [US Patent 9870485](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/9870485). 
 
 Xusheng Xiao, Nikolai Tillmann, Manuel Fahndrich, Jonathan de Halleux, Michal Moskal<br/>
-**Controlling the Release of Private Information Using Static Flow Analysis**. Granted Aug 11, 2015. US Patent 9104528. 
+**Controlling the Release of Private Information Using Static Flow Analysis**. Granted Aug 11, 2015. [US Patent 9104528](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/9104528). 
 
 Zhenyu Wu, Zhichun Li, Jungwhan Rhee, Fengyuan Xu, Guofei Jiang, Kangkook Jee, Xusheng Xiao, and Zhang Xu<br/>
-**Intrusion Detection using Efficient System Dependency Analysis**. US20170244733 A1.
+**Intrusion Detection using Efficient System Dependency Analysis**. [US20170244733 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20170244733.PGNR.).
 
 Xusheng Xiao, Zhichun Li, Zhenyu Wu, Fengyuan Xu, and Guofei Jiang<br/>
-**Scalable Data Stream Management System for Monitoring System Activities**. US20160283531 A1. 
+**Scalable Data Stream Management System for Monitoring System Activities**. [US20160283531 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20160283531.PGNR.). 
 
 Zhichun Li, Xusheng Xiao, Zhenyu Wu, Bo Zong, and Guofei Jiang<br/>
-**Method and System for Behavior Query Construction in Temporal Graphs using Discriminative Sub-trace Mining**. US20160125094 A1.
+**Method and System for Behavior Query Construction in Temporal Graphs using Discriminative Sub-trace Mining**. [US20160125094 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20160125094.PGNR.).
 
 Aarti Gupta, Gogul Balakrishnan, Franjo Ivancic, Xusheng Xiao<br/>
-**Effective Lifetime Dependency Analysis and Typestate Analysis**. 2014. US20140289712 A1.
+**Effective Lifetime Dependency Analysis and Typestate Analysis**. 2014. [US20140289712 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140289712.PGNR.).
 
 
 
