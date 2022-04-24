@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me and the RISE Lab"
+title: "About me"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
