@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xusheng Xiao"
   avatar           : "profile.jpg"
-  bio              : "<span style='font-size: 14px'>Assistant Professor</span><br/> <a style='color: black;text-decoration: none;font-size: 14px' href='http://engineering.case.edu/computer-and-data-sciences'>Department of Computer and Data Sciences</a> <br/> <a style='color: black;text-decoration: none;font-size: 14px' href='http://www.case.edu/'>Case Western Reserve University</a>"
+  bio              : "<span style='font-size: 15px'>Assistant Professor</span><br/> <a style='color: black;text-decoration: none;font-size: 14px' href='http://engineering.case.edu/computer-and-data-sciences'>Department of Computer and Data Sciences</a> <br/> <a style='color: black;text-decoration: none;font-size: 14px' href='http://www.case.edu/'>Case Western Reserve University</a>"
   location         : 
   employer         : 
   pubmed           : 
