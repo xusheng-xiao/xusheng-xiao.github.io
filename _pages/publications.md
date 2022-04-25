@@ -35,12 +35,12 @@ Zhiqiang Xu, Pengcheng Fang, Changlin Liu, Xusheng Xiao, Yu Wen, and Dan Meng <b
 
 Pengcheng Fang\*, Peng Gao\*, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, and Xusheng Xiao<br/>
 **Back-Propagating System Dependency Impact for Attack Investigation** <br/>
-<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22))</i>, Boston, MA, USA, Aug 2022. \[[PDF](https://xusheng-xiao.github.io/papers/papers/sec22summer_fang.pdf)\]\[[Project Website](https://github.com/usenixsub/DepImpact)\]\[[Artifact Evaluation]()\]\[[Zenodo Repo](https://zenodo.org/record/5559214#.YWYJT2LMKUk)\] 
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22))</i>, Boston, MA, USA, Aug 2022. \[[PDF](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]\[[Project Website](https://github.com/usenixsub/DepImpact)\]\[[Artifact Evaluation]()\]\[[Zenodo Repo](https://zenodo.org/record/5559214#.YWYJT2LMKUk)\] 
 * \* The first two authors contribute equally to this work.
 
 Pengcheng Xia, Haoyu Wang, Weihang Su, Zhou Yu, Xiapu Luo, Chao Zhang, Xusheng Xiao, and Guoai Xu<br/>
 **Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange** <br/>
-<i>In Proceedings of the ACM SIGMETRICS / IFIP Performance ([SIGMETRICS 2022](https://www.sigmetrics.org/sigmetrics2022/))</i>, June 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/papers/uniswap.pdf)\]
+<i>In Proceedings of the ACM SIGMETRICS / IFIP Performance ([SIGMETRICS 2022](https://www.sigmetrics.org/sigmetrics2022/))</i>, June 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/uniswap.pdf)\]
 
 Guosheng Xu, Siyi Li, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu, and Haoyu Wang<br/>
 **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**<br/>
@@ -51,15 +51,15 @@ Guosheng Xu, Siyi Li, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xushe
 
 Fei Shao, Rui Xu, Wasif Haque, Jingwei Xu, Ying Zhang, Wei Yang, Yanfang Ye, and Xusheng Xiao<br/>
 **WebEvo: Taming Web Application Evolution via Detecting Semantic Structure Change**<br/> 
-*In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2021](https://conf.researchr.org/home/issta-2021))*, Virtual, July 2021. \[[PDF](https://xusheng-xiao.github.io/papers/papers/webevo-cr.pdf)\]\[[Project Website](https://github.com/webevoexp/webevo)\]\[[Artifact Evaluation](https://zenodo.org/record/4771549#.YNU2gBNKjzc)\].
+*In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2021](https://conf.researchr.org/home/issta-2021))*, Virtual, July 2021. \[[PDF](https://xusheng-xiao.github.io/papers/webevo-cr.pdf)\]\[[Project Website](https://github.com/webevoexp/webevo)\]\[[Artifact Evaluation](https://zenodo.org/record/4771549#.YNU2gBNKjzc)\].
 
 Peng Gao, Fei Shao, Xiaoyuan Liu, Xusheng Xiao, Zheng Qin, Fengyuan Xu, Prateek Mittal, Sanjeev Kulkarni, and Dawn Song<br/>
 **Enabling Efficient Cyber Threat Hunting With Cyber Threat Intelligence**<br/>
-*In Proceedings of the 37th IEEE International Conference on Data Engineering ([ICDE 2021](https://icde2021.gr/))*, Virtual, April 2021. \[[PDF](https://xusheng-xiao.github.io/papers/papers/threatraptor-icde21_0.pdf)\].
+*In Proceedings of the 37th IEEE International Conference on Data Engineering ([ICDE 2021](https://icde2021.gr/))*, Virtual, April 2021. \[[PDF](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf)\].
 
 Yangyu Hu, Haoyu Wang, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao, and Yao Guo<br/>
 **CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market Policies**<br/>
-*In Proceedings of the 43rd International Conference on Software Engineering ([ICSE 2021](https://conf.researchr.org/home/icse-2021))*, Madrid, Spain, May 2021. \[[PDF](https://xusheng-xiao.github.io/papers/papers/champ_icse2021_cr-submit3.pdf)\]
+*In Proceedings of the 43rd International Conference on Software Engineering ([ICSE 2021](https://conf.researchr.org/home/icse-2021))*, Madrid, Spain, May 2021. \[[PDF](https://xusheng-xiao.github.io/papers/champ_icse2021_cr-submit3.pdf)\]
 
 Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, and Yih-Chun Hu<br/>
 **Making Web 3.0 Connected - A Perspective from Interoperability and Programmability across Blockchains**<br/>
