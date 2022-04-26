@@ -207,6 +207,7 @@ defaults:
       comments: true
       share: true
       related: true
+      sitemap: false
   # _pages
   - scope:
       path: ""
@@ -214,6 +215,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: false
   # _teaching
   - scope:
       path: ""
@@ -223,6 +225,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap: false
   # _publications
   - scope:
       path: ""
@@ -232,6 +235,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap: false
   # _portfolio
   - scope:
       path: ""
@@ -241,6 +245,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      sitemap: false
   # _talks
   - scope:
       path: ""
@@ -249,6 +254,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      sitemap: false
 
 # Sass/SCSS
 sass:
@@ -266,14 +272,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+ # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
