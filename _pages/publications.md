@@ -13,6 +13,8 @@ author_profile: true
 
 <strong>COPYRIGHT</strong>: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher's website.
 
+You can also find my publications at <a href="https://scholar.google.com/citations?user=qVx6V7UAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/13/9656.html">DBLP</a>.
+
 <hr/>
 Go to: [Patent](#patent) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
 <hr/>
