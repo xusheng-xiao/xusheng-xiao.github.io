@@ -46,7 +46,7 @@ Pengcheng Xia, Haoyu Wang, Weihang Su, Zhou Yu, Xiapu Luo, Chao Zhang, Xusheng X
 
 Guosheng Xu, Siyi Li, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu, and Haoyu Wang<br/>
 **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**<br/>
-<i>In Proceedings of the ACM Web Conference 2022 ([WWW 2022](https://www2022.thewebconf.org/))</i>, April 2022.  \[PDF\]
+<i>In Proceedings of the ACM Web Conference 2022 ([WWW 2022](https://www2022.thewebconf.org/))</i>, April 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/lietome-www2022.pdf)\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2021" style="color: black;text-decoration: none;">**2021**</a></span>
