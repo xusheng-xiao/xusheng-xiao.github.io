@@ -21,6 +21,9 @@ His research in cyber threat investigation has been integrated into a security p
 
 <hr/>
 
+<p style="text-align:center;"><img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" style="width:100%" /></p>
+
+<hr/>
 
 ## News
 
