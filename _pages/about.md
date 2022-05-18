@@ -16,8 +16,10 @@ His research in cyber threat investigation has been integrated into a security p
 
 <hr/>
 
-## Recent Services
-[IEEE S&P'23](https://www.ieee-security.org/TC/SP2023/), [CCS'22](https://www.sigsac.org/ccs/CCS2022/), [ASE'22](https://conf.researchr.org/home/ase-2022), [ESEC/FSE'22 Industry](https://2022.esec-fse.org/track/fse-2022-industry), [ICDCS'22](https://www.icdcs.org/), [ICST'22](https://icst2022.vrain.upv.es/), [SANER'22](https://saner2022.uom.gr/)
+## Services
+[Xiaoyin Wang](http://www.cs.utsa.edu/~xwang/), [Wei Wang](https://wwang.github.io/), and I are organizing [VARSE](https://varse-series.github.io/varse2022/), the First International Workshop on Virtual and Augmented Reality Software Engineering. Please submit your high-quality work about VR/AR apps to this exciting new workshop!
+
+**Other services**: [IEEE S&P'23](https://www.ieee-security.org/TC/SP2023/), [CCS'22](https://www.sigsac.org/ccs/CCS2022/), [ASE'22](https://conf.researchr.org/home/ase-2022), [ESEC/FSE'22 Industry](https://2022.esec-fse.org/track/fse-2022-industry), [ICDCS'22](https://www.icdcs.org/), [ICST'22](https://icst2022.vrain.upv.es/), [SANER'22](https://saner2022.uom.gr/)
 
 <hr/>
 
