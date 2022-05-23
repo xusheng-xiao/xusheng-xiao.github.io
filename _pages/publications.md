@@ -48,6 +48,11 @@ Guosheng Xu, Siyi Li, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xushe
 **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**<br/>
 <i>In Proceedings of the ACM Web Conference 2022 ([WWW 2022](https://www2022.thewebconf.org/))</i>, April 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/lietome-www2022.pdf)\]
 
+
+Le Yu, Haoyu Wang, Xiapu Luo‡, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
+**Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
+<i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 2022
+
 Yi Liu, Yun Ma, Xusheng Xiao, Tao Xie, and Xuanzhe Liu<br/>
 **LegoDroid : Flexible Android Apps Decomposition and Instant Installation**<br/>
 <i>[Science China Information Sciences](https://www.springer.com/journal/11432)</i>, 2022
