@@ -14,6 +14,8 @@ Xusheng Xiao is an Assistant Professor in the [Department of Computer and Data S
 
 His research in cyber threat investigation has been integrated into a security product in NEC, which won the Grand Prix award at CEATEC Award 2016. His research in mobile app security produced a static analysis technique that was deployed in Microsoft Research for two years and was granted a US patent. His collaboration with industry partners has resulted in [6 US patents](/publications/#patent). He is a recipient of NSF CAREER Award, NSF CRII Award, Samsung GRO Award, and the Case School of Engineering Faculty Research Award at CWRU. His research has been supported by NSF, DOE-ARPA-E, and Samsung. 
 
+<span style="color:red">I will join [School of Computing and Augmented Intelligence](https://scai.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/) in 2022 Fall.</span>
+
 <hr/>
 
 ## Services

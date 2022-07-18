@@ -37,7 +37,7 @@ Zhiqiang Xu, Pengcheng Fang, Changlin Liu, Xusheng Xiao, Yu Wen, and Dan Meng <b
 
 Pengcheng Fang\*, Peng Gao\*, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, and Xusheng Xiao<br/>
 **Back-Propagating System Dependency Impact for Attack Investigation** <br/>
-<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22))</i>, Boston, MA, USA, Aug 2022. \[[PDF](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]\[[Project Website](https://github.com/usenixsub/DepImpact)\]\[[Artifact Evaluation]()\]\[[Zenodo Repo](https://zenodo.org/record/5559214#.YWYJT2LMKUk)\] 
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22))</i>, Boston, MA, USA, Aug 2022. \[[PDF](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]\[[Project Website](https://github.com/usenixsub/DepImpact)\]\[[Artifact Evaluation](https://xusheng-xiao.github.io/papers/sec22summerae-cr.pdf)\]\[[Zenodo Repo](https://zenodo.org/record/5559214#.YWYJT2LMKUk)\] 
 * \* The first two authors contribute equally to this work.
 
 Pengcheng Xia, Haoyu Wang, Weihang Su, Zhou Yu, Xiapu Luo, Chao Zhang, Xusheng Xiao, and Guoai Xu<br/>
