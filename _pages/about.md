@@ -31,6 +31,7 @@ His research in cyber threat investigation has been integrated into a security p
 
 ## News
 
+* 7/2022: Congratulations to my students Liangyi Huang, Sohipa Hall, and Fei Shao! Our paper "System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems" has been accepted in the demo track of [CIKM 2022](https://www.cikm2022.org/calls/call-for-demonstrations)!
 * 5/2022: Congratulations to my collaborators! Our paper "Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews" has been accepted in [TSE 2022](https://www.computer.org/csdl/journal/ts)!
 * 1/2022: Congratulations to my collaborators! Our paper "Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit" has been accepted in [WWW 2022](https://www2022.thewebconf.org/)!
 * 12/2021: Congratulations to my student Shao Yang and my collaborators! Our paper "DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps" has been accepted in [ICSE 2022](https://conf.researchr.org/home/icse-2022)!
