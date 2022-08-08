@@ -49,7 +49,11 @@ Guosheng Xu, Siyi Li, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xushe
 <i>In Proceedings of the ACM Web Conference 2022 ([WWW 2022](https://www2022.thewebconf.org/))</i>, April 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/lietome-www2022.pdf)\]
 
 
-Le Yu, Haoyu Wang, Xiapu Luo‡, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
+Zikan Dong, Hongxuan Liu, Liu Wang, Xiapu Luo, Yao Guo, Guoai Xu, Xusheng Xiao, and Haoyu Wang<br/>
+**What Did You Pack in My App? A Systematic Analysis of Commercial Android Packers**<br/>
+<i>In Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2022](https://2022.esec-fse.org/)), Industry Track</i>, Nov 2022. 
+
+Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
 **Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 2022
 

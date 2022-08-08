@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Xusheng Xiao"
   avatar           : "profile.jpg"
-  bio              : "<span style='font-size: 15px'>Assistant Professor</span><br/> <a style='color: black;text-decoration: none;font-size: 14px' href='http://www.case.edu/'>Case Western Reserve University</a>"
+  bio              : "<span style='font-size: 15px'>Associate Professor</span><br/> <a style='color: black;text-decoration: none;font-size: 14px' href='http://www.asu.edu/'>Arizona State University</a>"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qVx6V7UAAAAJ&hl=en"
-  email            : "xusheng.xiao@asu.edu"
   dblp             : "https://dblp.org/pid/13/9656.html"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -116,9 +115,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  email            : "xusheng.xiao@case.edu"
-  office           : "Olin 506"
-  phone            : "+1-216-368-0755"
+  email            : "xusheng.xiao@asu.edu"
+  office           : "BYENG 428"
+  phone            : "+1-480-965-3199"
 
 
 # Reading Files
