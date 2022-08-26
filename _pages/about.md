@@ -17,10 +17,11 @@ His research in cyber threat investigation has been integrated into a security p
 
 <hr/>
 
-## Services
-[Prof. Xiaoyin Wang](http://www.cs.utsa.edu/~xwang/), [Prof. Wei Wang](https://wwang.github.io/), and I are organizing [VARSE](https://varse-series.github.io/varse2022/), the First International Workshop on Virtual and Augmented Reality Software Engineering, co-located with [ASE 2022](https://conf.researchr.org/home/ase-2022). Please submit your high-quality work about VR/AR apps to this exciting new workshop!
+## Positions
+I am always looking for PhD students and interns with strong background in SE, Security, or ML. Please apply to ASU SCAI by Dec. 31th (PhD only), and/or send me an email (with your CV). \[[Read more](positions/)\]
 
-**Other services**: [IEEE S&P'23](https://www.ieee-security.org/TC/SP2023/), [CCS'22](https://www.sigsac.org/ccs/CCS2022/), [ASE'22](https://conf.researchr.org/home/ase-2022), [ESEC/FSE'22 Industry](https://2022.esec-fse.org/track/fse-2022-industry), [ICDCS'22](https://www.icdcs.org/), [ICST'22](https://icst2022.vrain.upv.es/), [SANER'22](https://saner2022.uom.gr/)
+## Services
+[IEEE S&P'23](https://www.ieee-security.org/TC/SP2023/), [VARSE](https://varse-series.github.io/varse2022/), [CCS'22](https://www.sigsac.org/ccs/CCS2022/), [ASE'22](https://conf.researchr.org/home/ase-2022), [ESEC/FSE'22 Industry](https://2022.esec-fse.org/track/fse-2022-industry), [ICDCS'22](https://www.icdcs.org/), [ICST'22](https://icst2022.vrain.upv.es/), [SANER'22](https://saner2022.uom.gr/)
 
 <hr/>
 
