@@ -63,7 +63,7 @@ Yi Liu, Yun Ma, Xusheng Xiao, Tao Xie, and Xuanzhe Liu<br/>
 
 Liangyi Huang, Sophia Hall, Fei Shao, Arafath Nihar, Vipin Chaudhary, Yinghui Wu, Roger French, and Xusheng Xiao<br/>
 **System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems**<br/>
-<i>[In Proceedings of the Conference on Information and Knowledge Management (CIKM), Demo Track](https://www.cikm2022.org/calls/call-for-demonstrations)</i>, 2022
+<i>[In Proceedings of the Conference on Information and Knowledge Management (CIKM), Demo Track](https://www.cikm2022.org/calls/call-for-demonstrations)</i>, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/cikm_2022.pdf)\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2021" style="color: black;text-decoration: none;">**2021**</a></span>
