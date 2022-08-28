@@ -8,17 +8,17 @@ author_profile: true
 {% include base_path %}
 
 ## PhD students:
-* [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo]()\]
+* [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf)\]
 * [Shao Yang](https://shaoyang1992.github.io/) (CWRU, 2018.8-) \[[CCS 2019](https://xusheng-xiao.github.io/papers/deepintent-optimize.pdf), [ASE SRC 2019](https://2019.ase-conferences.org/track/ase-2019-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/describectx_cr.pdf)\]
 * [Pengcheng Fang](https://www.pfangblog.com/) (CWRU, 2017.5-) \[[USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf)\]
-* [Fei Shao](https://feishao315.github.io/) (CWRU, 2018.5-) \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition)\]
+* [Fei Shao](https://feishao315.github.io/) (CWRU, 2018.5-) \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf)\]
 * [Changlin Liu](https://changlinliu93.github.io/) (CWRU, 2020.8-) \[[ISSACS Student Fellowship](https://engineering.case.edu/research/institutes/smart-secure-connected-systems), [ASE 2019](https://xusheng-xiao.github.io/papers/ase19-main-158.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]
 
 
 
 ## MS Students:
 
-* Sophia Hall \[[CIKM 2022 Demo]()\], 2021.1 - NOW
+* Sophia Hall \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf)\], 2021.1 - NOW
 * Zhou Yang, 2021.4 - 2022.8
 * Siyi Chen, 2019.2 - 2020.12
 * Jian Shi \[[CCS 2019](https://xusheng-xiao.github.io/papers/hyperservice.pdf)\], 2018.8 - 2020.9
@@ -32,7 +32,6 @@ author_profile: true
 
 ## Visiting Student:
 * Chongbin Tang, East China Normal University, 2019.9 - 2020.2. First Job: ByteDance
-
 
 ## Undergraduate Students
 * Taylor Smith [SOURCE Award 2018]

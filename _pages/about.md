@@ -59,9 +59,6 @@ I am always looking for PhD students and interns with strong background in SE, S
 
 ## Teaching
 
-* Spring 2021, 2022: **Software Engineering**
-* Spring 2018-2021: **Smartphone Security**
-* Fall 2018, 2020, 2021: **Computer Security**
-* Fall 2017, 2019: **Introduction to Database Systems**
+* Fall 2022: **Software Security**
 
 
