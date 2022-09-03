@@ -16,8 +16,15 @@ author_profile: true
 You can also find my publications at <a href="https://scholar.google.com/citations?user=qVx6V7UAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/13/9656.html">DBLP</a>.
 
 <hr/>
-Go to: [Patent](#patent) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
+Go to: [Patent](#patent) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
 <hr/>
+
+
+<span style="color: black;font-size: 18px;"><a id="2023" style="color: black;text-decoration: none;">**2023**</a></span>
+
+Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xusheng Xiao <br/>
+**DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** <br/>
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2022. \[[PDF]()\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2022" style="color: black;text-decoration: none;">**2022**</a></span>
