@@ -6,14 +6,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Students"
+    url: /students/
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Services"
     url: /services/    
 
   - title: "Software"
     url: /software/    
-    
-  - title: "Students"
-    url: /students/
         
   - title: "Talks"
     url: /talks/

@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* 9/2022: Congratulations to my collaborators and my student Fei Shao. Our paper "DISTDET: A Cost-Effective Distributed Cyber Threat Detection System" has been accepted in the [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
+* 8/2022: Congratulations to my collaborators. Our paper "What Did You Pack in My App? A Systematic Analysis of Commercial Android Packers" has been accepted in the [ESEC/FSE 2022 Industry Track](https://2022.esec-fse.org/track/fse-2022-industry)!
+* 7/2022: Congratulations to my students Liangyi Huang, Sohipa Hall, and Fei Shao! Our paper "System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems" has been accepted in the demo track of [CIKM 2022](https://www.cikm2022.org/calls/call-for-demonstrations)!
+* 5/2022: Congratulations to my collaborators! Our paper "Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews" has been accepted in [TSE 2022](https://www.computer.org/csdl/journal/ts)!
 * 1/2022: Congratulations to my collaborators! Our paper "Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit" has been accepted in [WWW 2022](https://www2022.thewebconf.org/)!
 * 12/2021: Congratulations to my student Shao Yang and my collaborators! Our paper "DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps" has been accepted in [ICSE 2022](https://conf.researchr.org/home/icse-2022)!
 * 12/2021: Congratulations to my students Changlin Liu and Hanlin Wang and my collaborators! Our paper "Promal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning" has been accepted in [ICSE 2022](https://conf.researchr.org/home/icse-2022)!
