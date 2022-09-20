@@ -219,6 +219,7 @@ Dengfeng Li, Wing Lam, Wei Yang, Zhengkai Wu, Xusheng Xiao, Tao Xie<br/>
 
 
 <span style="color: black;font-size: 18px;"><a id="2016" style="color: black;text-decoration: none;">**2016**</a></span>
+
 Zhang Xu, Zhenyu Wu, Zhichun Li, Kangkook Jee, Junghwan Rhee, Xusheng Xiao, Fengyuan Xu, Haining Wang, and Guofei Jiang<br/>
 **High Fidelity Data Reduction for Big Data Security Dependency Analyses**<br/>
 *In Proceedings of the 23rd ACM Conference on Computer and Communications Security ([CCS 2016](https://www.sigsac.org/ccs/CCS2016/))*, pages 504-516, Vienna, Austria, October 2016. \[[PDF](https://xusheng-xiao.github.io/papers/reduction-ccs.pdf)\] (Acceptance Rate: 18.1%, 151 out of 836).
