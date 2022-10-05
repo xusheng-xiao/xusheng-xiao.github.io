@@ -39,7 +39,7 @@ Changlin Liu, Hanlin Wang, Tianming Liu, Diandian Gu, Yun Ma, Haoyu Wang, and Xu
 <i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2022](https://conf.researchr.org/home/icse-2022))</i>, May 2022. \[[PDF](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf)\]\[[Project Website](https://github.com/promal-android/Promal)\]
 
 Zhiqiang Xu, Pengcheng Fang, Changlin Liu, Xusheng Xiao, Yu Wen, and Dan Meng <br/>
-**Graph Summarization on System Audit Logs for Attack Investigation** <br/>
+**DepComm: Graph Summarization on System Audit Logs for Attack Investigation** <br/>
 <i>In Proceedings of the IEEE Symposium on Security and Privacy ([IEEE S & P 2022](https://www.ieee-security.org/TC/SP2022/))</i>, May 2022. \[[PDF](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf)\]\[[Project Website](https://github.com/ieeesp2021sub/depcomm)\]
 
 Pengcheng Fang\*, Peng Gao\*, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, and Xusheng Xiao<br/>
