@@ -13,6 +13,7 @@ author_profile: true
 * [Pengcheng Fang](https://www.pfangblog.com/) (CWRU, 2017.5-) \[[USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf)\]
 * [Fei Shao](https://feishao315.github.io/) (CWRU, 2018.5-) \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [USENIX Security 2023]()\]
 * [Changlin Liu](https://changlinliu93.github.io/) (CWRU, 2020.8-) \[[ISSACS Student Fellowship](https://engineering.case.edu/research/institutes/smart-secure-connected-systems), [ASE 2019](https://xusheng-xiao.github.io/papers/ase19-main-158.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]
+* [Shang Ma]() (Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/), 2022.8-) 
 
 
 
