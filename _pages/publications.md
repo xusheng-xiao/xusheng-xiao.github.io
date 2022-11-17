@@ -94,6 +94,7 @@ Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan W
 Shifa Zhong, Kai Zhang, Majid Bagheri, Joel G. Burken, April Gu, Baikun Li, Xingmao Ma, Babetta L. Marrone, Zhiyong Jason Ren, Joshua Schrier, Wei Shi, Haoyue Tan, Tianbao Wang, Xu Wang, Bryan M. Wong, Xusheng Xiao, Xiong Yu, Jun-Jie Zhu, and Huichun Zhang<br/>
 **Machine learning: New ideas and tools in Environmental Science and Engineering**<br/>
 *Invited feature article in Environment Science & Technology*, 2021. \[[DOI](https://doi.org/10.1021/acs.est.1c01339)\]\[[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c01339)\]
+* <a style="color: red" href="https://pubs.acs.org/doi/full/10.1021/acs.est.2c07931">2021 ES&T Best Paper Awards</a>
 
 Peng Gao, Fei Shao, Xiaoyuan Liu, Xusheng Xiao, Haoyuan Liu, Zheng Qin, Fengyuan Xu, Prateek Mittal, Sanjeev Kulkarni, and Dawn Song<br/>
 **A System for Efficiently Hunting for Cyber Threats in Computer Systems Using Threat Intelligence**<br/>
@@ -173,7 +174,7 @@ Peng Gao, Xusheng Xiao, Zhichun Li, Kangkook Jee, Fengyuan Xu, Sanjeev R. Kulkar
 Peng Gao, Xusheng Xiao, Ding Li, Zhichun Li, Kangkook Jee, Zhenyu Wu, Chung Hwan Kim, Sanjeev R. Kulkarni, and Prateek Mittal<br/>
 **SAQL: A Stream-based Query System for Real-Time Abnormal System Behavior Detection**<br/>
 *In Proceedings of the USENIX Security Symposium ([USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18))*, Boston, MA, USA, July 2018. \[[PDF](https://xusheng-xiao.github.io/papers/saql-usenixsecurity2018.pdf)\]\[[Website](https://sites.google.com/site/saqlsystem/)\] \[[Presentation Video](https://youtu.be/rBpET5tZfiI)\] \[[Poster](https://people.eecs.berkeley.edu/~penggao/resources/publications/posters/saql_security18_poster.pdf)\]\[[Demo Video](https://youtu.be/3S7D5jVoR2c)\] (Acceptance Rate: 19.2%, 100 out of 520)
-* ***CSAW'18 Best Applied Security Research Paper Award Top-10 Finalists*** (Acceptance Rate: 13.5%, 10 out of 74)
+* <span style="color: red;">CSAW'18 Best Applied Security Research Paper Award Top-10 Finalists</span> (Acceptance Rate: 13.5%, 10 out of 74)
 
 Yutao Tang, Ding Li, Zhichun Li, Mu Zhang, Kangkook Jee, Xusheng Xiao, Zhenyu Wu, Junghwan Rhee, Fengyuan Xu, and Qun Li<br/>
 **NodeMerge: Template Based Efficient Data Reduction For Big-Data Causality Analysis** <br/>
@@ -182,7 +183,7 @@ Yutao Tang, Ding Li, Zhichun Li, Mu Zhang, Kangkook Jee, Xusheng Xiao, Zhenyu Wu
 Peng Gao, Xusheng Xiao, Zhichun Li, Kangkook Jee, Fengyuan Xu, Sanjeev R. Kulkarni, and Prateek Mittal<br/>
 **AIQL: Enabling Efficient Attack Investigation from System Monitoring Data** <br/>
 *In Proceedings of the USENIX Annual Technical Conference ([USENIX ATC 2018](https://www.usenix.org/conference/atc18))*, Boston, MA, USA, July 2018. \[[PDF](https://xusheng-xiao.github.io/papers/aiql-usenix_atc2018.pdf)\]\[[Poster](https://people.eecs.berkeley.edu/~penggao/resources/publications/posters/aiql_atc18_poster.pdf)\]\[[Project Website](https://sites.google.com/site/aiqlsystem/)\]\[[Demo Website](http://sites.google.com/site/aiqlsystem)\] (Acceptance Rate: 20.9%, 79 out of 378)
-* ***Our work was integrated in the NEC Corporation's [Automated Security Intelligence solution](https://www.nec.com/en/global/techrep/journal/g16/n01/160110.html), which won the [1st place in the 2016 CEATEC Town Life and Society Innovation Award](http://www.ceatec.com/2016/en/award/award01_02.html).***
+* <span style="color: red;">Our work was integrated in the NEC Corporation's [Automated Security Intelligence solution](https://www.nec.com/en/global/techrep/journal/g16/n01/160110.html), which won the [1st place in the 2016 CEATEC Town Life and Society Innovation Award](http://www.ceatec.com/2016/en/award/award01_02.html).</span>
 
 Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, Laurie Williams<br/>
 **Are Vulnerabilities Discovered and Resolved Like Other Defects?** <br/>
@@ -249,7 +250,7 @@ Qing Gao, Xusheng Xiao, Jun Li, Yingfei Xiong, Kuanl Taneja, Dan Hao, Lu Zhang, 
 Jianjun Huang, Zhichun Li, Xusheng Xiao, Zhenyu Wu, Kangjie Lu, Xiangyu Zhang, and Guofei Jiang<br/>
 **SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps**<br/>
 *In Proceedings of the 24th USENIX Security Symposium ([USENIX Security 2015](https://www.usenix.org/conference/usenixsecurity15))*, pages 977-992, Washington, D.C., August 2015. \[[PDF](https://xusheng-xiao.github.io/papers/supor-usenix2015.pdf)\] (Acceptance Rate: 15.7%, 67 out of 426).
-* ***CSAW'15 Best Applied Security Research Paper Award Top-10 Finalists*** (Acceptance Rate: 12.2%, 10 out of 82)
+* <span style="color: red;">CSAW'15 Best Applied Security Research Paper Award Top-10 Finalists</span> (Acceptance Rate: 12.2%, 10 out of 82)
 
 Wei Yang, Xusheng Xiao, Benjamin Andow, Sihan Li, Tao Xie, and William Enck<br/>
 **AppContext: Differentiating Malicious and Benign Mobile App Behaviors Under Context**<br/>
@@ -296,9 +297,9 @@ Xusheng Xiao, Amit Paradkar, Suresh Thummalapenta and Tao Xie<br/>
 Xusheng Xiao, Nikolai Tillmann, Manuel Fahndrich, Jonathan de Halleux, Michal Moskal<br/>
 **User-Aware Privacy Control via Extended Static-Information-Flow Analysis**<br/>
 *In Proceedings of the 27th IEEE/ACM International Conference on Automated Software Engineering 2012 ([ASE 2012](http://ase2012.paluno.uni-due.de/))*, pages 80-89, Essen, Germany, September 2012. \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-ase2012.pdf)\] (Acceptance Rate: 21 / 138 = 15.2%) 
-* ***The static analysis engine based on this paper is integrated into [TouchDevelop](https://www.touchdevelop.com/), [Microsoft Research](http://research.microsoft.com/en-us/projects/touchdevelop/)***.
-* This paper was invited for [journal submission](http://link.springer.com/article/10.1007/s10515-014-0166-y)
-* A [US patent](https://www.google.com/patents/US9104528) was granted for the work of this paper
+* <span style="color: red;">The static analysis engine based on this paper is integrated into [TouchDevelop](https://www.touchdevelop.com/), [Microsoft Research](http://research.microsoft.com/en-us/projects/touchdevelop/)</span>.
+* <span style="color: red;">This paper was invited for [journal submission](http://link.springer.com/article/10.1007/s10515-014-0166-y).</span>
+* <span style="color: red;">A [US patent](https://www.google.com/patents/US9104528) was granted for the work of this paper.</span>
 
 Rahul Pandita, Xusheng Xiao, Hao Zhong, Tao Xie, Stephen Oney, and Amit Paradkar<br/>
 **Inferring Method Specifications from Natural Language API Descriptions**<br/>
@@ -311,7 +312,7 @@ Xusheng Xiao, Suresh Thummalapenta, and Tao Xie<br/>
 Xusheng Xiao<br/>
 **Problem Identification for Structural Test Generation: First Step Towards Cooperative Developer Testing**<br/>
 *ACM Student Research Competition ([ACM SRC](http://src.acm.org/)) Grand Finals*, San Francisco, CA, June 2012. 
-* ***Winner of the ICSE SRC Best Project Representing an Innovative Use of Microsoft Technology***
+* <span style="color: red;">Winner of the ICSE SRC Best Project Representing an Innovative Use of Microsoft Technology</span>
 
 Xusheng Xiao, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux<br/>
 **Precise Identification of Problems for Structural Test Generation**<br/>
@@ -320,7 +321,7 @@ Xusheng Xiao, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux<br/>
 Xusheng Xiao<br/>
 **Problem Identification for Structural Test Generation: First Step Towards Cooperative Developer Testing**<br/>
 *In Proceedings of the 33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/)), ACM Student Research Competition (SRC)*, pages 1179-1181, Honolulu, Hawaii, May 2011. \[[PDF](https://xusheng-xiao.github.io/papers/xusheng-icse2011src.pdf)\]
-* ***Won "Best project representing an innovative use of Microsoft technology" in ICSE 2011, Honolulu, HI!*** 
+* <span style="color: red;">Won "Best project representing an innovative use of Microsoft technology" in ICSE 2011, Honolulu, HI!</span> 
 
 Xusheng Xiao, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux<br/>
 **Covana: Precise Identification of Problems in Pex**<br/>
