@@ -24,7 +24,7 @@ Go to: [Patent](#patent) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [
 
 Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xusheng Xiao <br/>
 **DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** <br/>
-<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2022. \[[PDF]()\]
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2023. \[[PDF]()\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2022" style="color: black;text-decoration: none;">**2022**</a></span>
