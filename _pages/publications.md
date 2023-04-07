@@ -89,7 +89,7 @@ Yangyu Hu, Haoyu Wang, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao, and Yao G
 
 Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, and Yih-Chun Hu<br/>
 **Making Web 3.0 Connected - A Perspective from Interoperability and Programmability across Blockchains**<br/>
-*IEEE Transactions on Dependable and Secure Computing ([TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858))*, 2021.
+*IEEE Transactions on Dependable and Secure Computing ([TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858))*, 2021. \[[PDF](https://xusheng-xiao.github.io/papers/hyperservice-tdsc21.pdf)\]
 
 Shifa Zhong, Kai Zhang, Majid Bagheri, Joel G. Burken, April Gu, Baikun Li, Xingmao Ma, Babetta L. Marrone, Zhiyong Jason Ren, Joshua Schrier, Wei Shi, Haoyue Tan, Tianbao Wang, Xu Wang, Bryan M. Wong, Xusheng Xiao, Xiong Yu, Jun-Jie Zhu, and Huichun Zhang<br/>
 **Machine learning: New ideas and tools in Environmental Science and Engineering**<br/>
