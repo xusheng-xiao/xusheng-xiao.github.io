@@ -24,7 +24,11 @@ Go to: [Patent](#patent) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [
 
 Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xusheng Xiao <br/>
 **DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** <br/>
-<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2023. \[[PDF]()\]
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/distdet.pdf)\]
+
+Yi Liu, Yun Ma, Xusheng Xiao, Tao Xie, and Xuanzhe Liu<br/>
+**LegoDroid : Flexible Android Apps Decomposition and Instant Installation**<br/>
+<i>[Science China Information Sciences](https://www.springer.com/journal/11432)</i>, 66 (4), 1-19, 2023. \[[PDF](https://xusheng-xiao.github.io/papers/legodroid.pdf)\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2022" style="color: black;text-decoration: none;">**2022**</a></span>
@@ -64,9 +68,6 @@ Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian
 **Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 2022
 
-Yi Liu, Yun Ma, Xusheng Xiao, Tao Xie, and Xuanzhe Liu<br/>
-**LegoDroid : Flexible Android Apps Decomposition and Instant Installation**<br/>
-<i>[Science China Information Sciences](https://www.springer.com/journal/11432)</i>, 2022
 
 Liangyi Huang, Sophia Hall, Fei Shao, Arafath Nihar, Vipin Chaudhary, Yinghui Wu, Roger French, and Xusheng Xiao<br/>
 **System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems**<br/>
