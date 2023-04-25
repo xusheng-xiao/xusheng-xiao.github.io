@@ -66,7 +66,7 @@ Zikan Dong, Hongxuan Liu, Liu Wang, Xiapu Luo, Yao Guo, Guoai Xu, Xusheng Xiao, 
 
 Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
 **Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
-<i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 2022
+<i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/review_app_tse.pdf)\]
 
 
 Liangyi Huang, Sophia Hall, Fei Shao, Arafath Nihar, Vipin Chaudhary, Yinghui Wu, Roger French, and Xusheng Xiao<br/>
