@@ -68,10 +68,14 @@ Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian
 **Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/review_app_tse.pdf)\]
 
-
 Liangyi Huang, Sophia Hall, Fei Shao, Arafath Nihar, Vipin Chaudhary, Yinghui Wu, Roger French, and Xusheng Xiao<br/>
 **System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems**<br/>
 <i>[In Proceedings of the Conference on Information and Knowledge Management (CIKM), Demo Track](https://www.cikm2022.org/calls/call-for-demonstrations)</i>, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf)\]
+
+
+William C Oltjen, Yangxin Fan, Jiqi Liu, Liangyi Huang, Xuanji Yu, Mengjie Li, Hubert Seigneur, Xusheng Xiao, Kristopher O Davis, Laura S Bruckman, Yinghui Wu, and Roger H French<br/>
+**FAIRification, Quality Assessment, and Missingness Pattern Discovery for Spatiotemporal Photovoltaic Data**<br/>
+<i>[In Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC)](https://ieee-pvsc.org/PVSC49/)</i>, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/fairification.pdf)\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2021" style="color: black;text-decoration: none;">**2021**</a></span>
