@@ -26,6 +26,10 @@ Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xushe
 **DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** <br/>
 <i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/distdet.pdf)\]
 
+Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, and Zhuotao Liu <br/>
+**iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements** <br/>
+<i>In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2023](https://conf.researchr.org/home/issta-2023))</i>, July 2023. \[[PDF]()\]
+
 Yi Liu, Yun Ma, Xusheng Xiao, Tao Xie, and Xuanzhe Liu<br/>
 **LegoDroid : Flexible Android Apps Decomposition and Instant Installation**<br/>
 <i>[Science China Information Sciences](https://www.springer.com/journal/11432)</i>, 66 (4), 1-19, 2023. \[[PDF](https://xusheng-xiao.github.io/papers/legodroid.pdf)\]
