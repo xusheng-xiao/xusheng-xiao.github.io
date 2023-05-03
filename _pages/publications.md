@@ -22,13 +22,18 @@ Go to: [Patent](#patent) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [
 
 <span style="color: black;font-size: 18px;"><a id="2023" style="color: black;text-decoration: none;">**2023**</a></span>
 
+Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, and Zhuotao Liu <br/>
+**iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements** <br/>
+<i>In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2023](https://conf.researchr.org/home/issta-2023))</i>, July 2023. \[[PDF]()\]
+
 Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xusheng Xiao <br/>
 **DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** <br/>
 <i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/distdet.pdf)\]
 
-Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, and Zhuotao Liu <br/>
-**iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements** <br/>
-<i>In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2023](https://conf.researchr.org/home/issta-2023))</i>, July 2023. \[[PDF]()\]
+Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, and Ting Wang <br/>
+**On the Security Risks of Knowledge Graph Reasoning** <br/>
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2023. \[[PDF]()\]
+
 
 Yi Liu, Yun Ma, Xusheng Xiao, Tao Xie, and Xuanzhe Liu<br/>
 **LegoDroid : Flexible Android Apps Decomposition and Instant Installation**<br/>
