@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## PhD students:
-* [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023]() \]
+* [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023]()\]
 * [Yuxi Huang]() (2023.8-) 
 * [Shijie Lu]() (2023.8-) 
 * [Shang Ma]() (Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/), 2022.8-) 

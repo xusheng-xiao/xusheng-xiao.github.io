@@ -29,7 +29,7 @@ I am always looking for PhD students and interns with strong background in SE, S
 
 ## News
 
-* 5/2023: Congratulations to my student Liangyi Huang and my collaborators! Our paper "Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools" has been accepted in [CCS](https://www.sigsac.org/ccs/CCS2023/)!
+* 5/2023: Congratulations to my student Liangyi Huang and my collaborators! Our paper "Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools" has been accepted in [CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
 * 5/2023: Congratulations to my student Pengcheng Fang and my collaborators! Our paper "iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements" has been accepted in [ISSTA 2023](https://conf.researchr.org/home/issta-2023)!
 * 5/2023: Congratulations to my collaborators! Our paper "On the Security Risks of Knowledge Graph Reasoning" has been accepted in the [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
 * 11/2022: Congratulations to my collaborators! Our feature article "Machine learning: New ideas and tools in Environmental Science and Engineering" received the [2021 ES&T best paper award](https://pubs.acs.org/doi/full/10.1021/acs.est.2c07931)!
