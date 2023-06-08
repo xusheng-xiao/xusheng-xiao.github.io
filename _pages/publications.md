@@ -28,36 +28,41 @@ Feng Dong, Shaofei Li, Peng Jiang, Ding Li, Haoyu Wang, Liangyi Huang, Xusheng X
 
 Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, and Zhuotao Liu <br/>
 **iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements** <br/>
-<i>In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2023](https://conf.researchr.org/home/issta-2023))</i>, July 2023. \[[PDF]()\]
+<i>In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2023](https://conf.researchr.org/home/issta-2023))</i>, Seattle, WA, USA, July 2023. \[[PDF]()\]
 
 Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xusheng Xiao <br/>
 **DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** <br/>
-<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/distdet.pdf)\]
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, Anaheim, CA, USA, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/distdet.pdf)\]
 
 Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, and Ting Wang <br/>
 **On the Security Risks of Knowledge Graph Reasoning** <br/>
-<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, May 2023. \[[PDF]()\]
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, Anaheim, CA, USA, May 2023. \[[PDF]()\]
+
+
+Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
+**Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
+<i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 49(4): 1464-1486, 2023. \[[PDF](https://xusheng-xiao.github.io/papers/review_app_tse.pdf)\]
 
 
 Yi Liu, Yun Ma, Xusheng Xiao, Tao Xie, and Xuanzhe Liu<br/>
 **LegoDroid : Flexible Android Apps Decomposition and Instant Installation**<br/>
-<i>[Science China Information Sciences](https://www.springer.com/journal/11432)</i>, 66 (4), 1-19, 2023. \[[PDF](https://xusheng-xiao.github.io/papers/legodroid.pdf)\]
+<i>[Science China Information Sciences](https://www.springer.com/journal/11432)</i>, 66 (4): 1-19, 2023. \[[PDF](https://xusheng-xiao.github.io/papers/legodroid.pdf)\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2022" style="color: black;text-decoration: none;">**2022**</a></span>
 
 Shao Yang, Yuehan Wang, Yuan Yao, Haoyu Wang, Yanfang (Fanny) Ye, and Xusheng Xiao <br/>
 **DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps** <br/>
-<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2022](https://conf.researchr.org/home/icse-2022))</i>, May 2022. \[[PDF](https://xusheng-xiao.github.io/papers/describectx_cr.pdf)\]\[[Project Website](https://github.com/DescribeCTX/DescribeCTX)\]
+<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2022](https://conf.researchr.org/home/icse-2022))</i>, Pittsburgh, PA, May 2022. \[[PDF](https://xusheng-xiao.github.io/papers/describectx_cr.pdf)\]\[[Project Website](https://github.com/DescribeCTX/DescribeCTX)\]
 
 
 Changlin Liu, Hanlin Wang, Tianming Liu, Diandian Gu, Yun Ma, Haoyu Wang, and Xusheng Xiao <br/>
 **Promal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning** <br/>
-<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2022](https://conf.researchr.org/home/icse-2022))</i>, May 2022. \[[PDF](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf)\]\[[Project Website](https://github.com/promal-android/Promal)\]
+<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2022](https://conf.researchr.org/home/icse-2022))</i>, Pittsburgh, PA, May 2022. \[[PDF](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf)\]\[[Project Website](https://github.com/promal-android/Promal)\]
 
 Zhiqiang Xu, Pengcheng Fang, Changlin Liu, Xusheng Xiao, Yu Wen, and Dan Meng <br/>
 **DepComm: Graph Summarization on System Audit Logs for Attack Investigation** <br/>
-<i>In Proceedings of the IEEE Symposium on Security and Privacy ([IEEE S & P 2022](https://www.ieee-security.org/TC/SP2022/))</i>, May 2022. \[[PDF](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf)\]\[[Project Website](https://github.com/ieeesp2021sub/depcomm)\]
+<i>In Proceedings of the IEEE Symposium on Security and Privacy ([IEEE S & P 2022](https://www.ieee-security.org/TC/SP2022/))</i>, San Francisco, CA, USA, May 2022. \[[PDF](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf)\]\[[Project Website](https://github.com/ieeesp2021sub/depcomm)\]
 
 Pengcheng Fang\*, Peng Gao\*, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, and Xusheng Xiao<br/>
 **Back-Propagating System Dependency Impact for Attack Investigation** <br/>
@@ -66,29 +71,30 @@ Pengcheng Fang\*, Peng Gao\*, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang
 
 Pengcheng Xia, Haoyu Wang, Weihang Su, Zhou Yu, Xiapu Luo, Chao Zhang, Xusheng Xiao, and Guoai Xu<br/>
 **Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange** <br/>
-<i>In Proceedings of the ACM SIGMETRICS / IFIP Performance ([SIGMETRICS 2022](https://www.sigmetrics.org/sigmetrics2022/))</i>, June 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/uniswap.pdf)\]
+<i>In Proceedings of the ACM SIGMETRICS / IFIP Performance ([SIGMETRICS 2022](https://www.sigmetrics.org/sigmetrics2022/))</i>, Mumbai, India, June 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/uniswap.pdf)\]
 
 Guosheng Xu, Siyi Li, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu, and Haoyu Wang<br/>
 **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**<br/>
-<i>In Proceedings of the ACM Web Conference 2022 ([WWW 2022](https://www2022.thewebconf.org/))</i>, April 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/lietome-www2022.pdf)\]
+<i>In Proceedings of the ACM Web Conference 2022 ([WWW 2022](https://www2022.thewebconf.org/))</i>, Lyon, France, April 2022.  \[[PDF](https://xusheng-xiao.github.io/papers/lietome-www2022.pdf)\]
 
 
 Zikan Dong, Hongxuan Liu, Liu Wang, Xiapu Luo, Yao Guo, Guoai Xu, Xusheng Xiao, and Haoyu Wang<br/>
 **What Did You Pack in My App? A Systematic Analysis of Commercial Android Packers**<br/>
-<i>In Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2022](https://2022.esec-fse.org/)), Industry Track</i>, Nov 2022. \[[PDF](https://xusheng-xiao.github.io/papers/apppacker.pdf)\]
+<i>In Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2022](https://2022.esec-fse.org/)), Industry Track</i>, Singapore, Nov 2022. \[[PDF](https://xusheng-xiao.github.io/papers/apppacker.pdf)\]
 
-Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
-**Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
-<i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/review_app_tse.pdf)\]
+Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, and Yih-Chun Hu<br/>
+**Making Web 3.0 Connected - A Perspective from Interoperability and Programmability across Blockchains**<br/>
+*IEEE Transactions on Dependable and Secure Computing ([TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858))*, 19(5): 2965-2981, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/hyperservice-tdsc21.pdf)\]
+
 
 Liangyi Huang, Sophia Hall, Fei Shao, Arafath Nihar, Vipin Chaudhary, Yinghui Wu, Roger French, and Xusheng Xiao<br/>
 **System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems**<br/>
-<i>[In Proceedings of the Conference on Information and Knowledge Management (CIKM), Demo Track](https://www.cikm2022.org/calls/call-for-demonstrations)</i>, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf)\]
+<i>[In Proceedings of the Conference on Information and Knowledge Management (CIKM), Demo Track](https://www.cikm2022.org/calls/call-for-demonstrations)</i>, Hybrid Conference, Atlanta, Georgia, USA, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf)\]
 
 
 William C Oltjen, Yangxin Fan, Jiqi Liu, Liangyi Huang, Xuanji Yu, Mengjie Li, Hubert Seigneur, Xusheng Xiao, Kristopher O Davis, Laura S Bruckman, Yinghui Wu, and Roger H French<br/>
 **FAIRification, Quality Assessment, and Missingness Pattern Discovery for Spatiotemporal Photovoltaic Data**<br/>
-<i>[In Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC)](https://ieee-pvsc.org/PVSC49/)</i>, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/fairification.pdf)\]
+<i>[In Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC)](https://ieee-pvsc.org/PVSC49/)</i>, San Juan, Puerto Rico, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/fairification.pdf)\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2021" style="color: black;text-decoration: none;">**2021**</a></span>
@@ -105,9 +111,6 @@ Yangyu Hu, Haoyu Wang, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao, and Yao G
 **CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market Policies**<br/>
 *In Proceedings of the 43rd International Conference on Software Engineering ([ICSE 2021](https://conf.researchr.org/home/icse-2021))*, Madrid, Spain, May 2021. \[[PDF](https://xusheng-xiao.github.io/papers/champ_icse2021_cr-submit3.pdf)\]
 
-Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, and Yih-Chun Hu<br/>
-**Making Web 3.0 Connected - A Perspective from Interoperability and Programmability across Blockchains**<br/>
-*IEEE Transactions on Dependable and Secure Computing ([TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858))*, 2021. \[[PDF](https://xusheng-xiao.github.io/papers/hyperservice-tdsc21.pdf)\]
 
 Shifa Zhong, Kai Zhang, Majid Bagheri, Joel G. Burken, April Gu, Baikun Li, Xingmao Ma, Babetta L. Marrone, Zhiyong Jason Ren, Joshua Schrier, Wei Shi, Haoyue Tan, Tianbao Wang, Xu Wang, Bryan M. Wong, Xusheng Xiao, Xiong Yu, Jun-Jie Zhu, and Huichun Zhang<br/>
 **Machine learning: New ideas and tools in Environmental Science and Engineering**<br/>
@@ -116,7 +119,7 @@ Shifa Zhong, Kai Zhang, Majid Bagheri, Joel G. Burken, April Gu, Baikun Li, Xing
 
 Peng Gao, Fei Shao, Xiaoyuan Liu, Xusheng Xiao, Haoyuan Liu, Zheng Qin, Fengyuan Xu, Prateek Mittal, Sanjeev Kulkarni, and Dawn Song<br/>
 **A System for Efficiently Hunting for Cyber Threats in Computer Systems Using Threat Intelligence**<br/>
-*In Proceedings of the 37th IEEE International Conference on Data Engineering ([ICDE 2021](https://icde2021.gr/)), Demo Track*, Virtual Event, April 2021. \[[PDF](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf)\].
+*In Proceedings of the 37th IEEE International Conference on Data Engineering ([ICDE 2021](https://icde2021.gr/)), Demo Track*, Virtual, April 2021. \[[PDF](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf)\].
 
 
 <span style="color: black;font-size: 18px;"><a id="2020" style="color: black;text-decoration: none;">**2020**</a></span>
