@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* Fall 2023: **CSE 464: Software Quality Assurance and Testing**
 * Spring 2023: **CSE 464: Software Quality Assurance and Testing**
 * Fall 2022: **CSE 545: Software Security**
 * Spring 2022: **CSDS 393/493: Software Engineering**
