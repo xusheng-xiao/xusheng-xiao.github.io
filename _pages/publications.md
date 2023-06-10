@@ -114,7 +114,7 @@ Yangyu Hu, Haoyu Wang, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao, and Yao G
 
 Shifa Zhong, Kai Zhang, Majid Bagheri, Joel G. Burken, April Gu, Baikun Li, Xingmao Ma, Babetta L. Marrone, Zhiyong Jason Ren, Joshua Schrier, Wei Shi, Haoyue Tan, Tianbao Wang, Xu Wang, Bryan M. Wong, Xusheng Xiao, Xiong Yu, Jun-Jie Zhu, and Huichun Zhang<br/>
 **Machine learning: New ideas and tools in Environmental Science and Engineering**<br/>
-*Invited feature article in Environment Science & Technology*, 2021. \[[DOI](https://doi.org/10.1021/acs.est.1c01339)\]\[[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c01339)\]
+*Invited feature article in Environment Science & Technology*, 55(19): 12741-12754, 2021. \[[DOI](https://doi.org/10.1021/acs.est.1c01339)\]\[[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c01339)\]
 * <a style="color: red" href="https://pubs.acs.org/doi/full/10.1021/acs.est.2c07931">2021 ES&T Best Paper Awards</a>
 
 Peng Gao, Fei Shao, Xiaoyuan Liu, Xusheng Xiao, Haoyuan Liu, Zheng Qin, Fengyuan Xu, Prateek Mittal, Sanjeev Kulkarni, and Dawn Song<br/>
@@ -224,7 +224,7 @@ Jiayi Cao, Angello Astorga, Siwakorn Srisakaokul, Zhengkai Wu, Xueqing Liu, Xush
 
 Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, Laurie Williams<br/>
 **Are Vulnerabilities Discovered and Resolved Like Other Defects?** <br/>
-*Empirical Software Engineering ([EMSE](http://www.springer.com/computer/swe/journal/10664))*, pages 1-39, 2017.
+*Empirical Software Engineering ([EMSE](http://www.springer.com/computer/swe/journal/10664))*, 23(3): 1383--1421, 2017.
 
 Yujie Yuan, Lihua Xu, Xusheng Xiao, Andy Podguiski, Huibiao Zhu<br/>
 **RunDroid: Recovering Excution Call Graph for Android Applications**<br/>
@@ -279,7 +279,7 @@ Wei Yang, Xusheng Xiao, Benjamin Andow, Sihan Li, Tao Xie, and William Enck<br/>
 
 Xusheng Xiao, Nikolai Tillmann, Manuel Fahndrich, Jonathan de Halleux, Michal Moskal, and Tao Xie<br/>
 **User-Aware Privacy Control via Extended Static-Information-Flow Analysis**<br/>
-*Automated Software Engineering Journal ([ASEJ](http://link.springer.com/journal/10515))*, 22 (3): 333-366, 2015. \[[PDF](http://link.springer.com/article/10.1007/s10515-014-0166-y)\]. A previous version appeared in [Proceedings of ASE 2012](https://xusheng-xiao.github.io/papers/xusheng-ase2012.pdf).
+*Automated Software Engineering Journal ([ASEJ](http://link.springer.com/journal/10515))*, 22(3): 333-366, 2015. \[[PDF](http://link.springer.com/article/10.1007/s10515-014-0166-y)\]. A previous version appeared in [Proceedings of ASE 2012](https://xusheng-xiao.github.io/papers/xusheng-ase2012.pdf).
 
 <span style="color: black;font-size: 18px;"><a id="before" style="color: black;text-decoration: none;">**Before 2015**</a></span>
 
@@ -328,7 +328,7 @@ Rahul Pandita, Xusheng Xiao, Hao Zhong, Tao Xie, Stephen Oney, and Amit Paradkar
 
 Xusheng Xiao, Suresh Thummalapenta, and Tao Xie<br/>
 **Advances on Improving Automation in Developer Testing**<br/>
-*In Advances in Computers Series*, Volume 85, Burlington: Academic Press, 2012, pages 165-212. \[[PDF](http://www.sciencedirect.com/science/article/pii/B9780123965264000047)\]
+*In Advances in Computers Series*, Volume 85, Burlington: Academic Press, 85: 165-212, 2012. \[[PDF](http://www.sciencedirect.com/science/article/pii/B9780123965264000047)\]
 
 Xusheng Xiao<br/>
 **Problem Identification for Structural Test Generation: First Step Towards Cooperative Developer Testing**<br/>
