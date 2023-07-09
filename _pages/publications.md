@@ -28,7 +28,7 @@ Feng Dong, Shaofei Li, Peng Jiang, Ding Li, Haoyu Wang, Liangyi Huang, Xusheng X
 
 Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, and Zhuotao Liu <br/>
 **iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements** <br/>
-<i>In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2023](https://conf.researchr.org/home/issta-2023))</i>, Seattle, WA, USA, July 2023. \[[PDF]()\]
+<i>In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA 2023](https://conf.researchr.org/home/issta-2023))</i>, Seattle, WA, USA, July 2023. \[[PDF](https://xusheng-xiao.github.io/papers/iSyn_issta.pdf)\]
 
 Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xusheng Xiao <br/>
 **DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** <br/>
