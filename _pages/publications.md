@@ -36,7 +36,7 @@ Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xushe
 
 Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, and Ting Wang <br/>
 **On the Security Risks of Knowledge Graph Reasoning** <br/>
-<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, Anaheim, CA, USA, May 2023. \[[PDF]()\]
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, Anaheim, CA, USA, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/usenixsecurity23-xi.pdf)\]
 
 
 Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
