@@ -32,7 +32,7 @@ Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, and Zhuotao Liu <br/>
 
 Feng Dong, Liu Wang, Xu Nie, Fei Shao, Haoyu Wang, Ding Li, Xiapu Luo, and Xusheng Xiao <br/>
 **DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** <br/>
-<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, Anaheim, CA, USA, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/distdet.pdf)\]
+<i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, Anaheim, CA, USA, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/usenixsecurity23-distdet.pdf)\]
 
 Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, and Ting Wang <br/>
 **On the Security Risks of Knowledge Graph Reasoning** <br/>
