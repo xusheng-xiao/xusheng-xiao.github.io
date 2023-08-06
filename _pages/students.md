@@ -17,10 +17,10 @@ author_profile: true
 * [Changlin Liu](https://changlinliu93.github.io/) (2020.8-), CWRU, \[[ISSACS Student Fellowship](https://engineering.case.edu/research/institutes/smart-secure-connected-systems), [ASE 2019](https://xusheng-xiao.github.io/papers/ase19-main-158.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]
 
 ## MS Students:
-* Rachel Guzman (2023.3- )
+* Rachel Guzman (2023.3-)
 
 ## Undergraduate Students
-* Baozan Yan (2023 summer), ASU
+* Baozan Yan (2023 summer)
 
 
 ## Past PhD Students:
