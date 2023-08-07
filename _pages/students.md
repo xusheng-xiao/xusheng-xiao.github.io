@@ -43,7 +43,7 @@ author_profile: true
 
 ## Past Undergraduate Students
 * Yuanyuan Huang (2021 summer), University of Electronic Science and Technology of China
-* Yuehan Wang (2020 summer), \[ [ICSE 2022](https://xusheng-xiao.github.io/papers/describectx_cr.pdf) \], Nanjing University
+* Yuehan Wang (2020 summer), \[[ICSE 2022](https://xusheng-xiao.github.io/papers/describectx_cr.pdf)\], Nanjing University
 * Taylor Smith (2018 summer), [SOURCE Award 2018], CWRU
 
 
