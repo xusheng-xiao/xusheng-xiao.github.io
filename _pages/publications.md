@@ -39,6 +39,10 @@ Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng 
 <i>In Proceedings of the USENIX Security Symposium ([USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23))</i>, Anaheim, CA, USA, May 2023. \[[PDF](https://xusheng-xiao.github.io/papers/usenixsecurity23-xi.pdf)\]
 
 
+Shi Meng, Liu Wang, Shenao Wang, Kailong Wang, Xusheng Xiao, Guangdong Bai, and Haoyu Wang <br/>
+**WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs** <br/>
+<i>In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2023](hhttps://conf.researchr.org/home/ase-2023))</i>, Kirchberg, Luxembourg, Sep 2023. \[[PDF]()\]
+
 Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
 **Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 49(4): 1464-1486, 2023. \[[PDF](https://xusheng-xiao.github.io/papers/review_app_tse.pdf)\]

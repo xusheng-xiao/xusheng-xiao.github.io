@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* 8/2023: Congratulations to my collaborators! Our paper "WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs" has been accepted in the [ASE 2023](https://conf.researchr.org/home/ase-2023)!
 * 5/2023: Congratulations to my student Liangyi Huang and my collaborators! Our paper "Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools" has been accepted in [CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
 * 5/2023: Congratulations to my student Pengcheng Fang and my collaborators! Our paper "iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements" has been accepted in [ISSTA 2023](https://conf.researchr.org/home/issta-2023)!
 * 5/2023: Congratulations to my collaborators! Our paper "On the Security Risks of Knowledge Graph Reasoning" has been accepted in the [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
