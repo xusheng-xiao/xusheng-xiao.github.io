@@ -9,8 +9,8 @@ author_profile: true
 
 ## PhD Students:
 * [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023]()\]
-* [Yuxi Huang]() (2023.8-), \[Fulton Fellowship\]
-* [Shijie Lu]() (2023.8-), \[Fulton Fellowship\]
+* [Yuxi Huang](https://yuxihh.github.io/) (2023.8-), \[Fulton Fellowship\]
+* [Shijie Lu](https://shijie-lu.com/) (2023.8-), \[Fulton Fellowship\]
 * [Zichen Liu]() (2023.5-), co-advised with [Prof. Chaowei Xiao](https://xiaocw11.github.io/)
 * [Shang Ma]() (2022.8-), Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/)
 * [Fei Shao](https://feishao315.github.io/) (2018.5-), CWRU, \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [USENIX Security 2023](https://xusheng-xiao.github.io/papers/usenixsecurity23-distdet.pdf), [NDSS 2024]()\]
