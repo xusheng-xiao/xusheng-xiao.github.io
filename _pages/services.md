@@ -9,6 +9,7 @@ author_profile: true
 
 ## Conference/Workshop Program Committee
 
+* 2025: [ICSE](https://conf.researchr.org/track/icse-2025)
 * 2024: [IEEE S&P](https://www.ieee-security.org/TC/SP2024/), [FSE](https://conf.researchr.org/home/fse-2024), [ISSTA](https://conf.researchr.org/home/issta-2024), [PETS](https://petsymposium.org/cfp24.php), [WWW](https://www2024.thewebconf.org)
 * 2023: [IEEE S&P](https://www.ieee-security.org/TC/SP2023/), [CCS](https://www.sigsac.org/ccs/CCS2023/), [ICDCS](https://icdcs2023.icdcs.org/), [SANER](https://saner2023.must.edu.mo/), [ASE](https://conf.researchr.org/home/ase-2023), [ESEC/FSE Industry](https://2023.esec-fse.org/track/fse-2023-industry)
 * 2022: [CCS](https://www.sigsac.org/ccs/CCS2022), [ASE](https://conf.researchr.org/home/ase-2022), [ESEC/FSE Industry Track](https://2022.esec-fse.org/track/fse-2022-industry), [ICST](https://icst2022.vrain.upv.es/), [ICDCS](https://icdcs2022.icdcs.org/), [SANER](https://saner2022.uom.gr/)
@@ -32,6 +33,7 @@ author_profile: true
 ## Journal Reviewer
 
 * ACM Transactions on Software Engineering and Methodology (TOSEM) (Distinguished Reviewer for 2020)
+* IEEE Transactions on Software Engineering (TSE)
 * Empirical Software Engineering (EMSE)
 * IEEE’s Transactions on Dependable and Secure Computing (TDSC)
 * ACM Transactions on Information and System Security (TISSEC)
@@ -46,7 +48,7 @@ author_profile: true
 * Journal of Information Security and Applications (JISA)
 
 
-## External Reviewer
+<!-- ## External Reviewer
 
 * International Conference on Software Engineering (ICSE), 2015, 2014, 2011
 * IEEE International Conference on Computer Communications (INFOCOM), 2015
@@ -58,4 +60,4 @@ author_profile: true
 * International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2013
 * IEEE/ACM International Conference on Automated Software Engineering (ASE), 2013, 2012, 2011
 * International Conference on Software Maintenance and Evolution (ICSM), 2012, 2010
-* International Symposium on Software Reliability Engineering (ISSRE), 2010
+* International Symposium on Software Reliability Engineering (ISSRE), 2010 -->
