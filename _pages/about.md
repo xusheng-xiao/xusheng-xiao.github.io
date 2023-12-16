@@ -29,6 +29,7 @@ I am always looking for PhD students and interns with strong background in SE, S
 
 ## News
 
+* 12/2023: Congratulations to my collaborators! Our paper "MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty" has been accepted to [ICSE 2024](https://conf.researchr.org/home/icse-2024)!
 * 8/2023: Congratulations to my student Fei Shao and my collaborators! Our paper "NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation" has been accepted in the [NDSS 2024](https://www.ndss-symposium.org/ndss2024/)!
 * 8/2023: Congratulations to my collaborators! Our paper "WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs" has been accepted in the [ASE 2023](https://conf.researchr.org/home/ase-2023)!
 * 5/2023: Congratulations to my student Liangyi Huang and my collaborators! Our paper "Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools" has been accepted in [CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
