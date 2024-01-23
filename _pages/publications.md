@@ -53,12 +53,15 @@ Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng 
 
 Shi Meng, Liu Wang, Shenao Wang, Kailong Wang, Xusheng Xiao, Guangdong Bai, and Haoyu Wang <br/>
 **WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs** <br/>
-<i>In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2023](hhttps://conf.researchr.org/home/ase-2023))</i>, Kirchberg, Luxembourg, Sep 2023. \[[PDF]()\]
+<i>In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2023](https://conf.researchr.org/home/ase-2023))</i>, Kirchberg, Luxembourg, Sep 2023. \[[PDF](https://xusheng-xiao.github.io/papers/wemint-ase2023.pdf)\]
 
 Le Yu, Haoyu Wang, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, and Xusheng Xiao<br/>
 **Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews**<br/>
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, 49(4): 1464-1486, 2023. \[[PDF](https://xusheng-xiao.github.io/papers/review_app_tse.pdf)\]
 
+Zhongyu Ouyang, Shifu Hou, Shang Ma, Chaoran Chen, Chunhui Zhang, Toby Li, Xusheng Xiao, Chuxu Zhang, and Yanfang Ye <br/>
+**Prompt Learning Unlocked for App Promotion in the Wild** <br/>
+<i>In Proceedings of the NeurIPS 2023 Workshop: New Frontiers in Graph Learning ([GLFrontiers 2023](https://glfrontiers.github.io/))</i>, New Orleans, Louisiana, USA, Dec 2023. \[[PDF](https://xusheng-xiao.github.io/papers/promptpromotion-glfrontier23.pdf)\]
 
 Yi Liu, Yun Ma, Xusheng Xiao, Tao Xie, and Xuanzhe Liu<br/>
 **LegoDroid : Flexible Android Apps Decomposition and Instant Installation**<br/>
