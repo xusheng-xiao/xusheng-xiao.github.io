@@ -23,7 +23,7 @@ I am always looking for PhD students and interns with strong background in SE, S
 
 <hr/>
 
-<p style="text-align:center;"><img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" style="width:100%" /></p>
+<p style="text-align:center;"><img alt="RISE Group Photo in May 2022" src="/images/groupphoto-asu-2024.jpg" style="width:100%" /></p>
 
 <hr/>
 
