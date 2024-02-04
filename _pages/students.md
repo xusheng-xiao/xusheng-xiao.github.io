@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+## RISE Lab Group Photos:
+
+<figure>
+  <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg" style="width:100%" />
+  <figcaption style="text-align: center">RISE Group Photo in Feb 2024</figcaption>
+</figure>
+
+
+<figure>
+  <img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" style="width:100%" />
+  <figcaption style="text-align: center">RISE Group Photo in May 2022</figcaption>
+</figure>
+
+
+
 ## PhD Students:
 * [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023]()\]
 * [Yuxi Huang](https://yuxihh.github.io/) (2023.8-), \[Fulton Fellowship\]

@@ -23,22 +23,6 @@ I am always looking for PhD students and interns with strong background in SE, S
 
 <hr/>
 
-
-
-<figure>
-  <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg" style="width:100%" />
-  <figcaption style="text-align: center">RISE Group Photo in Feb 2024</figcaption>
-</figure>
-
-
-<figure>
-  <img alt="RISE Group Photo in May 2022" src="/images/groupphoto-groupphoto-cwru2.jpg" style="width:100%" />
-  <figcaption style="text-align: center">RISE Group Photo in May 2022</figcaption>
-</figure>
-
-
-<hr/>
-
 ## News
 
 * 12/2023: Congratulations to my collaborators! Our paper "MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty" has been accepted to [ICSE 2024](https://conf.researchr.org/home/icse-2024)!
