@@ -67,17 +67,17 @@ author_profile: true
 ## RISE Lab Group Photos:
 
 <table style = "border: 0px solid black;border-collapse: collapse;">
-	<tr>
-    <td><figure>
-  <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg" style="width:45%" />
-</figure></td>
-    <td><figure>
-  <img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" style="width:45%" />
-</figure></td>
+	<tr style = "border: 0px solid black;border-collapse: collapse;width: 95%;">
+    <td style="width:45%;border: 0px solid black;">
+  <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg"  />
+</td>
+<td style="width:45%;border: 0px solid black;">
+  <img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" />
+</td>
   </tr>
-  <tr>
-  	<td style="text-align: center"> RISE Group Photo in Feb 2024</td>
-  	<td style="text-align: center"> RISE Group Photo in May 2022</td>
+  <tr style = "border: 0px solid black;border-collapse: collapse;width: 95%;">
+  	<td style="text-align: center;border: 0px solid black;"> RISE Group Photo in Feb 2024</td>
+  	<td style="text-align: center;border: 0px solid black;"> RISE Group Photo in May 2022</td>
   </tr>
 </table>
 
