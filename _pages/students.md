@@ -7,20 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## RISE Lab Group Photos:
-
-<figure>
-  <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg" style="width:100%" />
-  <figcaption style="text-align: center">RISE Group Photo in Feb 2024</figcaption>
-</figure>
-
-
-<figure>
-  <img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" style="width:100%" />
-  <figcaption style="text-align: center">RISE Group Photo in May 2022</figcaption>
-</figure>
-
-
 
 ## PhD Students:
 * [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023]()\]
@@ -76,3 +62,25 @@ author_profile: true
 * Bo Zong (2014), University of California, Santa Barbara, \[[VLDB 2016](http://www.vldb.org/pvldb/vol9/p240-zong.pdf)\]
 * Jianjun Huang (2014), Purdue University, \[[USENIX Security 2015](https://xusheng-xiao.github.io/papers/supor-usenix2015.pdf)\]
 * Zhang Xu （, College of William and Mary, \[[CCS 2016](https://xusheng-xiao.github.io/papers/reduction-ccs.pdf)\]
+
+
+## RISE Lab Group Photos:
+
+<table>
+	<tr>
+    <td><figure>
+  <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg" style="width:45%" />
+  <figcaption style="text-align: center">RISE Group Photo in Feb 2024</figcaption>
+</figure></td>
+    <td><figure>
+  <img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" style="width:45%" />
+  <figcaption style="text-align: center">RISE Group Photo in May 2022</figcaption>
+</figure></td>
+  </tr>
+</table>
+
+
+
+
+
+
