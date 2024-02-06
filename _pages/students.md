@@ -7,6 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
+## RISE Lab Group Photos:
+
+<table style = "border: 0px solid black;border-collapse: collapse;">
+	<tr style = "border: 0px solid black;border-collapse: collapse;width: 95%;">
+    <td style="width:40%;border: 0px solid black;">
+  <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg"  />
+</td>
+<td style="width:45%;border: 0px solid black;">
+  <img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" />
+</td>
+  </tr>
+  <tr style = "border: 0px solid black;border-collapse: collapse;width: 95%;">
+  	<td style="text-align: center;border: 0px solid black;"> RISE Group Photo in Feb 2024</td>
+  	<td style="text-align: center;border: 0px solid black;"> RISE Group Photo in May 2022</td>
+  </tr>
+</table>
+
 
 ## PhD Students:
 * [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023]()\]
@@ -64,22 +81,7 @@ author_profile: true
 * Zhang Xu （, College of William and Mary, \[[CCS 2016](https://xusheng-xiao.github.io/papers/reduction-ccs.pdf)\]
 
 
-## RISE Lab Group Photos:
 
-<table style = "border: 0px solid black;border-collapse: collapse;">
-	<tr style = "border: 0px solid black;border-collapse: collapse;width: 95%;">
-    <td style="width:40%;border: 0px solid black;">
-  <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg"  />
-</td>
-<td style="width:45%;border: 0px solid black;">
-  <img alt="RISE Group Photo in May 2022" src="/images/groupphoto-cwru2.jpg" />
-</td>
-  </tr>
-  <tr style = "border: 0px solid black;border-collapse: collapse;width: 95%;">
-  	<td style="text-align: center;border: 0px solid black;"> RISE Group Photo in Feb 2024</td>
-  	<td style="text-align: center;border: 0px solid black;"> RISE Group Photo in May 2022</td>
-  </tr>
-</table>
 
 
 
