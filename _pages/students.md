@@ -11,7 +11,7 @@ author_profile: true
 
 <table style = "border: 0px solid black;border-collapse: collapse;">
 	<tr style = "border: 0px solid black;border-collapse: collapse;width: 95%;">
-    <td style="width:40%;border: 0px solid black;">
+    <td style="width:35%;border: 0px solid black;">
   <img alt="RISE Group Photo in Feb 2024" src="/images/groupphoto-asu-2024.jpg"  />
 </td>
 <td style="width:45%;border: 0px solid black;">
