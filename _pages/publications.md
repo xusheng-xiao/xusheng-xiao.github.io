@@ -25,11 +25,11 @@ Go to: [Patent](#patent) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [
 
 Shaofei Li, Feng Dong, Ding Li, Xusheng Xiao, Haoyu Wang, Fei Shao, Jiedong Chen, Yao Guo, and Xiangqun Chen <br/>
 **NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation** <br/>
-<i>In Proceedings of the Network and Distributed System Security Symposium ([NDSS 2024](https://www.ndss-symposium.org/ndss2024/))</i>, San Diego, California, USA, Feb-Mar 2024. \[[PDF]()\] 
+<i>In Proceedings of the Network and Distributed System Security Symposium ([NDSS 2024](https://www.ndss-symposium.org/ndss2024/))</i>, San Diego, California, USA, Feb-Mar 2024. \[[PDF](https://xusheng-xiao.github.io/papers/nodlink-ndss.pdf)\] 
 
 Haodong Li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guohai Xu, and Haoyu Wang <br/>
 **MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty** <br/>
-<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2024](https://conf.researchr.org/track/icse-2024))</i>, Lisbon, Portugal, April 2024. \[[PDF]()\] 
+<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2024](https://conf.researchr.org/track/icse-2024))</i>, Lisbon, Portugal, April 2024. \[[PDF](https://xusheng-xiao.github.io/papers/uncertainty_icse_cr)\] 
 
 
 <span style="color: black;font-size: 18px;"><a id="2023" style="color: black;text-decoration: none;">**2023**</a></span>
