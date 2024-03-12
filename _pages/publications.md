@@ -29,7 +29,7 @@ Shaofei Li, Feng Dong, Ding Li, Xusheng Xiao, Haoyu Wang, Fei Shao, Jiedong Chen
 
 Haodong Li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guohai Xu, and Haoyu Wang <br/>
 **MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty** <br/>
-<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2024](https://conf.researchr.org/track/icse-2024))</i>, Lisbon, Portugal, April 2024. \[[PDF](https://xusheng-xiao.github.io/papers/uncertainty_icse_cr)\] 
+<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2024](https://conf.researchr.org/track/icse-2024))</i>, Lisbon, Portugal, April 2024. \[[PDF](https://xusheng-xiao.github.io/papers/uncertainty_icse_cr.pdf)\] 
 
 
 <span style="color: black;font-size: 18px;"><a id="2023" style="color: black;text-decoration: none;">**2023**</a></span>
