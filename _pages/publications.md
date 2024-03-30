@@ -36,7 +36,7 @@ Haodong Li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guohai Xu, and Haoyu
 
 Feng Dong, Shaofei Li, Peng Jiang, Ding Li, Haoyu Wang, Liangyi Huang, Xusheng Xiao, Jiedong Chen, Xiapu Luo, Yao Guo, and Xiangqun Chen <br/>
 **Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools** <br/>
-<i>In Proceedings of the 30th ACM Conference on Computer and Communications Security ([CCS 2023](https://www.sigsac.org/ccs/CCS2023))</i>, Copenhagen, Denmark, Nov 2023. \[[PDF]()\] 
+<i>In Proceedings of the 30th ACM Conference on Computer and Communications Security ([CCS 2023](https://www.sigsac.org/ccs/CCS2023))</i>, Copenhagen, Denmark, Nov 2023. \[[PDF](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf)\] 
 
 Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, and Zhuotao Liu <br/>
 **iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements** <br/>
