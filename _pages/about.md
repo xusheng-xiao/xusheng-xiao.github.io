@@ -25,6 +25,7 @@ I am always looking for PhD students and interns with strong background in SE, S
 
 ## News
 
+* 5/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "Completing the App Promotion Graph with Symbolic Prompting" has been accepted in [ECML PKDD 2024](https://ecmlpkdd.org/2024/)!
 * 12/2023: Congratulations to my collaborators! Our paper "MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty" has been accepted to [ICSE 2024](https://conf.researchr.org/home/icse-2024)!
 * 8/2023: Congratulations to my student Fei Shao and my collaborators! Our paper "NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation" has been accepted in the [NDSS 2024](https://www.ndss-symposium.org/ndss2024/)!
 * 8/2023: Congratulations to my collaborators! Our paper "WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs" has been accepted in the [ASE 2023](https://conf.researchr.org/home/ase-2023)!
