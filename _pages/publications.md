@@ -35,6 +35,10 @@ Zhongyu Ouyang, Chunhui Zhang, Shifu Hou, Shang Ma, Chaoran Chen, Toby Li, Xushe
 **Completing the App Promotion Graph with Symbolic Prompting** <br/>
 <i>In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML PKDD 2024](https://ecmlpkdd.org/2024/))</i>, Vilnius, Lithuania, Sep 2024. \[[PDF]()\] 
 
+Pengcheng Fang, Peng Gao, Yun Peng, Qingzhao Zhang, Tao Xie, Dawn Song, Prateek Mittal, Sanjeev Kulkarni, Zhuotao Liu, and Xusheng Xiao <br/>
+**vFix: Facilitating Software Maintenance of Smart Contracts via Automatically Fixing Vulnerabilities** <br/>
+<i>In Proceedings of the IEEE International Conference on Software Maintenance and Evolution ([ICSME 2024](https://conf.researchr.org/track/icsme-2024))</i>, Flagstaff, AZ, USA, Oct 2024. \[[PDF]()\] 
+
 
 <span style="color: black;font-size: 18px;"><a id="2023" style="color: black;text-decoration: none;">**2023**</a></span>
 
