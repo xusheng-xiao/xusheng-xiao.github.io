@@ -19,7 +19,7 @@ Dr. Xusheng Xiao is leading the Reliable, Intelligent, Secure, and Efficient (RI
 I am always looking for PhD students and interns with strong background in SE, Security, or ML. Please apply to ASU SCAI by Dec. 31th (PhD only), and/or send me an email (with your CV). \[[Read more](positions/)\]
 
 ## Services
-[IEEE S&P 2025](https://sp2025.ieee-security.org/), [ICSE 2025](https://conf.researchr.org/track/icse-2025), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), [ASE 2024](https://conf.researchr.org/home/ase-2024)
+[IEEE S&P 2025](https://sp2025.ieee-security.org/), [ICSE 2025](https://conf.researchr.org/track/icse-2025), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), [FSE 2025](https://conf.researchr.org/home/fse-2025), [ASE 2024](https://conf.researchr.org/home/ase-2024)
 
 <hr/>
 
