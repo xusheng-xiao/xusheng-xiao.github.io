@@ -8,15 +8,14 @@ author_profile: true
 {% include base_path %}
 
 ## Invited Talks
+* Cyber Threat Investigation via Causality Modeling in Audit Logging, Department of Electrical Engineering and Computer Science, University of Arkansas, 2024
+* Enhancing Mobile App Security via Contextual Integrity and User Awareness, Distinguished Seminar, Department of Computer Science, Indiana University Bloomington, Virtual, 2023	
+* Enhancing Mobile App Security via Contextual Integrity and User Awareness, Department of Electrical Engineering and Computer Science, Syracuse University, USA, Virtual, 2022
 * HyperService: Interoperability and Programmability across Heterogeneous Blockchains, Departmental Seminar, Department of Computer and Data Sciences, Case Western Reserve University, USA, 2020
 * HyperService: Interoperability and Programmability across Heterogeneous Blockchains, Blockland Solutions, USA, 2019
 * HyperService: Interoperability and Programmability across Heterogeneous Blockchains, IEEE Cleveland Section, USA, 2019
 * Improving Mobile App Security via Synergy of Program Analysis and Machine Learning, Department of Civil Engineering, Case Western Reserve University, USA, 2019
 * Enabling Effective and Efficient APT Defenses via Querying System Monitoring Data. Webinar. RSA Labs, USA, July 2018
-* Improving Mobile App Security via Analyzing Structured and Unstructured Artifacts. Southern University of Science and Technology, Shenzhen, China, May 2018
-* Improving Mobile App Security via Analyzing Structured and Unstructured Artifacts. Peking University, Beijing, China, May 2017
-* Improving Mobile App Security via Analyzing Structured and Unstructured Artifacts. Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China, May 2017
-* Boosting System Security via Big Data Analytics. IEEE Bigdata Congress, Shenzhen, China, May 2017
 * Cooperative Testing and Analysis via Informed Decision Making. Microsoft Research, USA, 2014
 * WHYPER: Towards Automating Risk Assessment of Mobile Applications, Google Research, Mountain View, USA, 2014
 * Cooperative Testing and Analysis via Informed Decision Making. Midwest Verification Day (MVD), University of Illinois at Chicago, USA, 2013
