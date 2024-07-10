@@ -25,6 +25,7 @@ I am always looking for PhD students and interns with strong background in SE, S
 
 ## News
 
+* 7/2024: Congratulations to my student Liangyi Huang! Our paper "CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence" has been accepted in [COLM 2024](https://colmweb.org/)!
 * 6/2024: Congratulations to my student Pengcheng Fang and my collaborators! Our paper "vFix: Facilitating Software Maintenance of Smart Contracts via Automatically Fixing Vulnerabilities" has been accepted in [ICSME 2024](https://conf.researchr.org/track/icsme-2024)!
 * 5/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "Completing the App Promotion Graph with Symbolic Prompting" has been accepted in [ECML PKDD 2024](https://ecmlpkdd.org/2024/)!
 * 12/2023: Congratulations to my collaborators! Our paper "MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty" has been accepted to [ICSE 2024](https://conf.researchr.org/home/icse-2024)!

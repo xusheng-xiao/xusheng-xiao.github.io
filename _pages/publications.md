@@ -31,6 +31,10 @@ Haodong Li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guohai Xu, and Haoyu
 **MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty** <br/>
 <i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2024](https://conf.researchr.org/track/icse-2024))</i>, Lisbon, Portugal, April 2024. \[[PDF](https://xusheng-xiao.github.io/papers/uncertainty_icse_cr.pdf)\] 
 
+Liangyi Huang and Xusheng Xiao <br/>
+**CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence** <br/>
+<i>In Proceedings of the First Conference on Language Modeling ([COLM 2024](https://colmweb.org))</i>, Philadelphia, PA, USA, Oct 2024. \[[PDF]()\] 
+
 Zhongyu Ouyang, Chunhui Zhang, Shifu Hou, Shang Ma, Chaoran Chen, Toby Li, Xusheng Xiao, Chuxu Zhang, and Yanfang Ye <br/>
 **Completing the App Promotion Graph with Symbolic Prompting** <br/>
 <i>In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML PKDD 2024](https://ecmlpkdd.org/2024/))</i>, Vilnius, Lithuania, Sep 2024. \[[PDF]()\] 
