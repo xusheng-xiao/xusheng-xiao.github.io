@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+* CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence: \[[Link](https://github.com/ctikgresearch/GTIKGResearch)\] 
+* iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements: \[[Link](https://github.com/smartcontractsyn/iSyn)\]
+* vFix: Facilitating Software Maintenance of Smart Contracts via Automatically Fixing Vulnerabilities: \[[Link](https://github.com/vfixresearch/vFix)\] 
 * DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps \[[Link](https://github.com/DescribeCTX/DescribeCTX)\]
 * Promal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning \[[Link](https://github.com/promal-android/Promal)\]
 * DepComm: Graph Summarization on System Audit Logs for Attack Investigation \[[Link](https://github.com/ieeesp2021sub/depcomm)\]
