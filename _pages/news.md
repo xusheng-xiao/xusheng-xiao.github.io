@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* 8/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph" has been accepted in [NDSS 2025](https://www.ndss-symposium.org/ndss2025)!
 * 7/2024: Our application for the OpenAI [Researcher Access Program](https://openai.com/form/researcher-access-program/) has been accepted! Thank you, OpenAI!
 * 7/2024: Congratulations to my student Liangyi Huang! Our paper "CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence" has been accepted in [COLM 2024](https://colmweb.org/)!
 * 6/2024: Congratulations to my student Pengcheng Fang and my collaborators! Our paper "vFix: Facilitating Software Maintenance of Smart Contracts via Automatically Fixing Vulnerabilities" has been accepted in [ICSME 2024](https://conf.researchr.org/track/icsme-2024)!

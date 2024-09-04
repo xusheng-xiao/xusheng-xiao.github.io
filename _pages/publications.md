@@ -16,9 +16,14 @@ author_profile: true
 You can also find my publications at <a href="https://scholar.google.com/citations?user=qVx6V7UAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/13/9656.html">DBLP</a>.
 
 <hr/>
-Go to: [Patent](#patent) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
+Go to: [Patent](#patent) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
 <hr/>
 
+
+<span style="color: black;font-size: 18px;"><a id="2025" style="color: black;text-decoration: none;">**2025**</a></span>
+Shang Ma, Chaoran Chen, Shao Yang, Shifu Hou, Toby Jia-Jun Li, Xusheng Xiao, Tao Xie, and Yanfang (Fanny) Ye <br/>
+**Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph** <br/>
+<i>In Proceedings of the Network and Distributed System Security Symposium ([NDSS 2025](https://www.ndss-symposium.org/ndss2025/))</i>, San Diego, California, USA, Feb 2025. \[[PDF]()\] 
 
 
 <span style="color: black;font-size: 18px;"><a id="2024" style="color: black;text-decoration: none;">**2024**</a></span>
