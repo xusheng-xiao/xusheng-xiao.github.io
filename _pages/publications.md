@@ -21,6 +21,7 @@ Go to: [Patent](#patent) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [
 
 
 <span style="color: black;font-size: 18px;"><a id="2025" style="color: black;text-decoration: none;">**2025**</a></span>
+
 Shang Ma, Chaoran Chen, Shao Yang, Shifu Hou, Toby Jia-Jun Li, Xusheng Xiao, Tao Xie, and Yanfang (Fanny) Ye <br/>
 **Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph** <br/>
 <i>In Proceedings of the Network and Distributed System Security Symposium ([NDSS 2025](https://www.ndss-symposium.org/ndss2025/))</i>, San Diego, California, USA, Feb 2025. \[[PDF]()\] 
