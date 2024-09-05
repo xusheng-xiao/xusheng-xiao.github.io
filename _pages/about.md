@@ -35,12 +35,6 @@ I am always looking for PhD students and interns with strong background in SE, S
 * 5/2023: Congratulations to my student Liangyi Huang and my collaborators! Our paper "Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools" has been accepted in [CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
 * 5/2023: Congratulations to my student Pengcheng Fang and my collaborators! Our paper "iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements" has been accepted in [ISSTA 2023](https://conf.researchr.org/home/issta-2023)!
 * 5/2023: Congratulations to my collaborators! Our paper "On the Security Risks of Knowledge Graph Reasoning" has been accepted in the [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
-* 11/2022: Congratulations to my collaborators! Our feature article "Machine learning: New ideas and tools in Environmental Science and Engineering" received the [2021 ES&T best paper award](https://pubs.acs.org/doi/full/10.1021/acs.est.2c07931)!
-* 9/2022: Congratulations to my collaborators and my student Fei Shao. Our paper "DISTDET: A Cost-Effective Distributed Cyber Threat Detection System" has been accepted in the [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
-* 8/2022: Congratulations to my collaborators. Our paper "What Did You Pack in My App? A Systematic Analysis of Commercial Android Packers" has been accepted in the [ESEC/FSE 2022 Industry Track](https://2022.esec-fse.org/track/fse-2022-industry)!
-* 7/2022: Congratulations to my students Liangyi Huang, Sohipa Hall, and Fei Shao! Our paper "System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems" has been accepted in the demo track of [CIKM 2022](https://www.cikm2022.org/calls/call-for-demonstrations)!
-* 5/2022: Congratulations to my collaborators! Our paper "Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews" has been accepted in [TSE 2022](https://www.computer.org/csdl/journal/ts)!
-* 1/2022: Congratulations to my collaborators! Our paper "Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit" has been accepted in [WWW 2022](https://www2022.thewebconf.org/)!
 * [More...](/news/)
 
 ## Biography
