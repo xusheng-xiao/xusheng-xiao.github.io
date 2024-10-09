@@ -24,7 +24,7 @@ Go to: [Patent](#patent) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [
 
 Shang Ma, Chaoran Chen, Shao Yang, Shifu Hou, Toby Jia-Jun Li, Xusheng Xiao, Tao Xie, and Yanfang (Fanny) Ye <br/>
 **Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph** <br/>
-<i>In Proceedings of the Network and Distributed System Security Symposium ([NDSS 2025](https://www.ndss-symposium.org/ndss2025/))</i>, San Diego, California, USA, Feb 2025. \[[PDF]()\]\[[Project Website](https://github.com/AppPromotionAdsResearch/AdGPE)\]
+<i>In Proceedings of the Network and Distributed System Security Symposium ([NDSS 2025](https://www.ndss-symposium.org/ndss2025/))</i>, San Diego, California, USA, Feb 2025. \[[PDF](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf)\]\[[Project Website](https://github.com/AppPromotionAdsResearch/AdGPE)\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2024" style="color: black;text-decoration: none;">**2024**</a></span>
@@ -39,7 +39,7 @@ Haodong Li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guohai Xu, and Haoyu
 
 Liangyi Huang and Xusheng Xiao <br/>
 **CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence** <br/>
-<i>In Proceedings of the First Conference on Language Modeling ([COLM 2024](https://colmweb.org))</i>, Philadelphia, PA, USA, Oct 2024. \[[PDF](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)\]\[[Project Website](https://github.com/AppPromotionAdsResearch/AdGPE)\]
+<i>In Proceedings of the First Conference on Language Modeling ([COLM 2024](https://colmweb.org))</i>, Philadelphia, PA, USA, Oct 2024. \[[PDF](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)\]\[[Project Website](https://github.com/ctikgresearch/GTIKGResearch)\]
 
 Zhongyu Ouyang, Chunhui Zhang, Shifu Hou, Shang Ma, Chaoran Chen, Toby Li, Xusheng Xiao, Chuxu Zhang, and Yanfang Ye <br/>
 **Completing the App Promotion Graph with Symbolic Prompting** <br/>
