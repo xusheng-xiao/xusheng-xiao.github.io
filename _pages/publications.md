@@ -301,7 +301,7 @@ Wei Yang, Xusheng Xiao, Dengfeng Li, Huoran Li, Xuanzhe Liu, Haoyu Wang, Yao Guo
 
 Qing Gao, Xusheng Xiao, Jun Li, Yingfei Xiong, Kuanl Taneja, Dan Hao, Lu Zhang, and Tao Xie<br/>
 **High-Confidence Software Evolution**<br/>
-*Science China Information Sciences ([SCIS](http://www.springer.com/computer/information+systems+and+applications/journal/11432))*, 59 (7): 071101:1-071101:19, 2016.
+*Science China Information Sciences ([SCIS](http://www.springer.com/computer/information+systems+and+applications/journal/11432))*, 59 (7): 071101:1-071101:19, 2016. \[[PDF](https://xusheng-xiao.github.io/papers/scis-2016.pdf)\]
 
 <span style="color: black;font-size: 18px;"><a id="2015" style="color: black;text-decoration: none;">**2015**</a></span>
 
