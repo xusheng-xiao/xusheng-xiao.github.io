@@ -26,7 +26,7 @@ author_profile: true
 
 
 ## PhD Students:
-* [Liangyi Huang](https://liangyi-huang.github.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf), [COLM 2024](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)\]
+* [Liangyi Huang](https://liangyihuang.gitlab.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf), [COLM 2024](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)\]
 * [Yuxi Huang](https://yuxihh.github.io/) (2023.8-), \[Fulton Fellowship\]
 * [Zichen Liu](https://sites.google.com/view/zliu396/) (2023.5-), co-advised with [Prof. Chaowei Xiao](https://xiaocw11.github.io/)
 * [Shang Ma](https://kiteflykid.github.io/) (2022.8-), Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/), \[[GLFrontiers 2023](https://xusheng-xiao.github.io/papers/promptpromotion-glfrontier23.pdf), [ECML PKDD 2024](https://ecmlpkdd.org/2024/), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf)\]
