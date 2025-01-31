@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* 1/2025: Congratulations to my collaborators! Our paper "Privacy and Accuracy-Aware AI/ML Model Deduplication" has been accepted to [SIGMOD 2025](https://2025.sigmod.org/)!
 * 8/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph" has been accepted in [NDSS 2025](https://www.ndss-symposium.org/ndss2025)!
 * 7/2024: Our application for the OpenAI [Researcher Access Program](https://openai.com/form/researcher-access-program/) has been accepted! Thank you, OpenAI!
 * 7/2024: Congratulations to my student Liangyi Huang! Our paper "CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence" has been accepted in [COLM 2024](https://colmweb.org/)!
