@@ -26,7 +26,7 @@ Shang Ma, Chaoran Chen, Shao Yang, Shifu Hou, Toby Jia-Jun Li, Xusheng Xiao, Tao
 **Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph** <br/>
 <i>In Proceedings of the Network and Distributed System Security Symposium ([NDSS 2025](https://www.ndss-symposium.org/ndss2025/))</i>, San Diego, California, USA, Feb 2025. \[[PDF](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf)\]\[[Project Website](https://github.com/AppPromotionAdsResearch/AdGPE)\]
 
-Hong Guan, Lixi Zhou, Lei Yu, Li Xiong, Kanchan Chowdhury, Lulu Xie, Xusheng Xiao, and Jia Zou
+Hong Guan, Lixi Zhou, Lei Yu, Li Xiong, Kanchan Chowdhury, Lulu Xie, Xusheng Xiao, and Jia Zou <br/>
 **Privacy and Accuracy-Aware AI/ML Model Deduplication** <br/>
 <i>In Proceedings of the ACM SIGMOD/PODS International Conference on Management of Data ([SIGMOD 2025](https://2025.sigmod.org/))</i>, Berlin, Germany, June 2025. \[[PDF]()\]
 
