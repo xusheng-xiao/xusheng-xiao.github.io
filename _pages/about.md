@@ -24,6 +24,9 @@ I am always looking for PhD students and interns with strong background in SE, S
 <hr/>
 
 ## News
+* 8/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "PsyScam: A Benchmark for Psychological Techniques in Real-World Scams" has been accepted in [EMNLP 2025](https://2025.emnlp.org/)!
+* 8/2025: We have received API credits from the [OpenAI Cybersecurity Grant Program](https://openai.com/index/openai-cybersecurity-grant-program/)! Thank you, OpenAI!
+* 7/2025: We have received a grant from [TensorBlock](https://tensorblock.co/) to support our collaboration on [Forge](https://github.com/TensorBlock/forge)! What an exciting product to unify the access to various LLMs!
 * 1/2025: Congratulations to my collaborators! Our paper "Privacy and Accuracy-Aware AI/ML Model Deduplication" has been accepted to [SIGMOD 2025](https://2025.sigmod.org/)!
 * 8/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph" has been accepted in [NDSS 2025](https://www.ndss-symposium.org/ndss2025)!
 * 7/2024: Our application for the OpenAI [Researcher Access Program](https://openai.com/form/researcher-access-program/) has been accepted! Thank you, OpenAI!
