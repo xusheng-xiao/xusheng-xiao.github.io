@@ -28,7 +28,7 @@ Shang Ma, Chaoran Chen, Shao Yang, Shifu Hou, Toby Jia-Jun Li, Xusheng Xiao, Tao
 
 Shang Ma, Tianyi Ma, Jiahao Liu, Wei Song, Zhenkai Liang, Xusheng Xiao, and Yanfang (Fanny) Ye  <br/>
 **PsyScam: A Benchmark for Psychological Techniques in Real-World Scams** <br/>
-<i>In Proceedings of the Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025](https://2025.emnlp.org/))</i>, Su Zhou, China, Nov. 2025. \[[PDF]()\]\[(arXiv)[https://arxiv.org/abs/2505.15017]\]\[[Project Website](https://anonymous.4open.science/r/PsyScam-66E4)\]
+<i>In Proceedings of the Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025](https://2025.emnlp.org/))</i>, Su Zhou, China, Nov. 2025. \[[PDF]()\]\[[arXiv](https://arxiv.org/abs/2505.15017)\]\[[Project Website](https://anonymous.4open.science/r/PsyScam-66E4)\]
 
 
 Hong Guan, Lixi Zhou, Lei Yu, Li Xiong, Kanchan Chowdhury, Lulu Xie, Xusheng Xiao, and Jia Zou <br/>
