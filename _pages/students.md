@@ -28,16 +28,18 @@ author_profile: true
 ## PhD Students:
 * [Liangyi Huang](https://liangyihuang.gitlab.io/) (2021.5-) \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf), [COLM 2024](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)\]
 * [Zichen Liu](https://sites.google.com/view/zliu396/) (2023.5-)
-* [Yuxi Huang](https://yuxihh.github.io/) (2023.8-), \[Fulton Fellowship\]
-* [Shang Ma](https://kiteflykid.github.io/) (2022.8-), Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/), \[[GLFrontiers 2023](https://xusheng-xiao.github.io/papers/promptpromotion-glfrontier23.pdf), [ECML PKDD 2024](https://ecmlpkdd.org/2024/), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf)\]
+* [Weiyu Chen]() (2024.8-)
+* [Shang Ma](https://kiteflykid.github.io/) (2022.8-), Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/), \[[GLFrontiers 2023](https://xusheng-xiao.github.io/papers/promptpromotion-glfrontier23.pdf), [ECML PKDD 2024](https://ecmlpkdd.org/2024/), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf), [EMNLP 2025]()\]
 * [Fei Shao](https://feishao315.github.io/) (2018.5-), CWRU, \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [USENIX Security 2023](https://xusheng-xiao.github.io/papers/usenixsecurity23-distdet.pdf), [NDSS 2024](https://xusheng-xiao.github.io/papers/nodlink-ndss.pdf)\]
 
 
+
 ## MS Students:
-* Ian Johnson (2024.6 - )
+* Stanley Nguyen (2025.5 - )
 
 ## Undergraduate Students
 * Baozan Yan (2023 summer)
+* Teresa Nguyen (2025.6 - 2025.8)
 
 
 ## Past PhD Students:
@@ -45,10 +47,12 @@ author_profile: true
   * Thesis: Enhancing Mobile App Security through Contextual Integrity and User Awareness
 * [Pengcheng Fang](https://fang19911030.github.io/) (2017.5-2023.8), CWRU, \[[USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [ISSTA 2023](https://xusheng-xiao.github.io/papers/iSyn_issta.pdf), [ICSME 2024](https://xusheng-xiao.github.io/papers/vFix_ICSME2024.pdf)\]
   * Thesis: A Systematic Framework To Automatically Secure, Test, And Utilize Smart Contracts
-* [Changlin Liu](https://changlinliu93.github.io/) (2020.8-), CWRU, \[[ISSACS Student Fellowship](https://engineering.case.edu/research/institutes/smart-secure-connected-systems), [ASE 2019](https://xusheng-xiao.github.io/papers/ase19-main-158.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]
+* [Changlin Liu](https://changlinliu93.github.io/) (2020.8-2024.12), CWRU, \[[ISSACS Student Fellowship](https://engineering.case.edu/research/institutes/smart-secure-connected-systems), [ASE 2019](https://xusheng-xiao.github.io/papers/ase19-main-158.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]
 
 
 ## Past MS Students:
+* Ian Johnson (2024.6 - 2025.5), ASU
+  * Thesis: Unifying System Auditing & Network Traffic Analysis for Cyber Threat Detection
 * Rachel Guzman (2023.3-2024.5), ASU, co-advised with [Prof. Adil Ahmad](https://adil-ahmad.net/)
   * Thesis: Detecting Specification Mismatches using Machine Learning-Based Analysis of CPU Manuals 
 * Viraj Thakkar (2023.5 - 2023.8), ASU, committee co-chair with [Prof. Zhichao Cao](https://search.asu.edu/profile/4082902)
