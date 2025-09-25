@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-* 8/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "PsyScam: A Benchmark for Psychological Techniques in Real-World Scams" has been accepted in [EMNLP 2025](https://2025.emnlp.org/)!
+* 9/2025: Congratulations to my student Zichen Liu! Our paper "AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps" has been accepted in [ASE 2025](https://conf.researchr.org/home/ase-2025)!
+* 8/2025: Congratulations to my student Shang Ma and my collaborators! Our paper "PsyScam: A Benchmark for Psychological Techniques in Real-World Scams" has been accepted in [EMNLP 2025](https://2025.emnlp.org/)!
 * 8/2025: We have received API credits from the [OpenAI Cybersecurity Grant Program](https://openai.com/index/openai-cybersecurity-grant-program/)! Thank you, OpenAI!
 * 7/2025: We have received a grant from [TensorBlock](https://tensorblock.co/) to support our collaboration on [Forge](https://github.com/TensorBlock/forge)! What an exciting product to unify the access to various LLMs!
 * 1/2025: Congratulations to my collaborators! Our paper "Privacy and Accuracy-Aware AI/ML Model Deduplication" has been accepted to [SIGMOD 2025](https://2025.sigmod.org/)!

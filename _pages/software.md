@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* AppBDS: App Behavior Description Synthesizer \[[Link](https://github.com/AppBDS/AppBDS)\] 
 * Detecting and Explaining Malware Promotion via App Promotion Graph \[[Link](https://github.com/AppPromotionAdsResearch/AdGPE)\] 
 * CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence: \[[Link](https://github.com/ctikgresearch/GTIKGResearch)\] 
 * iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements: \[[Link](https://github.com/smartcontractsyn/iSyn)\]

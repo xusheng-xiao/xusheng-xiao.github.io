@@ -30,6 +30,10 @@ Shang Ma, Tianyi Ma, Jiahao Liu, Wei Song, Zhenkai Liang, Xusheng Xiao, and Yanf
 **PsyScam: A Benchmark for Psychological Techniques in Real-World Scams** <br/>
 <i>In Proceedings of the Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025](https://2025.emnlp.org/))</i>, Su Zhou, China, Nov. 2025. \[[PDF]()\]\[[arXiv](https://arxiv.org/abs/2505.15017)\]\[[Project Website](https://anonymous.4open.science/r/PsyScam-66E4)\]
 
+Zichen Liu and Xusheng Xiao  <br/>
+**AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps** <br/>
+<i>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2025](https://conf.researchr.org/home/ase-2025))</i>, Seoul, South Korea, Nov. 2025. \[[PDF]()\]\[[Project Website](https://github.com/AppBDS/AppBDS)\]
+
 
 Hong Guan, Lixi Zhou, Lei Yu, Li Xiong, Kanchan Chowdhury, Lulu Xie, Xusheng Xiao, and Jia Zou <br/>
 **Privacy and Accuracy-Aware AI/ML Model Deduplication** <br/>
