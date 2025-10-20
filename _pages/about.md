@@ -24,6 +24,7 @@ I am always looking for PhD students and interns with strong background in SE, S
 <hr/>
 
 ## News
+* 10/2025: Congratulations to my student Fei Shao and my collaborators! Our paper "ProGQL: A Provenance Graph Query System for Cyber Attack Investigation" has been accepted in [ICDE 2026](https://icde2026.github.io/)!
 * 9/2025: Congratulations to my student Zichen Liu! Our paper "AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps" has been accepted in [ASE 2025](https://conf.researchr.org/home/ase-2025)!
 * 8/2025: Congratulations to my student Shang Ma and my collaborators! Our paper "PsyScam: A Benchmark for Psychological Techniques in Real-World Scams" has been accepted in [EMNLP 2025](https://2025.emnlp.org/)!
 * 8/2025: We have received API credits from the [OpenAI Cybersecurity Grant Program](https://openai.com/index/openai-cybersecurity-grant-program/)! Thank you, OpenAI!

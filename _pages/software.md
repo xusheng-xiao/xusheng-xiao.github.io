@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* ProGQL: A Provenance Graph Query System for Cyber Attack Investigation \[[Link](https://github.com/ProGQL/ProGQL)\] 
 * AppBDS: App Behavior Description Synthesizer \[[Link](https://github.com/AppBDS/AppBDS)\] 
 * Detecting and Explaining Malware Promotion via App Promotion Graph \[[Link](https://github.com/AppPromotionAdsResearch/AdGPE)\] 
 * CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence: \[[Link](https://github.com/ctikgresearch/GTIKGResearch)\] 

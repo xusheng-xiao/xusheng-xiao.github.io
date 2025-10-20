@@ -16,8 +16,14 @@ author_profile: true
 You can also find my publications at <a href="https://scholar.google.com/citations?user=qVx6V7UAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/13/9656.html">DBLP</a>.
 
 <hr/>
-Go to: [Patent](#patent) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
+Go to: [Patent](#patent) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
 <hr/>
+
+<span style="color: black;font-size: 18px;"><a id="2026" style="color: black;text-decoration: none;">**2026**</a></span>
+
+Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
+**PROGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
+<i>In Proceedings of the IEEE International Conference on Data Engineering ([ICDE 2026](https://icde2026.github.io/))</i>, Montréal, Canada, May, 2026. \[[PDF]()\]\[[Project Website](https://github.com/ProGQL/ProGQL)\]
 
 
 <span style="color: black;font-size: 18px;"><a id="2025" style="color: black;text-decoration: none;">**2025**</a></span>
