@@ -22,7 +22,7 @@ Go to: [Patent](#patent) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [
 <span style="color: black;font-size: 18px;"><a id="2026" style="color: black;text-decoration: none;">**2026**</a></span>
 
 Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
-**PROGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
+**ProGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
 <i>In Proceedings of the IEEE International Conference on Data Engineering ([ICDE 2026](https://icde2026.github.io/))</i>, Montréal, Canada, May, 2026. \[[PDF]()\]\[[Project Website](https://github.com/ProGQL/ProGQL)\]
 
 
@@ -34,7 +34,7 @@ Shang Ma, Chaoran Chen, Shao Yang, Shifu Hou, Toby Jia-Jun Li, Xusheng Xiao, Tao
 
 Shang Ma, Tianyi Ma, Jiahao Liu, Wei Song, Zhenkai Liang, Xusheng Xiao, and Yanfang (Fanny) Ye  <br/>
 **PsyScam: A Benchmark for Psychological Techniques in Real-World Scams** <br/>
-<i>In Proceedings of the Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025](https://2025.emnlp.org/))</i>, Su Zhou, China, Nov. 2025. \[[PDF]()\]\[[arXiv](https://arxiv.org/abs/2505.15017)\]\[[Project Website](https://anonymous.4open.science/r/PsyScam-66E4)\]
+<i>In Proceedings of the Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025](https://2025.emnlp.org/))</i>, Su Zhou, China, Nov. 2025. \[[PDF](https://xusheng-xiao.github.io/papers/psyscam_emnlp_2025.pdf)\]\[[arXiv](https://arxiv.org/abs/2505.15017)\]\[[Project Website](https://anonymous.4open.science/r/PsyScam-66E4)\]
 
 Zichen Liu and Xusheng Xiao  <br/>
 **AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps** <br/>

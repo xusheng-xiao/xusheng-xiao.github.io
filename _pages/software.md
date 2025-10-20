@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 * ProGQL: A Provenance Graph Query System for Cyber Attack Investigation \[[Link](https://github.com/ProGQL/ProGQL)\] 
+* PsyScam: A Benchmark for Psychological Techniques in Real-World Scams \[[Github](https://github.com/KiteFlyKid/PsyScam)\] \[[Open Science](https://anonymous.4open.science/r/PsyScam-66E4/README.md)\]
 * AppBDS: App Behavior Description Synthesizer \[[Link](https://github.com/AppBDS/AppBDS)\] 
 * Detecting and Explaining Malware Promotion via App Promotion Graph \[[Link](https://github.com/AppPromotionAdsResearch/AdGPE)\] 
 * CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence: \[[Link](https://github.com/ctikgresearch/GTIKGResearch)\] 
