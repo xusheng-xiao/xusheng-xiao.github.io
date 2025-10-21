@@ -42,7 +42,7 @@ author_profile: true
 
 
 ## Past PhD Students:
-* [Shao Yang](https://shaoyang1992.github.io/) (2018.8-2023.8), CWRU, \[[CCS 2019](https://xusheng-xiao.github.io/papers/deepintent-optimize.pdf), [ASE SRC 2019](https://2019.ase-conferences.org/track/ase-2019-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/describectx_cr.pdf)\]
+* [Shao Yang](https://shaoyang1992.github.io/) (2018.8-2023.8), CWRU, \[[CCS 2019](https://xusheng-xiao.github.io/papers/deepintent-optimize.pdf), [ASE SRC 2019](https://2019.ase-conferences.org/track/ase-2019-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/describectx_cr.pdf), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf)\]
   * Thesis: Enhancing Mobile App Security through Contextual Integrity and User Awareness
 * [Pengcheng Fang](https://fang19911030.github.io/) (2017.5-2023.8), CWRU, \[[USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [ISSTA 2023](https://xusheng-xiao.github.io/papers/iSyn_issta.pdf), [ICSME 2024](https://xusheng-xiao.github.io/papers/vFix_ICSME2024.pdf)\]
   * Thesis: A Systematic Framework To Automatically Secure, Test, And Utilize Smart Contracts
