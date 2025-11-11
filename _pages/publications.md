@@ -38,7 +38,7 @@ Shang Ma, Tianyi Ma, Jiahao Liu, Wei Song, Zhenkai Liang, Xusheng Xiao, and Yanf
 
 Zichen Liu and Xusheng Xiao  <br/>
 **AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps** <br/>
-<i>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2025](https://conf.researchr.org/home/ase-2025))</i>, Seoul, South Korea, Nov. 2025. \[[PDF]()\]\[[Project Website](https://github.com/AppBDS/AppBDS)\]
+<i>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2025](https://conf.researchr.org/home/ase-2025))</i>, Seoul, South Korea, Nov. 2025. \[[PDF](https://xusheng-xiao.github.io/papers/appbds-ase2025.pdf)\]\[[Project Website](https://github.com/AppBDS/AppBDS)\]
 
 
 Hong Guan, Lixi Zhou, Lei Yu, Li Xiong, Kanchan Chowdhury, Lulu Xie, Xusheng Xiao, and Jia Zou <br/>
