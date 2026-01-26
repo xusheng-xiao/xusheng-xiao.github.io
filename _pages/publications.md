@@ -25,6 +25,10 @@ Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
 **ProGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
 <i>In Proceedings of the IEEE International Conference on Data Engineering ([ICDE 2026](https://icde2026.github.io/))</i>, Montréal, Canada, May, 2026. \[[PDF]()\]\[[Project Website](https://github.com/ProGQL/ProGQL)\]
 
+Mingjian Lu, Haolai Che, Yangxin Fan, Qu Liu, Fei Shao, Tingjian Ge, Xusheng Xiao, and Yinghui Wu  <br/>
+**Training-free Counterfactual Explanation for Temporal Graph Model Inference** <br/>
+<i>In Proceedings of the International Conference on Learning Representations ([ICLR 2026](https://iclr.cc/))</i>, Rio de Janeiro, Brazil, April, 2026. \[[PDF]()\]
+
 
 <span style="color: black;font-size: 18px;"><a id="2025" style="color: black;text-decoration: none;">**2025**</a></span>
 
