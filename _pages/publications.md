@@ -23,7 +23,7 @@ Go to: [Patent](#patent) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [
 
 Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
 **ProGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
-<i>In Proceedings of the IEEE International Conference on Data Engineering ([ICDE 2026](https://icde2026.github.io/))</i>, Montréal, Canada, May, 2026. \[[PDF]()\]\[[Project Website](https://github.com/ProGQL/ProGQL)\]
+<i>In Proceedings of the IEEE International Conference on Data Engineering ([ICDE 2026](https://icde2026.github.io/))</i>, Montréal, Canada, May, 2026. \[[PDF](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf)\]\[[Project Website](https://github.com/ProGQL/ProGQL)\]
 
 Mingjian Lu, Haolai Che, Yangxin Fan, Qu Liu, Fei Shao, Tingjian Ge, Xusheng Xiao, and Yinghui Wu  <br/>
 **Training-free Counterfactual Explanation for Temporal Graph Model Inference** <br/>
