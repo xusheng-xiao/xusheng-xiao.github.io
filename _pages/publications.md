@@ -21,6 +21,11 @@ Go to: [Patent](#patent) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [
 
 <span style="color: black;font-size: 18px;"><a id="2026" style="color: black;text-decoration: none;">**2026**</a></span>
 
+
+Sabbir Hussain Meraj, Long Trac, Xiaoyin Wang, Xusheng Xiao, and Wei Wang <br/>
+**An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks** <br/>
+<i>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2026](https://conf.researchr.org/home/ase-2026))</i>, Munich, Germany, Oct, 2026. \[[PDF]()\]
+
 Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
 **ProGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
 <i>In Proceedings of the IEEE International Conference on Data Engineering ([ICDE 2026](https://icde2026.github.io/))</i>, Montréal, Canada, May, 2026. \[[PDF](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf)\]\[[Longer Version](https://arxiv.org/abs/2510.22400)\]\[[Project Website](https://github.com/ProGQL/ProGQL)\]

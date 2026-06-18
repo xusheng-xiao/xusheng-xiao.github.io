@@ -10,7 +10,18 @@ redirect_from:
 
 {% include base_path %}
 
-Dr. Xusheng Xiao is leading the Reliable, Intelligent, Secure, and Efficient (RISE) Software and System lab at ASU. His general research interests span between **software engineering** and **computer security**, with the emphasis on **AI-enhanced software and system analysis approaches** that synergistically combine software analysis and artificial intelligence to improve the reliability and the security of software and computer systems. Specifically, his lab is working on the research in _Large Language Model (LLM) enhanced software analysis, mobile app analysis, cyber threat detection and investigation, blockchain/smart contract security, and software testing and debugging_. His research in cyber threat investigation has been integrated into a [security product](https://www.nec.com/en/global/techrep/journal/g16/n01/160110.html) in NEC, which won the [Grand Prix award at CEATEC Award 2016](http://archive.ceatec.com/2016/en/award/award01_02.html#awtown). His lab developed [HyperService](https://github.com/HyperService-Consortium), the first interoperability blockchain platform with programmability and strong security guarantees, presented in [IEEE Blockchain Cleveland](http://www.clevelandieee.org/events/hyperservice-interoperability-and-programmability-across-heterogeneous-blockchains) and [Blockland Solutions Conference](https://www.blocklandsolutions.com/page/1435903/speakers). His research in mobile app security produced a static analysis technique that was deployed in [Microsoft Research](https://www.microsoft.com/en-us/research/project/touchdevelop/) for two years and was granted a US patent. His collaboration with industry partners has resulted in [6 US patents](/publications/#patent). 
+Dr. Xusheng Xiao leads the **Reliable, Intelligent, Secure, and Efficient (RISE) Software and System Lab** at Arizona State University. His research lies at the intersection of **software engineering**, **cybersecurity**, and **artificial intelligence**, with a focus on developing **AI-driven software and system analysis techniques** that synergistically combine program analysis and foundation models to improve the reliability, security, and trustworthiness of modern software systems.
+
+### Research Areas
+
+- **AI for Software Engineering and Program Analysis**
+- **LLM-Powered Cybersecurity, Fraud, and Deception Analysis**
+- **Cyber Threat Detection, Investigation, and Attribution**
+- **Automated Vulnerability Discovery, Repair, and Software Assurance**
+- **Mobile and Android Ecosystem Security**
+- **Blockchain and Smart Contract Security**
+
+His research in cyber threat investigation has been integrated into a [security product](https://www.nec.com/en/global/techrep/journal/g16/n01/160110.html) at NEC, which received the [Grand Prix Award at CEATEC 2016](http://archive.ceatec.com/2016/en/award/award01_02.html#awtown). His lab developed [HyperService](https://github.com/HyperService-Consortium), a pioneering blockchain interoperability platform with programmability and strong security guarantees across heterogeneous blockchains, which was presented at [IEEE Blockchain Cleveland](http://www.clevelandieee.org/events/hyperservice-interoperability-and-programmability-across-heterogeneous-blockchains) and the [Blockland Solutions Conference](https://www.blocklandsolutions.com/page/1435903/speakers). His research in mobile application security produced a static analysis technique that was deployed by [Microsoft Research](https://www.microsoft.com/en-us/research/project/touchdevelop/) and resulted in a U.S. patent. Through collaborations with industry partners, his research has also generated [6 U.S. patents](/publications/#patent).
 
 
 <hr/>
@@ -19,11 +30,12 @@ Dr. Xusheng Xiao is leading the Reliable, Intelligent, Secure, and Efficient (RI
 I am always looking for PhD students and interns with strong background in SE, Security, or ML. Please apply to ASU SCAI by Dec. 31th (PhD only), and/or send me an email (with your CV). \[[Read more](positions/)\]
 
 ## Services
-[IEEE S&P 2026](https://www.ieee-security.org/TC/SP2026/), [CCS 2026](https://www.sigsac.org/ccs/CCS2026/), [ICSE 2026](https://conf.researchr.org/home/icse-2026), [FSE 2026](https://conf.researchr.org/home/fse-2026), [ISSTA 2026](https://conf.researchr.org/home/issta-2026), [PETS 2026](https://petsymposium.org/cfp26.php), [ICLR 2026](https://iclr.cc/virtual/2026/index.html), [ASE 2025 NIER Co-Chair](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track)
+[IEEE S&P 2027](https://www.ieee-security.org/TC/SP2027/), [CCS 2026](https://www.sigsac.org/ccs/CCS2026/), [ICSE 2027](https://conf.researchr.org/home/icse-2027), [FSE 2027](https://conf.researchr.org/home/fse-2027)
 
 <hr/>
 
 ## News
+* 6/2026: We are excited to share that our paper "An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks" has been accepted in [ASE 2026](https://conf.researchr.org/home/ase-2026)! This work was supported by the NSF project [#2318486](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2318486). Congratulations to the entire team!
 * 1/2026: Congratulations to my student Fei Shao and my collaborators! Our paper "Training-free Counterfactual Explanation for Temporal Graph Model Inference" has been accepted in [ICLR 2026](https://iclr.cc/)!
 * 10/2025: Congratulations to my student Fei Shao and my collaborators! Our paper "ProGQL: A Provenance Graph Query System for Cyber Attack Investigation" has been accepted in [ICDE 2026](https://icde2026.github.io/)!
 * 9/2025: Congratulations to my student Zichen Liu! Our paper "AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps" has been accepted in [ASE 2025](https://conf.researchr.org/home/ase-2025)!
