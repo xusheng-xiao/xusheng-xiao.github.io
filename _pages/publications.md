@@ -24,7 +24,7 @@ Go to: [Patent](#patent) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [
 
 Sabbir Hussain Meraj, Long Trac, Xiaoyin Wang, Xusheng Xiao, and Wei Wang <br/>
 **An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks** <br/>
-<i>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2026](https://conf.researchr.org/home/ase-2026))</i>, Munich, Germany, Oct, 2026. \[[PDF]()\]
+<i>In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering ([ASE 2026](https://conf.researchr.org/home/ase-2026))</i>, Munich, Germany, Oct, 2026. \[[PDF]()\]
 
 Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
 **ProGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
@@ -47,7 +47,7 @@ Shang Ma, Tianyi Ma, Jiahao Liu, Wei Song, Zhenkai Liang, Xusheng Xiao, and Yanf
 
 Zichen Liu and Xusheng Xiao  <br/>
 **AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps** <br/>
-<i>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2025](https://conf.researchr.org/home/ase-2025))</i>, Seoul, South Korea, Nov. 2025. \[[PDF](https://xusheng-xiao.github.io/papers/appbds-ase2025.pdf)\]\[[Project Website](https://github.com/AppBDS/AppBDS)\]
+<i>In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering ([ASE 2025](https://conf.researchr.org/home/ase-2025))</i>, Seoul, South Korea, Nov. 2025. \[[PDF](https://xusheng-xiao.github.io/papers/appbds-ase2025.pdf)\]\[[Project Website](https://github.com/AppBDS/AppBDS)\]
 
 
 Hong Guan, Lixi Zhou, Lei Yu, Li Xiong, Kanchan Chowdhury, Lulu Xie, Xusheng Xiao, and Jia Zou <br/>
