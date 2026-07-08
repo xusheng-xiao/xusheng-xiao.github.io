@@ -21,6 +21,10 @@ Go to: [Patent](#patent) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [
 
 <span style="color: black;font-size: 18px;"><a id="2026" style="color: black;text-decoration: none;">**2026**</a></span>
 
+Weixiang Sun\*, Shang Ma\*, Yiyang Li, Tianyi Ma, Zehong Wang, Colby Nelson, Xusheng Xiao, and Yanfang (Fanny) Ye <br/>
+**PreScam: A Benchmark for Predicting Scam Progression from Early Conversations** <br/>
+<i>In Proceedings of the Conference on Language Modeling ([COLM 2026](https://colmweb.org))</i>, San Francisco, CA, USA, Oct 2026. \[[PDF]()\]
+* \*The first two authors contribute equally to this work.
 
 Sabbir Hussain Meraj, Long Trac, Xiaoyin Wang, Xusheng Xiao, and Wei Wang <br/>
 **An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks** <br/>
@@ -67,7 +71,7 @@ Haodong Li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guohai Xu, and Haoyu
 
 Liangyi Huang and Xusheng Xiao <br/>
 **CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence** <br/>
-<i>In Proceedings of the First Conference on Language Modeling ([COLM 2024](https://colmweb.org))</i>, Philadelphia, PA, USA, Oct 2024. \[[PDF](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)\]\[[Project Website](https://github.com/ctikgresearch/GTIKGResearch)\]
+<i>In Proceedings of the First Conference on Language Modeling ([COLM 2024](https://colmweb.org/2024))</i>, Philadelphia, PA, USA, Oct 2024. \[[PDF](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)\]\[[Project Website](https://github.com/ctikgresearch/GTIKGResearch)\]
 
 Zhongyu Ouyang, Chunhui Zhang, Shifu Hou, Shang Ma, Chaoran Chen, Toby Li, Xusheng Xiao, Chuxu Zhang, and Yanfang Ye <br/>
 **Completing the App Promotion Graph with Symbolic Prompting** <br/>

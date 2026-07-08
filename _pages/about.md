@@ -35,6 +35,7 @@ I am always looking for PhD students and interns with strong background in SE, S
 <hr/>
 
 ## News
+* 7/2026: Congratulations to my student Shang Ma and my collaborators! Our paper "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations" has been accepted in [COLM 2026](https://colmweb.org/)!
 * 6/2026: We are excited to share that our paper "An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks" has been accepted in [ASE 2026](https://conf.researchr.org/home/ase-2026)! This work was supported by the NSF project [#2318486](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2318486). Congratulations to the entire team!
 * 1/2026: Congratulations to my student Fei Shao and my collaborators! Our paper "Training-free Counterfactual Explanation for Temporal Graph Model Inference" has been accepted in [ICLR 2026](https://iclr.cc/)!
 * 10/2025: Congratulations to my student Fei Shao and my collaborators! Our paper "ProGQL: A Provenance Graph Query System for Cyber Attack Investigation" has been accepted in [ICDE 2026](https://icde2026.github.io/)!
@@ -43,11 +44,6 @@ I am always looking for PhD students and interns with strong background in SE, S
 * 8/2025: We have received API credits from the [OpenAI Cybersecurity Grant Program](https://openai.com/index/openai-cybersecurity-grant-program/)! Thank you, OpenAI!
 * 7/2025: We have received a grant from [TensorBlock](https://tensorblock.co/) to support our collaboration on [Forge](https://github.com/TensorBlock/forge)! What an exciting product to unify the access to various LLMs!
 * 1/2025: Congratulations to my collaborators! Our paper "Privacy and Accuracy-Aware AI/ML Model Deduplication" has been accepted to [SIGMOD 2025](https://2025.sigmod.org/)!
-* 8/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph" has been accepted in [NDSS 2025](https://www.ndss-symposium.org/ndss2025)!
-* 7/2024: Our application for the OpenAI [Researcher Access Program](https://openai.com/form/researcher-access-program/) has been accepted! Thank you, OpenAI!
-* 7/2024: Congratulations to my student Liangyi Huang! Our paper "CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence" has been accepted in [COLM 2024](https://colmweb.org/)! Check out our [project website](https://github.com/ctikgresearch/GTIKGResearch) for more details!
-* 6/2024: Congratulations to my student Pengcheng Fang and my collaborators! Our paper "vFix: Facilitating Software Maintenance of Smart Contracts via Automatically Fixing Vulnerabilities" has been accepted in [ICSME 2024](https://conf.researchr.org/track/icsme-2024)! Check out our [project website](https://github.com/vfixresearch/vFix) for more details! 
-* 5/2024: Congratulations to my student Shang Ma and my collaborators! Our paper "Completing the App Promotion Graph with Symbolic Prompting" has been accepted in [ECML PKDD 2024](https://ecmlpkdd.org/2024/)!
 * [More...](/news/)
 
 ## Biography

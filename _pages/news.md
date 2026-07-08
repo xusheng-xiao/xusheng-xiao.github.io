@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+* 7/2026: Congratulations to my student Shang Ma and my collaborators! Our paper "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations" has been accepted in [COLM 2026](https://colmweb.org/)!
 * 6/2026: We are excited to share that our paper "An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks" has been accepted in [ASE 2026](https://conf.researchr.org/home/ase-2026)! This work was supported by the NSF project [#2318486](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2318486). Congratulations to the entire team!
 * 1/2026: Congratulations to my student Fei Shao and my collaborators! Our paper "Training-free Counterfactual Explanation for Temporal Graph Model Inference" has been accepted in [ICLR 2026](https://iclr.cc/)!
 * 10/2025: Congratulations to my student Fei Shao and my collaborators! Our paper "ProGQL: A Provenance Graph Query System for Cyber Attack Investigation" has been accepted in [ICDE 2026](https://icde2026.github.io/)!
