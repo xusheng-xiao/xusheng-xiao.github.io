@@ -39,6 +39,13 @@ Mingjian Lu, Haolai Che, Yangxin Fan, Qu Liu, Fei Shao, Tingjian Ge, Xusheng Xia
 <i>In Proceedings of the International Conference on Learning Representations ([ICLR 2026](https://iclr.cc/))</i>, Rio de Janeiro, Brazil, April, 2026. \[[PDF]()\]
 
 
+Weidi Luo, Qiming Zhang, Tianyu Lu, Xiaogeng Liu, Bin Hu, CHIU Hung Chun, Siyuan Ma, Yizhe Zhang, Xusheng Xiao, Yinzhi Cao, Zhen Xiang, and Chaowei Xiao  <br/>
+**Your Harness is Not Secure: Benchmarking Real-world Threat of Command Line Interface Agent** <br/>
+<i>In Proceedings of the Conference on Empirical Methods in Natural Language Processing ([EMNLP 2026](https://2026.emnlp.org/))</i>, Budapest, Hungary, Oct. 2026. \[[PDF]()\]
+* Selected as oral for <i>Second Workshop on Agents in the Wild: Safety, Security, and Beyond ([AIWILD 2026](https://agentwild-workshop.github.io/icml2026/))</i>, co-located with [ICML 2026](https://icml.cc/).
+
+
+
 <span style="color: black;font-size: 18px;"><a id="2025" style="color: black;text-decoration: none;">**2025**</a></span>
 
 Shang Ma, Chaoran Chen, Shao Yang, Shifu Hou, Toby Jia-Jun Li, Xusheng Xiao, Tao Xie, and Yanfang (Fanny) Ye <br/>
