@@ -26,13 +26,20 @@ Weixiang Sun\*, Shang Ma\*, Yiyang Li, Tianyi Ma, Zehong Wang, Colby Nelson, Xus
 <i>In Proceedings of the Conference on Language Modeling ([COLM 2026](https://colmweb.org))</i>, San Francisco, CA, USA, Oct 2026. \[[PDF]()\]
 * \*The first two authors contribute equally to this work.
 
+Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
+**ProGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
+<i>In Proceedings of the IEEE International Conference on Data Engineering ([ICDE 2026](https://icde2026.github.io/))</i>, Montréal, Canada, May, 2026. \[[PDF](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf)\]\[[Longer Version](https://arxiv.org/abs/2510.22400)\]\[[Project Website](https://github.com/ProGQL/ProGQL)\]
+
+
+Shang Ma, Xusheng Xiao, and Yanfang (Fanny) Ye <br/>
+**Agent+P: Guiding UI Agents via Symbolic Planning** <br/>
+<i>In Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics & the International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2026](https://2026.aaclnet.org/))</i>, Hengqin, China, Nov, 2026. \[[PDF]()\]
+
+
 Sabbir Hussain Meraj, Long Trac, Xiaoyin Wang, Xusheng Xiao, and Wei Wang <br/>
 **An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks** <br/>
 <i>In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering ([ASE 2026](https://conf.researchr.org/home/ase-2026))</i>, Munich, Germany, Oct, 2026. \[[PDF]()\]
 
-Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
-**ProGQL: A Provenance Graph Query System for Cyber Attack Investigation** <br/>
-<i>In Proceedings of the IEEE International Conference on Data Engineering ([ICDE 2026](https://icde2026.github.io/))</i>, Montréal, Canada, May, 2026. \[[PDF](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf)\]\[[Longer Version](https://arxiv.org/abs/2510.22400)\]\[[Project Website](https://github.com/ProGQL/ProGQL)\]
 
 Mingjian Lu, Haolai Che, Yangxin Fan, Qu Liu, Fei Shao, Tingjian Ge, Xusheng Xiao, and Yinghui Wu  <br/>
 **Training-free Counterfactual Explanation for Temporal Graph Model Inference** <br/>
