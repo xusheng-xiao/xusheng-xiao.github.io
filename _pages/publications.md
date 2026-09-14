@@ -23,7 +23,7 @@ Go to: [Patent](#patent) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [
 
 Weixiang Sun\*, Shang Ma\*, Yiyang Li, Tianyi Ma, Zehong Wang, Colby Nelson, Xusheng Xiao, and Yanfang (Fanny) Ye <br/>
 **PreScam: A Benchmark for Predicting Scam Progression from Early Conversations** <br/>
-<i>In Proceedings of the Conference on Language Modeling ([COLM 2026](https://colmweb.org))</i>, San Francisco, CA, USA, Oct 2026. \[[PDF]()\]
+<i>In Proceedings of the Conference on Language Modeling ([COLM 2026](https://colmweb.org))</i>, San Francisco, CA, USA, Oct 2026. \[[PDF](https://xusheng-xiao.github.io/papers/prescam_colm2026.pdf)\]
 * \*The first two authors contribute equally to this work.
 
 Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
@@ -38,7 +38,7 @@ Shang Ma, Xusheng Xiao, and Yanfang (Fanny) Ye <br/>
 
 Sabbir Hussain Meraj, Long Trac, Xiaoyin Wang, Xusheng Xiao, and Wei Wang <br/>
 **An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks** <br/>
-<i>In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering ([ASE 2026](https://conf.researchr.org/home/ase-2026))</i>, Munich, Germany, Oct, 2026. \[[PDF]()\]
+<i>In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering ([ASE 2026](https://conf.researchr.org/home/ase-2026))</i>, Munich, Germany, Oct, 2026. \[[PDF](https://xusheng-xiao.github.io/papers/ar_study_ase2026.pdf)\]
 * <span style="color: red;"> ACM Distinguished Paper Award </span>
 
 
