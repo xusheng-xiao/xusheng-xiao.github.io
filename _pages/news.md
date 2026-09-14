@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* 9/2026: We are excited to share that our paper "An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks" has received the <span style="color: red;"> ACM Distinguished Paper Award </span> in [ASE 2026](https://conf.researchr.org/home/ase-2026)! This work was supported by the NSF project [#2318486](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2318486). Congratulations to the entire team!
 * 9/2026: Congratulations to my student Shang Ma and my collaborator! Our paper "Agent+P: Guiding UI Agents via Symbolic Planning" has been accepted to [AACL-IJCNLP 2026](https://2026.aaclnet.org/)!
 * 8/2026: Congratulations to my collaborators! Our paper "Your Harness is Not Secure: Benchmarking Real-world Threat of Command Line Interface Agent" has been accepted to [EMNLP 2026](https://2026.emnlp.org/)! It was also selected as an oral paper in [AIWILD@ICML 2026](https://agentwild-workshop.github.io/icml2026/)!
 * 7/2026: Congratulations to my student Shang Ma and my collaborators! Our paper "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations" has been accepted in [COLM 2026](https://colmweb.org/)!

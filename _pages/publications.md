@@ -39,11 +39,12 @@ Shang Ma, Xusheng Xiao, and Yanfang (Fanny) Ye <br/>
 Sabbir Hussain Meraj, Long Trac, Xiaoyin Wang, Xusheng Xiao, and Wei Wang <br/>
 **An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks** <br/>
 <i>In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering ([ASE 2026](https://conf.researchr.org/home/ase-2026))</i>, Munich, Germany, Oct, 2026. \[[PDF]()\]
+* <span style="color: red;"> ACM Distinguished Paper Award </span>
 
 
 Mingjian Lu, Haolai Che, Yangxin Fan, Qu Liu, Fei Shao, Tingjian Ge, Xusheng Xiao, and Yinghui Wu  <br/>
 **Training-free Counterfactual Explanation for Temporal Graph Model Inference** <br/>
-<i>In Proceedings of the International Conference on Learning Representations ([ICLR 2026](https://iclr.cc/))</i>, Rio de Janeiro, Brazil, April, 2026. \[[PDF]()\]
+<i>In Proceedings of the International Conference on Learning Representations ([ICLR 2026](https://iclr.cc/))</i>, Rio de Janeiro, Brazil, April, 2026. \[[PDF](https://xusheng-xiao.github.io/papers/training_iclr2026.pdf)\]
 
 
 Weidi Luo, Qiming Zhang, Tianyu Lu, Xiaogeng Liu, Bin Hu, CHIU Hung Chun, Siyuan Ma, Yizhe Zhang, Xusheng Xiao, Yinzhi Cao, Zhen Xiang, and Chaowei Xiao  <br/>
