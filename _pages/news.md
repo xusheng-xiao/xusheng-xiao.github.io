@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* 10/2026: Congratulations to Theodorus, Liangyi, and my collaborator Prof. Adil Ahmad! Our paper "Specification-Guided Detection of ISA Conformance Bugs in RISC-V Emulators" has been accepted in [ICSE 2027](https://conf.researchr.org/home/icse-2027)!
 * 10/2026: I am approved for the [ChatGPT for Academic Researchers program](https://openai.com/index/chatgpt-for-academic-researchers/)! Thank you for your support, OpenAI!
 * 9/2026: We are excited to share that our paper "An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks" has received the <span style="color: red;"> ACM Distinguished Paper Award </span> in [ASE 2026](https://conf.researchr.org/home/ase-2026)! This work was supported by the NSF project [#2318486](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2318486). Congratulations to the entire team!
 * 9/2026: Congratulations to my student Shang Ma and my collaborator! Our paper "Agent+P: Guiding UI Agents via Symbolic Planning" has been accepted to [AACL-IJCNLP 2026](https://2026.aaclnet.org/)!

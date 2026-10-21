@@ -16,8 +16,15 @@ author_profile: true
 You can also find my publications at <a href="https://scholar.google.com/citations?user=qVx6V7UAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/13/9656.html">DBLP</a>.
 
 <hr/>
-Go to: [Patent](#patent) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
+Go to: [Patent](#patent) \| [2027](#2027) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
 <hr/>
+
+<span style="color: black;font-size: 18px;"><a id="2027" style="color: black;text-decoration: none;">**2027**</a></span>
+
+Theodorus Februanto, Liangyi Huang, Xusheng Xiao, and Adil Ahmad<br/>
+**Specification-Guided Detection of ISA Conformance Bugs in RISC-V Emulators** <br/>
+<i>In Proceedings of the IEEE/ACM International Conference on Software Engineering ([ICSE 2027](https://conf.researchr.org/home/icse-2027))</i>, Dublin, Ireland, April 2027. \[[PDF]()\]
+
 
 <span style="color: black;font-size: 18px;"><a id="2026" style="color: black;text-decoration: none;">**2026**</a></span>
 
