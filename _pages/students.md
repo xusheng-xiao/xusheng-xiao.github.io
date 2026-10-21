@@ -26,7 +26,7 @@ author_profile: true
 
 
 ## PhD Students:
-* [Liangyi Huang](https://liangyihuang.gitlab.io/) (2021.5-) \[[PVSC2022](https://xusheng-xiao.github.io/papers/fairification.pdf), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf), [COLM 2024](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)\]
+* [Liangyi Huang](https://liangyihuang.gitlab.io/) (2021.5-) \[[PVSC2022](https://xusheng-xiao.github.io/papers/fairification.pdf), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf), [COLM 2024](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf), [ICSE 2027]()\]
 * [Zichen Liu](https://sites.google.com/view/zliu396/) (2023.5-) \[[ASE 2025](https://xusheng-xiao.github.io/papers/appbds-ase2025.pdf)\]
 * [Shang Ma](https://kiteflykid.github.io/) (2022.8-), Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/), \[[GLFrontiers 2023](https://xusheng-xiao.github.io/papers/promptpromotion-glfrontier23.pdf), [ECML PKDD 2024](https://ecmlpkdd.org/2024/), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf), [EMNLP 2025](https://xusheng-xiao.github.io/papers/psyscam_emnlp_2025.pdf), [COLM 2026](https://xusheng-xiao.github.io/papers/prescam_colm2026.pdf), [AACL-IJCNLP 2026]()\]
 * [Fei Shao](https://feishao315.github.io/) (2018.5-), CWRU, \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [USENIX Security 2023](https://xusheng-xiao.github.io/papers/usenixsecurity23-distdet.pdf), [NDSS 2024](https://xusheng-xiao.github.io/papers/nodlink-ndss.pdf), [ICDE 2026](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf), [ICLR 2026](https://xusheng-xiao.github.io/papers/training_iclr2026.pdf)\]
@@ -34,11 +34,11 @@ author_profile: true
 
 
 ## MS Students:
-* Stanley Nguyen (2025.5 - )
+* Stanley Nguyen (2025.5 - 2026.8)
 
 ## Undergraduate Students
 * Baozan Yan (2023 summer)
-* Teresa Nguyen (2025.6 - 2025.8)
+* Teresa Nguyen (2025.6 - 2026.8)
 
 
 ## Past PhD Students:
