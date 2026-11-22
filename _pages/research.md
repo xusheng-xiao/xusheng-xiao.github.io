@@ -19,6 +19,14 @@ RISE lab developes system security techniques that **monitors software behaviors
 * See our papers at [VLDB'16](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/behaviorquery-vldb2016.pdf), [CCS'16](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/reduction-ccs.pdf), [USENIX ATC'18](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/aiql-usenix_atc2018_0.pdf), [USENIX Security'18](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/sec18-final146.pdf), [CCS' 18](http://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/nodemerge-ccs2018.pdf), [ICDE'20](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/aptrace-camera-ready.pdf), [ICDE'21](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/threatraptor-icde21_0.pdf), [USENIX Security'22](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/sec22summer_fang.pdf), [IEEE S&P'22](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/depcomm-ieeesp2022.pdf).
 
 
+## Online Scam/Fraud and Cyber Deception
+
+RISE lab develops AI-driven techniques to **detect and understand online scams, fraud, and cyber deception**. We combine large language models with insights from psychology to analyze how scammers manipulate victims and how deceptive interactions evolve over time. Specifically, we develop benchmarks for identifying psychological techniques in real-world scams and predicting scam progression from early conversations. We also study cryptocurrency fraud by detecting and characterizing scam tokens on decentralized exchanges.
+* **PsyScam** benchmarks psychological techniques in real-world scams and evaluates language models on scam detection and generation. See our paper at [EMNLP'25](https://xusheng-xiao.github.io/papers/psyscam_emnlp_2025.pdf) and [arXiv](https://arxiv.org/abs/2505.15017).
+* **PreScam** benchmarks scam progression in multi-turn conversations, including real-time risk estimation and prediction of scammers' next actions. See our paper at [COLM'26](https://xusheng-xiao.github.io/papers/prescam_colm2026.pdf) and [arXiv](https://arxiv.org/abs/2605.12243).
+* **Trade or Trick?** detects and characterizes scam tokens on the Uniswap decentralized exchange using transaction analysis and machine learning. See our paper at [SIGMETRICS'22](https://xusheng-xiao.github.io/papers/uniswap.pdf) and [arXiv](https://arxiv.org/abs/2109.00229).
+
+
 ## Mobile App Analysis 
 
 <img alt="" src="https://xusheng-xiao.github.io/images/mobile.png" style="width:650px" />
