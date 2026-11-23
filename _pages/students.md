@@ -35,6 +35,7 @@ author_profile: true
 
 ## MS Students:
 * Stanley Nguyen (2025.5 - 2026.8)
+  * Thesis: Mining Vulnerability Fix Patterns for Large Language Model-Assisted Vulnerability Repair
 
 ## Undergraduate Students
 * Baozan Yan (2023 summer)
