@@ -40,7 +40,7 @@ Fei Shao, Jia Zou, Zhichao Cao, and Xusheng Xiao <br/>
 
 Shang Ma, Xusheng Xiao, and Yanfang (Fanny) Ye <br/>
 **Agent+P: Guiding UI Agents via Symbolic Planning** <br/>
-<i>In Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics & the International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2026](https://2026.aaclnet.org/))</i>, Hengqin, China, Nov, 2026. \[[PDF]()\]
+<i>In Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics & the International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2026](https://2026.aaclnet.org/))</i>, Hengqin, China, Nov, 2026. \[[PDF](https://xusheng-xiao.github.io/papers/agent_p_aacl2026.pdf)\]
 
 
 Sabbir Hussain Meraj, Long Trac, Xiaoyin Wang, Xusheng Xiao, and Wei Wang <br/>
