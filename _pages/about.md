@@ -16,11 +16,13 @@ Dr. Xusheng Xiao leads the **Reliable, Intelligent, Secure, and Efficient (RISE)
 
 ### Research Areas
 
-- {% include research-icon.html project="cyber-threat" %} **[Cyber Threat Detection and Investigation](/research/#cyber-threat-detection-and-investigation)**
-- {% include research-icon.html project="scam-deception" %} **[Online Scam/Fraud and Cyber Deception](/research/#online-scam-fraud-and-cyber-deception)**
-- {% include research-icon.html project="mobile-app" %} **[Mobile App Analysis](/research/#mobile-app-analysis)**
-- {% include research-icon.html project="blockchain" %} **[Blockchain and Smart Contract](/research/#blockchain-and-smart-contract)**
-- {% include research-icon.html project="software-analysis" %} **[Software Testing and Program Analysis](/research/#software-testing-and-program-analysis)**
+<ul class="research-area-cards">
+  <li><a class="research-area-card" href="/research/#cyber-threat-detection-and-investigation"><span>Cyber Threat Detection and Investigation</span><img src="/images/research-mascots/cyber-threat.svg" alt="" aria-hidden="true" width="180" height="180" /></a></li>
+  <li><a class="research-area-card" href="/research/#online-scam-fraud-and-cyber-deception"><span>Online Scam/Fraud and Cyber Deception</span><img src="/images/research-mascots/scam-deception.svg" alt="" aria-hidden="true" width="180" height="180" /></a></li>
+  <li><a class="research-area-card" href="/research/#mobile-app-analysis"><span>Mobile App Analysis</span><img src="/images/research-mascots/mobile-app.svg" alt="" aria-hidden="true" width="180" height="180" /></a></li>
+  <li><a class="research-area-card" href="/research/#blockchain-and-smart-contract"><span>Blockchain and Smart Contract</span><img src="/images/research-mascots/blockchain.svg" alt="" aria-hidden="true" width="180" height="180" /></a></li>
+  <li><a class="research-area-card" href="/research/#software-testing-and-program-analysis"><span>Software Testing and Program Analysis</span><img src="/images/research-mascots/software-analysis.svg" alt="" aria-hidden="true" width="180" height="180" /></a></li>
+</ul>
 
 His research in cyber threat investigation has been integrated into a [security product](https://www.nec.com/en/global/techrep/journal/g16/n01/160110.html) at NEC, which received the [Grand Prix Award at CEATEC 2016](http://archive.ceatec.com/2016/en/award/award01_02.html#awtown). His research in an empirical study of Android AR apps pioneered the research of AR security, and received an ACM Distinguished Paper Award in [ASE 2026](https://conf.researchr.org/home/ase-2026). His lab developed [HyperService](https://github.com/HyperService-Consortium), a pioneering blockchain interoperability platform with programmability and strong security guarantees across heterogeneous blockchains, which was presented at [IEEE Blockchain Cleveland](http://www.clevelandieee.org/events/hyperservice-interoperability-and-programmability-across-heterogeneous-blockchains) and the [Blockland Solutions Conference](https://www.blocklandsolutions.com/page/1435903/speakers). His research in mobile application security produced a static analysis technique that was deployed by [Microsoft Research](https://www.microsoft.com/en-us/research/project/touchdevelop/) and resulted in a U.S. patent. Through collaborations with industry partners, his research has also generated [6 U.S. patents](/publications/#patent).
 

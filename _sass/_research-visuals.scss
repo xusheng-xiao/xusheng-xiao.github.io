@@ -1,0 +1,81 @@
+/* Shared research characters and publication word cloud. */
+.research-area-cards {
+  list-style: none;
+  margin: 1em 0 1.5em;
+  padding: 0;
+
+  li { margin: 0 0 0.65em; }
+}
+
+.research-area-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 92px;
+  padding: 1em 150px 1em 1.1em;
+  overflow: hidden;
+  border: 1px solid #e6e1e7;
+  border-left: 4px solid #8c1d40;
+  border-radius: 10px;
+  background: #f8f7fa;
+  color: #35313b;
+  font-weight: 700;
+  text-decoration: none;
+
+  &:hover, &:focus-visible {
+    border-color: #8c1d40;
+    background: #f2eef4;
+    text-decoration: underline;
+  }
+
+  span { position: relative; z-index: 1; }
+
+  img {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    width: 134px;
+    height: 134px;
+    transform: translateY(-50%) rotate(-6deg);
+    opacity: 0.42;
+    pointer-events: none;
+  }
+}
+
+.publication-wordcloud {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  margin: 1em auto 2em;
+  text-align: center;
+
+  &__stage { position: relative; padding: 6% 11% 9%; }
+
+  &__image { display: block; width: 100%; height: auto; margin: 0; }
+
+  &__character {
+    position: absolute;
+    display: block;
+    width: 13%;
+    max-width: 112px;
+    border-radius: 50%;
+
+    img { display: block; width: 100%; height: auto; margin: 0; }
+    &:hover, &:focus-visible { outline: 2px solid #8c1d40; outline-offset: 3px; }
+    &--cyber { top: 1%; left: 3%; transform: rotate(-10deg); }
+    &--scam { top: 0; right: 3%; transform: rotate(9deg); }
+    &--mobile { top: 45%; left: 0; transform: rotate(-7deg); }
+    &--blockchain { top: 48%; right: 0; transform: rotate(8deg); }
+    &--software { bottom: 0; left: 44%; transform: rotate(-5deg); }
+  }
+
+  figcaption { margin: 0.7em 0 0; color: #514b57; font-size: 0.85em; }
+}
+
+@media (max-width: 480px) {
+  .research-area-card {
+    min-height: 86px;
+    padding-right: 110px;
+    img { right: 2px; width: 108px; height: 108px; }
+  }
+}

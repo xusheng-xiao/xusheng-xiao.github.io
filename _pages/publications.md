@@ -8,8 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
-<p style="text-align:center;"><img alt="" src="https://xusheng-xiao.github.io/images/wordcloud.png" style="width:350px" /></p>
-<p style="text-align:center;"><span style="font-size:16px"><strong>My Publication Word Cloud</strong></span></p>
+<figure class="publication-wordcloud">
+  <div class="publication-wordcloud__stage">
+    <img class="publication-wordcloud__image" src="/images/publication-wordcloud.png" alt="Word cloud of recent publications and five research directions: cyber threats, scams and fraud, mobile security, smart contracts, and software analysis, with topics including LLMs, provenance graphs, privacy, and vulnerability repair." width="2700" height="1500" />
+    <a class="publication-wordcloud__character publication-wordcloud__character--cyber" href="/research/#cyber-threat-detection-and-investigation" aria-label="Explore Cyber Threat Detection and Investigation" title="Cyber Threat Detection and Investigation"><img src="/images/research-mascots/cyber-threat.svg" alt="" width="180" height="180" /></a>
+    <a class="publication-wordcloud__character publication-wordcloud__character--scam" href="/research/#online-scam-fraud-and-cyber-deception" aria-label="Explore Online Scam/Fraud and Cyber Deception" title="Online Scam/Fraud and Cyber Deception"><img src="/images/research-mascots/scam-deception.svg" alt="" width="180" height="180" /></a>
+    <a class="publication-wordcloud__character publication-wordcloud__character--mobile" href="/research/#mobile-app-analysis" aria-label="Explore Mobile App Analysis" title="Mobile App Analysis"><img src="/images/research-mascots/mobile-app.svg" alt="" width="180" height="180" /></a>
+    <a class="publication-wordcloud__character publication-wordcloud__character--blockchain" href="/research/#blockchain-and-smart-contract" aria-label="Explore Blockchain and Smart Contract" title="Blockchain and Smart Contract"><img src="/images/research-mascots/blockchain.svg" alt="" width="180" height="180" /></a>
+    <a class="publication-wordcloud__character publication-wordcloud__character--software" href="/research/#software-testing-and-program-analysis" aria-label="Explore Software Testing and Program Analysis" title="Software Testing and Program Analysis"><img src="/images/research-mascots/software-analysis.svg" alt="" width="180" height="180" /></a>
+  </div>
+  <figcaption><strong>Recent publications &amp; five research directions</strong><br />Explore a research direction through its character.</figcaption>
+</figure>
 
 <strong>COPYRIGHT</strong>: The following materials are copyrighted by the corresponding publishers (e.g., ACM, IEEE, Springer Verlag). You can download them only if you accept and obey the terms and restrictions defined by the respective publishers. The online version may be older than the printed version available at the respective publisher's website.
 
