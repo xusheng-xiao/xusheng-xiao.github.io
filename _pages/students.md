@@ -26,10 +26,10 @@ author_profile: true
 
 
 ## PhD Students:
-* [Liangyi Huang](https://liangyihuang.gitlab.io/) (2021.5-) \[[PVSC2022](https://xusheng-xiao.github.io/papers/fairification.pdf), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf), [COLM 2024](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf), [ICSE 2027]()\]
+* [Liangyi Huang](https://liangyihuang.gitlab.io/) (2021.5-) \[[PVSC 2022](https://xusheng-xiao.github.io/papers/fairification.pdf), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [CCS 2023](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf), [COLM 2024](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf), [ICSE 2027](/publications/#2027)\]
 * [Zichen Liu](https://sites.google.com/view/zliu396/) (2023.5-) \[[ASE 2025](https://xusheng-xiao.github.io/papers/appbds-ase2025.pdf)\]
-* [Shang Ma](https://kiteflykid.github.io/) (2022.8-), Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/), \[[GLFrontiers 2023](https://xusheng-xiao.github.io/papers/promptpromotion-glfrontier23.pdf), [ECML PKDD 2024](https://ecmlpkdd.org/2024/), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf), [EMNLP 2025](https://xusheng-xiao.github.io/papers/psyscam_emnlp_2025.pdf), [COLM 2026](https://xusheng-xiao.github.io/papers/prescam_colm2026.pdf), [AACL-IJCNLP 2026](https://xusheng-xiao.github.io/papers/agent_p_aacl2026.pdf)\]
-* [Fei Shao](https://feishao315.github.io/) (2018.5-), CWRU, \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [USENIX Security 2023](https://xusheng-xiao.github.io/papers/usenixsecurity23-distdet.pdf), [NDSS 2024](https://xusheng-xiao.github.io/papers/nodlink-ndss.pdf), [ICDE 2026](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf), [ICLR 2026](https://xusheng-xiao.github.io/papers/training_iclr2026.pdf)\]
+* [Shang Ma](https://kiteflykid.github.io/) (2022.8-), Notre Dame, co-advised with [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/), \[[GLFrontiers 2023](https://xusheng-xiao.github.io/papers/promptpromotion-glfrontier23.pdf), [ECML PKDD 2024](https://zyouyang.github.io/assets/publications/SymPrompt.pdf), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf), [EMNLP 2025](https://xusheng-xiao.github.io/papers/psyscam_emnlp_2025.pdf), [COLM 2026](https://xusheng-xiao.github.io/papers/prescam_colm2026.pdf), [AACL-IJCNLP 2026](https://xusheng-xiao.github.io/papers/agent_p_aacl2026.pdf)\]
+* [Fei Shao](https://feishao315.github.io/) (2018.5-), CWRU, \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [ICSE SRC 2021](https://2021.icse-conferences.org/details/icse-2021-ACM-Student-Research-Competition/8/WebEvo-Taming-Web-Application-Evolution-via-Semantic-Structure-Change-Detection), [CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf), [USENIX Security 2023](https://xusheng-xiao.github.io/papers/usenixsecurity23-distdet.pdf), [NDSS 2024](https://xusheng-xiao.github.io/papers/nodlink-ndss.pdf), [ICDE 2026](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf), [ICLR 2026](https://xusheng-xiao.github.io/papers/training_iclr2026.pdf)\]
 
 
 
@@ -42,11 +42,11 @@ author_profile: true
 
 
 ## Past PhD Students:
-* [Shao Yang](https://shaoyang1992.github.io/) (2018.8-2023.8), CWRU, \[[CCS 2019](https://xusheng-xiao.github.io/papers/deepintent-optimize.pdf), [ASE SRC 2019](https://2019.ase-conferences.org/track/ase-2019-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/describectx_cr.pdf), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf)\]
+* [Shao Yang](https://shaoyang1992.github.io/) (2018.8-2023.8), CWRU, \[[CCS 2019](https://xusheng-xiao.github.io/papers/deepintent-optimize.pdf), [ASE SRC 2019](https://www.se.cs.uni-saarland.de/conferences/ASE/ase2019/details/ase-2019-Student-Research-Competition/5/An-Image-inspired-and-CNN-based-Android-Malware-Detection-Approach.html), [ICSE 2022](https://xusheng-xiao.github.io/papers/describectx_cr.pdf), [NDSS 2025](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf)\]
   * Thesis: Enhancing Mobile App Security through Contextual Integrity and User Awareness
 * [Pengcheng Fang](https://fang19911030.github.io/) (2017.5-2023.8), CWRU, \[[USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [ISSTA 2023](https://xusheng-xiao.github.io/papers/iSyn_issta.pdf), [ICSME 2024](https://xusheng-xiao.github.io/papers/vFix_ICSME2024.pdf)\]
   * Thesis: A Systematic Framework To Automatically Secure, Test, And Utilize Smart Contracts
-* [Changlin Liu](https://changlinliu93.github.io/) (2020.8-2024.12), CWRU, \[[ISSACS Student Fellowship](https://engineering.case.edu/research/institutes/smart-secure-connected-systems), [ASE 2019](https://xusheng-xiao.github.io/papers/ase19-main-158.pdf), [ICSE SRC 2021](https://conf.researchr.org/track/icse-2021/icse-2021-ACM-Student-Research-Competition), [ICSE 2022](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]
+* [Changlin Liu](https://changlinliu93.github.io/) (2020.8-2024.12), CWRU, \[[ISSACS Student Fellowship](https://engineering.case.edu/research/institutes/smart-secure-connected-systems), [ASE 2019](https://xusheng-xiao.github.io/papers/ase19-main-158.pdf), [ICSE SRC 2021](https://2021.icse-conferences.org/details/icse-2021-ACM-Student-Research-Competition/11/ProMal-Precise-Window-Transition-Graphs-for-Android-via-Synergy-of-Program-Analysis-), [ICSE 2022](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf), [IEEE S & P 2022](https://xusheng-xiao.github.io/papers/depcomm-ieeesp2022.pdf), [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)\]
 
 
 ## Past MS Students:
@@ -59,7 +59,7 @@ author_profile: true
 * Sophia Hall (2021.1 - 2023.5),  CWRU, \[[CIKM 2022 Demo](https://xusheng-xiao.github.io/papers/cikm_demo_2022.pdf)\]
 * Zhou Yang (2021.4 - 2022.8), CWRU
 * Siyi Chen (2019.2 - 2020.12), CWRU
-* Jian Shi (2018.8 - 2020.9), CWRU, \[[CCS 2019](https://xusheng-xiao.github.io/papers/hyperservice.pdf)\]
+* Jian Shi (2018.8 - 2020.9), CWRU, \[[CCS 2019](https://xusheng-xiao.github.io/papers/hyperservice.pdf), [IEEE TDSC 2022](https://xusheng-xiao.github.io/papers/hyperservice-tdsc21.pdf)\]
 * Rui Xu (2018.12 - 2020. 8), CWRU, \[[ISSTA 2021](https://xusheng-xiao.github.io/papers/webevo-cr.pdf)\]
 * Tiantong Ji (2018.1-2019.12), CWRU, \[[ICSE 2021](https://xusheng-xiao.github.io/papers/champ_icse2021_cr-submit3.pdf)\] 
 * Jing Sui (2018.3 - 2019.6), CWRU. First Job: Amazon
@@ -78,21 +78,12 @@ author_profile: true
 
 
 ## Past Interns in NEC Labs:
-* Peng Gao (2016 - 2018), Princeton University, \[[USENIX Security 2018](https://xusheng-xiao.github.io/papers/saql-usenixsecurity2018.pdf), [USENIX ATC 2018](https://xusheng-xiao.github.io/papers/aiql-usenix_atc2018.pdf), [ICSE 2019](https://xusheng-xiao.github.io/papers/iconintent-icse2019.pdf), [CCS 2019](https://xusheng-xiao.github.io/papers/hyperservice.pdf), [ICSE 2021](https://xusheng-xiao.github.io/papers/champ_icse2021_cr-submit3.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf)\], [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf)
-* Yutao Tang (2016), College of William and Mary, \[[CCS 2018](https://xusheng-xiao.github.io/papers/nodemerge-ccs2018_0.pdf)\]
+* Peng Gao (2016 - 2018), Princeton University, \[[USENIX Security 2018](https://xusheng-xiao.github.io/papers/saql-usenixsecurity2018.pdf), [USENIX ATC 2018](https://xusheng-xiao.github.io/papers/aiql-usenix_atc2018.pdf), [ICSE 2019](https://xusheng-xiao.github.io/papers/iconintent-icse2019.pdf), [CCS 2019 (DeepIntent)](https://xusheng-xiao.github.io/papers/deepintent-optimize.pdf), [CCS 2019 (HyperService)](https://xusheng-xiao.github.io/papers/hyperservice.pdf), [VLDB 2019 Demo](https://xusheng-xiao.github.io/papers/aiql-vldb19demo.pdf), [ICDE 2020 Demo](https://xusheng-xiao.github.io/papers/saql-demo.pdf), [ICSE 2021](https://xusheng-xiao.github.io/papers/champ_icse2021_cr-submit3.pdf), [ICDE 2021](https://xusheng-xiao.github.io/papers/threatraptor-icde21_0.pdf), [ICDE 2021 Demo](https://xusheng-xiao.github.io/papers/threatraptor-icde21demo.pdf), [IEEE TDSC 2022](https://xusheng-xiao.github.io/papers/hyperservice-tdsc21.pdf), [USENIX Security 2022](https://xusheng-xiao.github.io/papers/sec22summer_fang.pdf), [ICSME 2024](https://xusheng-xiao.github.io/papers/vFix_ICSME2024.pdf)\]
+* Yutao Tang (2016), College of William and Mary, \[[CCS 2018](https://xusheng-xiao.github.io/papers/nodemerge-ccs2018.pdf)\]
 * Jiaping Gui (2016), University of Southern California, \[[ACSAC 2019](https://xusheng-xiao.github.io/papers/acsac19-final143.pdf), [ICDE 2020](https://xusheng-xiao.github.io/papers/aptrace-camera-ready.pdf)\]
 * Weiren Wang (2015), Georgia Institute of Technology
 * Kangjie Lu (2015), Georgia Institute of Technology 
 * Gensheng Zhang (2015), University of Texas at Arlington
-* Bo Zong (2014), University of California, Santa Barbara, \[[VLDB 2016](http://www.vldb.org/pvldb/vol9/p240-zong.pdf)\]
+* Bo Zong (2014), University of California, Santa Barbara, \[[VLDB 2016](https://xusheng-xiao.github.io/papers/p240-zong.pdf)\]
 * Jianjun Huang (2014), Purdue University, \[[USENIX Security 2015](https://xusheng-xiao.github.io/papers/supor-usenix2015.pdf)\]
 * Zhang Xu (2014), College of William and Mary, \[[CCS 2016](https://xusheng-xiao.github.io/papers/reduction-ccs.pdf)\]
-
-
-
-
-
-
-
-
-

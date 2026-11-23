@@ -8,7 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Cyber Threat Detection and Investigation {#cyber-threat-detection-and-investigation}
+{% include affiliation-logos.html %}
+
+## {% include research-icon.html project="cyber-threat" %} Cyber Threat Detection and Investigation {#cyber-threat-detection-and-investigation}
 
 <img alt="System provenance analysis for cyber attack investigation" src="https://xusheng-xiao.github.io/images/depimpact.png" style="width:850px; max-width:100%; height:auto;" />
 
@@ -28,7 +30,7 @@ We also benchmark the misuse of command line agents on security tasks and end-to
 * [NSF #2613277](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2613277): CICI: TCR: Cyber Threat Triage and Investigation for Scientific Institutions via Adaptive Deployable Provenance Analysis and Agentic AI-Based Threat Intelligence.
 * [NSF #2438197](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2438197): SaTC: CORE: Small: Scalable Cyber Attack Investigation using Declarative Queries and Interrogative Analysis.
 
-## Online Scam/Fraud and Cyber Deception {#online-scam-fraud-and-cyber-deception}
+## {% include research-icon.html project="scam-deception" %} Online Scam/Fraud and Cyber Deception {#online-scam-fraud-and-cyber-deception}
 
 <div class="research-figure-row" style="display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1.25rem; align-items:center; margin:1.5em 0;">
 <figure style="min-width:0; margin:0; display:block;">
@@ -47,7 +49,7 @@ Online fraud exploits both human trust and weaknesses in digital platforms. Scam
 2. **Modeling scam progression.** We structure victim-submitted reports into multi-turn conversations organized by a scam lifecycle, with annotations of scammer actions and victim responses. We evaluate whether models can estimate proximity to a scam's termination stage and predict the scammer's next actions, exposing the gap between fluent language generation and understanding escalating risk ([COLM'26](https://xusheng-xiao.github.io/papers/prescam_colm2026.pdf)).
 3. **Detecting fraud in decentralized markets.** We combine transaction analysis, relationships among accounts, and machine learning to identify scam tokens and characterize rug pulls, colluding addresses, and victim exposure on decentralized exchanges ([SIGMETRICS'22](https://xusheng-xiao.github.io/papers/uniswap.pdf)).
 
-## Mobile App Analysis {#mobile-app-analysis}
+## {% include research-icon.html project="mobile-app" %} Mobile App Analysis {#mobile-app-analysis}
 
 <img alt="Combining mobile app behavior and user interface analysis" src="https://xusheng-xiao.github.io/images/mobile.png" style="width:650px; max-width:100%; height:auto;" />
 
@@ -67,7 +69,7 @@ Mobile apps can access sensitive data for legitimate functionality or abuse the 
 * [NSF #2318486](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2318486): Collaborative Research: EAGER: Enhancing Security and Privacy of Augmented Reality Mobile Applications through Software Behavior Analysis.
 * [NSF #1755772](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1755772): CRII: SaTC: Enhancing Mobile App Security by Detecting Icon-Behavior Contradiction.
 
-## Blockchain and Smart Contract {#blockchain-and-smart-contract}
+## {% include research-icon.html project="blockchain" %} Blockchain and Smart Contract {#blockchain-and-smart-contract}
 
 <figure style="max-width:850px; margin:1.5em 0;">
   <a href="https://xusheng-xiao.github.io/papers/vFix_ICSME2024.pdf"><img src="/images/vfix-figure4.png" alt="vFix Figure 4: smart contract vulnerability detection, security patch generation, and verification" style="width:100%; height:auto;" loading="lazy" /></a>
@@ -83,7 +85,7 @@ Blockchain applications must coordinate across isolated networks, faithfully imp
 
 * Open-source projects: [HyperService](https://github.com/HyperService-Consortium) and [vFix](https://github.com/vfixresearch/vFix).
 
-## Software Testing and Program Analysis {#software-testing-and-program-analysis}
+## {% include research-icon.html project="software-analysis" %} Software Testing and Program Analysis {#software-testing-and-program-analysis}
 
 <div class="research-figure-row" style="display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1.25rem; align-items:center; margin:1.5em 0;">
 <figure style="min-width:0; margin:0; display:block;">
