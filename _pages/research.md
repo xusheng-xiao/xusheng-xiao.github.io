@@ -19,13 +19,7 @@ RISE lab developes system security techniques that **monitors software behaviors
 * See our papers at [VLDB'16](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/behaviorquery-vldb2016.pdf), [CCS'16](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/reduction-ccs.pdf), [USENIX ATC'18](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/aiql-usenix_atc2018_0.pdf), [USENIX Security'18](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/sec18-final146.pdf), [CCS' 18](http://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/nodemerge-ccs2018.pdf), [ICDE'20](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/aptrace-camera-ready.pdf), [ICDE'21](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/threatraptor-icde21_0.pdf), [USENIX Security'22](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/sec22summer_fang.pdf), [IEEE S&P'22](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/depcomm-ieeesp2022.pdf).
 
 
-**Recent publications**
-
-* **ProGQL: A Provenance Graph Query System for Cyber Attack Investigation** — [ICDE'26](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf), [arXiv](https://arxiv.org/abs/2510.22400).
-* **CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence** — [COLM'24](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf).
-* **NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation** — [NDSS'24](https://xusheng-xiao.github.io/papers/nodlink-ndss.pdf).
-* **Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools** — [CCS'23](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf).
-* **DISTDET: A Cost-Effective Distributed Cyber Threat Detection System** — [USENIX Security'23](https://xusheng-xiao.github.io/papers/usenixsecurity23-distdet.pdf).
+* Our recent work advances **scalable, intelligence-guided cyber threat investigation** through provenance graph queries ([ICDE'26](https://xusheng-xiao.github.io/papers/progql_icde2026.pdf)), LLM-powered threat intelligence extraction ([COLM'24](https://xusheng-xiao.github.io/papers/ctikg-colm2024.pdf)), and fine-grained attack detection ([NDSS'24](https://xusheng-xiao.github.io/papers/nodlink-ndss.pdf)). We also study the industrial deployment of provenance-based detection and response ([CCS'23](https://xusheng-xiao.github.io/papers/provenance_study_ccs_2023.pdf)) and develop cost-effective distributed threat detection ([USENIX Security'23](https://xusheng-xiao.github.io/papers/usenixsecurity23-distdet.pdf)).
 
 **NSF awards**
 
@@ -37,11 +31,7 @@ RISE lab developes system security techniques that **monitors software behaviors
 
 RISE lab develops AI-driven techniques to **detect and understand online scams, fraud, and cyber deception**. We combine large language models with insights from psychology to analyze how scammers manipulate victims and how deceptive interactions evolve over time. Specifically, we develop benchmarks for identifying psychological techniques in real-world scams and predicting scam progression from early conversations. We also study cryptocurrency fraud by detecting and characterizing scam tokens on decentralized exchanges.
 
-**Recent publications**
-
-* **PreScam** benchmarks scam progression in multi-turn conversations, including real-time risk estimation and prediction of scammers' next actions. See our paper at [COLM'26](https://xusheng-xiao.github.io/papers/prescam_colm2026.pdf) and [arXiv](https://arxiv.org/abs/2605.12243).
-* **PsyScam** benchmarks psychological techniques in real-world scams and evaluates language models on scam detection and generation. See our paper at [EMNLP'25](https://xusheng-xiao.github.io/papers/psyscam_emnlp_2025.pdf) and [arXiv](https://arxiv.org/abs/2505.15017).
-* **Trade or Trick?** detects and characterizes scam tokens on the Uniswap decentralized exchange using transaction analysis and machine learning. See our paper at [SIGMETRICS'22](https://xusheng-xiao.github.io/papers/uniswap.pdf) and [arXiv](https://arxiv.org/abs/2109.00229).
+* Our recent work studies **psychological manipulation and scam progression** by benchmarking the techniques used in real-world scams ([EMNLP'25](https://xusheng-xiao.github.io/papers/psyscam_emnlp_2025.pdf)) and predicting how risk and scammers' actions evolve across conversations ([COLM'26](https://xusheng-xiao.github.io/papers/prescam_colm2026.pdf)). We also combine transaction analysis and machine learning to detect cryptocurrency scams on decentralized exchanges ([SIGMETRICS'22](https://xusheng-xiao.github.io/papers/uniswap.pdf)).
 
 
 ## Mobile App Analysis {#mobile-app-analysis}
@@ -54,13 +44,8 @@ RISE lab combines program analysis and machine learning techniques to model both
 * The recent work DeepIntent (CCS'19) that detects intention-behavior discrepancies using the synergy of program analysis and deep learning releases the code and the complete dataset (including example dataset) at [Github](https://github.com/deepintent-ccs/DeepIntent/).
 
 
-**Recent publications**
-
-* **An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks** — [ASE'26](https://xusheng-xiao.github.io/papers/ar_study_ase2026.pdf). <span aria-hidden="true">🏆</span> **ACM SIGSOFT Distinguished Paper Award**.
-* **AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps** — [ASE'25](https://xusheng-xiao.github.io/papers/appbds-ase2025.pdf).
-* **Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph** — [NDSS'25](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf).
-* **MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty** — [ICSE'24](https://xusheng-xiao.github.io/papers/uncertainty_icse_cr.pdf).
-* **WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs** — [ASE'23](https://xusheng-xiao.github.io/papers/wemint-ase2023.pdf).
+* Our recent work strengthens **mobile privacy analysis and behavior understanding** through LLM-powered descriptions of sensitive behaviors ([ASE'25](https://xusheng-xiao.github.io/papers/appbds-ase2025.pdf)), detection and explanation of malware promotion ([NDSS'25](https://xusheng-xiao.github.io/papers/adgpe_ndss2025.pdf)), uncertainty-aware malware detection ([ICSE'24](https://xusheng-xiao.github.io/papers/uncertainty_icse_cr.pdf)), and sensitive data leak analysis in mini-programs ([ASE'23](https://xusheng-xiao.github.io/papers/wemint-ase2023.pdf)).
+* <span aria-hidden="true">🏆</span> Our study of **security and privacy risks in Android augmented reality apps** ([ASE'26](https://xusheng-xiao.github.io/papers/ar_study_ase2026.pdf)) received the **ACM SIGSOFT Distinguished Paper Award**.
 
 **NSF awards**
 
@@ -75,12 +60,7 @@ RISE lab develops software analysis and system analysis techniques for blockchai
 * It is open sourced at [Github](https://github.com/HyperService-Consortium). 
 * Our recent work also studies digital asset trading platforms ([SIGMETRICS'22](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/uniswap.pdf)).
 
-**Recent publications**
-
-* **vFix: Facilitating Software Maintenance of Smart Contracts via Automatically Fixing Vulnerabilities** — [ICSME'24](https://xusheng-xiao.github.io/papers/vFix_ICSME2024.pdf).
-* **iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements** — [ISSTA'23](https://xusheng-xiao.github.io/papers/iSyn_issta.pdf).
-* **Making Web 3.0 Connected - A Perspective from Interoperability and Programmability across Blockchains** — [IEEE TDSC'22](https://xusheng-xiao.github.io/papers/hyperservice-tdsc21.pdf).
-* **Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange** — [SIGMETRICS'22](https://xusheng-xiao.github.io/papers/uniswap.pdf), [arXiv](https://arxiv.org/abs/2109.00229).
+* Our recent work advances **secure and programmable blockchain systems** through automated vulnerability repair ([ICSME'24](https://xusheng-xiao.github.io/papers/vFix_ICSME2024.pdf)), smart contract synthesis from legal financial agreements ([ISSTA'23](https://xusheng-xiao.github.io/papers/iSyn_issta.pdf)), and cross-blockchain interoperability and programmability ([IEEE TDSC'22](https://xusheng-xiao.github.io/papers/hyperservice-tdsc21.pdf)). We also investigate fraud in decentralized trading platforms ([SIGMETRICS'22](https://xusheng-xiao.github.io/papers/uniswap.pdf)).
 
 ## Software Testing and Program Analysis {#software-testing-and-program-analysis}
 
@@ -89,10 +69,4 @@ RISE lab develops static program analysis techniques and dynamic symbolic execut
 * Check out the open sourced tools for [Covana](http://pexase.codeplex.com/wikipage?title=Covana&referringTitle=Home), [APIInfer](https://research.csc.ncsu.edu/ase/projects/pint/).
 
 
-**Recent publications**
-
-* **Specification-Guided Detection of ISA Conformance Bugs in RISC-V Emulators** — [ICSE'27](/publications/#2027).
-* **Agent+P: Guiding UI Agents via Symbolic Planning** — [AACL-IJCNLP'26](/publications/#2026).
-* **Your Harness is Not Secure: Benchmarking Real-world Threat of Command Line Interface Agent** — [EMNLP'26](/publications/#2026).
-* **WebEvo: Taming Web Application Evolution via Detecting Semantic Structure Change** — [ISSTA'21](https://xusheng-xiao.github.io/papers/webevo-cr.pdf).
-* **DroidMutator: An Effective Mutation Analysis Tool for Android Applications** — [ICSE'20 Demo](https://xusheng-xiao.github.io/papers/icse_tooldemo_2020_droidmutator_1.pdf).
+* Our recent work improves **software reliability and AI agent assurance** through specification-guided conformance testing of RISC-V emulators ([ICSE'27](/publications/#2027)), symbolic planning for UI agents ([AACL-IJCNLP'26](/publications/#2026)), and security evaluation of command line agents ([EMNLP'26](/publications/#2026)). We also develop techniques for detecting semantic changes in evolving web applications ([ISSTA'21](https://xusheng-xiao.github.io/papers/webevo-cr.pdf)) and mutation analysis for Android applications ([ICSE'20](https://xusheng-xiao.github.io/papers/icse_tooldemo_2020_droidmutator_1.pdf)).
