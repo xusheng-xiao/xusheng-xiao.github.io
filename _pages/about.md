@@ -14,12 +14,11 @@ Dr. Xusheng Xiao leads the **Reliable, Intelligent, Secure, and Efficient (RISE)
 
 ### Research Areas
 
-- **AI for Software Engineering and Program Analysis**
-- **LLM-Powered Cybersecurity, Fraud, and Deception Analysis**
-- **Cyber Threat Detection, Investigation, and Attribution**
-- **Automated Vulnerability Discovery, Repair, and Software Assurance**
-- **Mobile and Android Ecosystem Security**
-- **Blockchain and Smart Contract Security**
+- **[Cyber Threat Detection and Investigation](/research/#cyber-threat-detection-and-investigation)**
+- **[Online Scam/Fraud and Cyber Deception](/research/#online-scam-fraud-and-cyber-deception)**
+- **[Mobile App Analysis](/research/#mobile-app-analysis)**
+- **[Blockchain and Smart Contract](/research/#blockchain-and-smart-contract)**
+- **[Software Testing and Program Analysis](/research/#software-testing-and-program-analysis)**
 
 His research in cyber threat investigation has been integrated into a [security product](https://www.nec.com/en/global/techrep/journal/g16/n01/160110.html) at NEC, which received the [Grand Prix Award at CEATEC 2016](http://archive.ceatec.com/2016/en/award/award01_02.html#awtown). His research in an empirical study of Android AR apps pioneered the research of AR security, and received an ACM Distinguished Paper Award in [ASE 2026](https://conf.researchr.org/home/ase-2026). His lab developed [HyperService](https://github.com/HyperService-Consortium), a pioneering blockchain interoperability platform with programmability and strong security guarantees across heterogeneous blockchains, which was presented at [IEEE Blockchain Cleveland](http://www.clevelandieee.org/events/hyperservice-interoperability-and-programmability-across-heterogeneous-blockchains) and the [Blockland Solutions Conference](https://www.blocklandsolutions.com/page/1435903/speakers). His research in mobile application security produced a static analysis technique that was deployed by [Microsoft Research](https://www.microsoft.com/en-us/research/project/touchdevelop/) and resulted in a U.S. patent. Through collaborations with industry partners, his research has also generated [6 U.S. patents](/publications/#patent).
 
