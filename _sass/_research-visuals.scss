@@ -56,3 +56,41 @@
     opacity: 0.12;
   }
 }
+
+/* Paper figures and concise descriptions for the software catalogue. */
+.software-project {
+  margin: 1.8em 0;
+  padding-bottom: 1.8em;
+  border-bottom: 1px solid #e5e5e5;
+
+  h2 { margin: 0 0 0.8em; font-size: 1.25em; }
+
+  &__body {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+    gap: 1.5em;
+    align-items: center;
+  }
+
+  &__figure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    padding: 0.5em;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+
+    img { display: block; width: 100%; height: auto; max-height: 300px; object-fit: contain; margin: 0; }
+    &:focus-visible { outline: 2px solid #8c1d40; outline-offset: 3px; }
+  }
+
+  &__description p { margin: 0 0 0.8em; }
+  &__links { font-size: 0.9em; }
+}
+
+@media (max-width: 700px) {
+  .software-project__body { grid-template-columns: minmax(0, 1fr); gap: 1em; }
+  .software-project__figure img { max-height: 360px; }
+}
