@@ -25,8 +25,27 @@ author_profile: true
 You can also find my publications at <a href="https://scholar.google.com/citations?user=qVx6V7UAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/13/9656.html">DBLP</a>.
 
 <hr/>
-Go to: [Patent](#patent) \| [2027](#2027) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before) 
+Go to: [Preprints](#preprints) \| [Patent](#patent) \| [2027](#2027) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before)
 <hr/>
+
+<span style="color: black;font-size: 18px;"><a id="preprints" style="color: black;text-decoration: none;">**Preprints**</a></span>
+
+Zichen Liu, Liangyi Huang, Stanley Nguyen, Kha Tu Nguyen, Xinda Wang, and Xusheng Xiao <br/>
+**Not Just Any Example: Security Requirements and Fix Patterns for Guiding LLM Vulnerability Repair** <br/>
+<i>arXiv preprint arXiv:2611.31993</i>, November 2026. \[[PDF](https://arxiv.org/pdf/2611.31993v1)\]\[[arXiv](https://arxiv.org/abs/2611.31993v1)\]
+
+Liangyi Huang, Zichen Liu, Fei Shao, and Xusheng Xiao <br/>
+**LODESTONE: Linking System Events to Threat Intelligence for Evidence-Grounded Cyber Attack Investigation** <br/>
+<i>arXiv preprint arXiv:2611.29932</i>, November 2026. \[[PDF](https://arxiv.org/pdf/2611.29932)\]\[[arXiv](https://arxiv.org/abs/2611.29932)\]
+
+Shang Ma, Chen Yanai, Avichai Ben, Zichen Liu, Yanfang (Fanny) Ye, and Xusheng Xiao <br/>
+**The Anatomy of Scam Scenarios: Large-Scale Characterization and Conversation-Aware Detection** <br/>
+<i>arXiv preprint arXiv:2606.16052</i>, June 2026. \[[PDF](https://arxiv.org/pdf/2606.16052)\]\[[arXiv](https://arxiv.org/abs/2606.16052)\]
+
+Liangyi Huang, Zichen Liu, Fei Shao, Shang Ma, Mengshi Zhang, Zihao Chen, Yanfang (Fanny) Ye, and Xusheng Xiao <br/>
+**GRID: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction** <br/>
+<i>arXiv preprint arXiv:2605.16714</i>, May 2026. \[[PDF](https://arxiv.org/pdf/2605.16714)\]\[[arXiv](https://arxiv.org/abs/2605.16714)\]
+
 
 <span style="color: black;font-size: 18px;"><a id="2027" style="color: black;text-decoration: none;">**2027**</a></span>
 
