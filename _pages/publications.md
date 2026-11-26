@@ -25,7 +25,7 @@ author_profile: true
 You can also find my publications at <a href="https://scholar.google.com/citations?user=qVx6V7UAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/13/9656.html">DBLP</a>.
 
 <hr/>
-Go to: [Preprints](#preprints) \| [Patent](#patent) \| [2027](#2027) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [2021](#2021) \| [2020](#2020)  \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [Before 2015](#before)
+Go to: [Preprints](#preprints) \| [Patent](#patent) \| [2027](#2027) \| [2026](#2026) \| [2025](#2025) \| [2024](#2024) \| [2023](#2023) \| [2022](#2022) \| [Before 2022](#before-2022)
 <hr/>
 
 <span style="color: black;font-size: 18px;"><a id="preprints" style="color: black;text-decoration: none;">**Preprints**</a></span>
@@ -216,7 +216,7 @@ William C Oltjen, Yangxin Fan, Jiqi Liu, Liangyi Huang, Xuanji Yu, Mengjie Li, H
 <i>[In Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC)](https://ieee-pvsc.org/PVSC49/)</i>, San Juan, Puerto Rico, 2022. \[[PDF](https://xusheng-xiao.github.io/papers/fairification.pdf)\]
 
 
-<span style="color: black;font-size: 18px;"><a id="2021" style="color: black;text-decoration: none;">**2021**</a></span>
+<span id="before-2022" style="color: black;font-size: 18px;"><a id="2021" style="color: black;text-decoration: none;">**2021**</a></span>
 
 Fei Shao, Rui Xu, Wasif Haque, Jingwei Xu, Ying Zhang, Wei Yang, Yanfang Ye, and Xusheng Xiao<br/>
 **WebEvo: Taming Web Application Evolution via Detecting Semantic Structure Change**<br/> 
