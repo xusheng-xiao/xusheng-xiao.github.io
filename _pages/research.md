@@ -35,6 +35,7 @@ Stealthy, multi-stage attacks hide malicious actions among vast amounts of ordin
 
 We also benchmark the misuse of command line agents on security tasks and end-to-end attack chains to understand emerging AI-enabled threats ([EMNLP'26](https://aclanthology.org/2026.findings-emnlp.491/)).
 
+* Our cyber threat investigation research received the ***[Samsung GRO Award](https://www.sait.samsung.co.kr/saithome/about/collabo_overview.do)***.
 * Our attack investigation research was a finalist for the ***[CSAW Best Applied Security Paper Award 2018](https://csaw.engineering.nyu.edu/)***. The security intelligence solution built by our team won first place in the ***[Town Life and Society Innovation Category at CEATEC](http://www.ceatec.com/en/award/award01_02.html)***. Project websites: [AIQL](https://sites.google.com/site/aiqlsystem/) and [SAQL](https://sites.google.com/site/saqlsystem/).
 * Open-source projects: [ProGQL](https://github.com/ProGQL/ProGQL), [CTIKG](https://github.com/ctikgresearch/GTIKGResearch), [DepComm](https://github.com/ieeesp2021sub/depcomm), and [DepImpact](https://github.com/usenixsub/DepImpact).
 
