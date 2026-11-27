@@ -94,3 +94,16 @@
   .software-project__body { grid-template-columns: minmax(0, 1fr); gap: 1em; }
   .software-project__figure img { max-height: 360px; }
 }
+
+.software-project {
+  &__body--text { display: block; }
+  &__examples {
+    margin-top: 1.25em;
+
+    figure { display: block; margin: 1.25em 0 0; width: 100%; max-width: 850px; }
+    a { display: block; }
+    img { display: block; width: 100%; height: auto; max-height: 600px; object-fit: contain; margin: 0; background: #fff; }
+    figcaption { margin: 0.65em 0 0; font-size: 0.85em; color: #514b57; }
+    figcaption a { display: inline; }
+  }
+}

@@ -37,7 +37,7 @@ We also benchmark the misuse of command line agents on security tasks and end-to
 
 * Our cyber threat investigation research received the ***[Samsung GRO Award](https://www.sait.samsung.co.kr/saithome/about/collabo_overview.do)***.
 * Our attack investigation research was a finalist for the ***[CSAW Best Applied Security Paper Award 2018](https://csaw.engineering.nyu.edu/)***. The security intelligence solution built by our team won first place in the ***[Town Life and Society Innovation Category at CEATEC](http://www.ceatec.com/en/award/award01_02.html)***. Project websites: [AIQL](https://sites.google.com/site/aiqlsystem/) and [SAQL](https://sites.google.com/site/saqlsystem/).
-* Open-source projects: [ProGQL](https://github.com/ProGQL/ProGQL), [CTIKG](https://github.com/ctikgresearch/GTIKGResearch), [DepComm](https://github.com/ieeesp2021sub/depcomm), and [DepImpact](https://github.com/usenixsub/DepImpact).
+* Open-source projects: [ProGQL](/software/#progql) ([code](https://github.com/ProGQL/ProGQL)), [CTIKG](/software/#ctikg) ([code](https://github.com/ctikgresearch/GTIKGResearch)), [DepComm](/software/#depcomm) ([code](https://github.com/ieeesp2021sub/depcomm)), and [DepImpact](/software/#depimpact) ([code](https://github.com/usenixsub/DepImpact)).
 
 **NSF awards**
 
@@ -64,7 +64,7 @@ Online fraud exploits both human trust and weaknesses in digital platforms. Scam
 3. **Detecting scam scenarios and characterizing campaigns.** We derive a hierarchical taxonomy of recurring scam scenarios from incident reports and analyze their psychological techniques, operational goals, and reused infrastructure. We transfer this scenario-level knowledge to conversation-aware detection in financial-institution customer interactions, supporting timely warnings and intervention ([arXiv'26](https://arxiv.org/abs/2606.16052)).
 4. **Detecting fraud in decentralized markets.** We combine transaction analysis, relationships among accounts, and machine learning to identify scam tokens and characterize rug pulls, colluding addresses, and victim exposure on decentralized exchanges ([SIGMETRICS'22](https://xusheng-xiao.github.io/papers/uniswap.pdf)).
 
-* Open-source project and dataset: [PsyScam](https://github.com/KiteFlyKid/PsyScam), with additional materials at [Open Science](https://anonymous.4open.science/r/PsyScam-66E4/README.md).
+* Open-source project and dataset: [PsyScam](/software/#psyscam) ([code](https://github.com/KiteFlyKid/PsyScam)), with additional materials at [Open Science](https://anonymous.4open.science/r/PsyScam-66E4/README.md).
 
 ## {% include research-icon.html project="mobile-app" %} Mobile App Analysis {#mobile-app-analysis}
 
@@ -79,8 +79,8 @@ Mobile apps can access sensitive data for legitimate functionality or abuse the 
 
 * <span aria-hidden="true">🏆</span> Our Android AR privacy study ([ASE'26](https://xusheng-xiao.github.io/papers/ar_study_ase2026.pdf)) received the **ACM SIGSOFT Distinguished Paper Award**.
 * Our mobile security research was a finalist for the ***[CSAW Best Applied Security Paper Award 2015](https://csaw.engineering.nyu.edu/)***. Our work on user-aware information-flow control ([ASE'12](https://xusheng-xiao.github.io/papers/xusheng-ase2012.pdf)) was deployed in Microsoft Research's TouchDevelop.
-* Open-source projects: [DeepIntent](https://github.com/deepintent-ccs/DeepIntent/), [AppBDS](https://github.com/AppBDS/AppBDS), [AdGPE](https://github.com/AppPromotionAdsResearch/AdGPE), [DescribeCtx](https://github.com/DescribeCTX/DescribeCTX), [ProMal](https://github.com/promal-android/Promal), and [CHAMP / UBCFinder](https://github.com/UBCFinder/UBCFinder).
-* Related tools and project websites: [AppContext](https://sites.google.com/site/asergrp/projects/appcontext) and [WHYPER](https://sites.google.com/site/whypermission/).
+* Open-source projects: [DeepIntent](/software/#deepintent) ([code](https://github.com/deepintent-ccs/DeepIntent/)), [AppBDS](/software/#appbds) ([code](https://github.com/AppBDS/AppBDS)), [AdGPE](/software/#adgpe) ([code](https://github.com/AppPromotionAdsResearch/AdGPE)), [DescribeCtx](/software/#describectx) ([code](https://github.com/DescribeCTX/DescribeCTX)), [ProMal](/software/#promal) ([code](https://github.com/promal-android/Promal)), and [CHAMP / UBCFinder](/software/#champ) ([code](https://github.com/UBCFinder/UBCFinder)), [AppContext](/software/#appcontext), and [WHYPER](/software/#whyper).
+* Related tools and project websites: [AppContext](/software/#appcontext) ([code](https://sites.google.com/site/asergrp/projects/appcontext)) and [WHYPER](/software/#whyper) ([code](https://sites.google.com/site/whypermission/)).
 
 **NSF awards**
 
@@ -102,7 +102,7 @@ Blockchain applications must coordinate across isolated networks, faithfully imp
 3. **Repairing vulnerable smart contracts.** We combine multiple static verification tools, reusable fix patterns, and dependency and pointer analyses to generate security patches. Verification of the patched contract checks that targeted vulnerabilities have been removed while evaluations assess preservation of expected behavior ([ICSME'24](https://xusheng-xiao.github.io/papers/vFix_ICSME2024.pdf)).
 4. **Understanding abuse of decentralized finance.** We analyze trading activity and account relationships to identify fraudulent tokens and characterize rug-pull mechanisms, complementing code-level security with evidence about how contracts are used in real markets ([SIGMETRICS'22](https://xusheng-xiao.github.io/papers/uniswap.pdf)).
 
-* Open-source projects: [HyperService](https://github.com/HyperService-Consortium), [iSyn](https://github.com/smartcontractsyn/iSyn), and [vFix](https://github.com/vfixresearch/vFix).
+* Open-source projects: [HyperService](/software/#hyperservice) ([code](https://github.com/HyperService-Consortium)), [iSyn](/software/#isyn) ([code](https://github.com/smartcontractsyn/iSyn)), and [vFix](/software/#vfix) ([code](https://github.com/vfixresearch/vFix)).
 
 ## {% include research-icon.html project="software-analysis" %} Software Testing and Program Analysis {#software-testing-and-program-analysis}
 
@@ -127,5 +127,5 @@ Software failures arise when implementations, specifications, and actual executi
 6. **Understanding performance and resource use.** We infer how expensive operations scale with workload to expose performance bottlenecks ([ISSTA'13](https://xusheng-xiao.github.io/papers/deltainfer-issta2013.pdf)), and identify execution phases to adapt CPU frequency while respecting latency requirements ([RTAS'19](https://xusheng-xiao.github.io/papers/rtas2019-final29.pdf)).
 
 * Our software testing research received ***[ICSE SRC Best Project Representing an Innovative Use of Microsoft Technology](https://www.csc.ncsu.edu/news/1347)*** at the [ACM SRC Grand Final 2012](https://src.acm.org/grand-finalists/2012).
-* Open-source projects: [WebEvo](https://github.com/webevoexp/webevo), [DroidMutator](https://github.com/SQS-JLiu/DroidMutator), and [Agent+P](https://github.com/KiteFlyKid/agentp).
-* Related tools and project websites: [APIInfer](https://research.csc.ncsu.edu/ase/projects/pint/) and [Covana](http://pexase.codeplex.com/wikipage?title=Covana&referringTitle=Home).
+* Open-source projects: [API Specification Inference](/software/#apiinfer), [Covana](/software/#covana), [WebEvo](/software/#webevo) ([code](https://github.com/webevoexp/webevo)), [DroidMutator](https://github.com/SQS-JLiu/DroidMutator), and [Agent+P](https://github.com/KiteFlyKid/agentp).
+* Related tools and project websites: [APIInfer](https://research.csc.ncsu.edu/ase/projects/pint/) and [Covana](/software/#covana) ([code](http://pexase.codeplex.com/wikipage?title=Covana&referringTitle=Home)).
